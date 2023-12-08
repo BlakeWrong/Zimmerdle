@@ -3,6 +3,11 @@ var app = (function () {
     
     
   //   EDIT THINGS HERE
+
+  const today = new Date();
+  const startDate = new Date(today);
+  const songsArrayLength = songs.length
+  startDate.setDate(today.getDate() - songsArrayLength + 1);
     
     const HEARDLE_GLITCH_NAME = "Zimmerdle";
     
@@ -12,7 +17,7 @@ var app = (function () {
     
     const HEARDLE_NAME = "Zimmerdle";
     
-    const HEARDLE_START_DATE = "2023-12-08";
+    const HEARDLE_START_DATE = startDate.toISOString().split('T')[0];
     
     // make sure you have 7 comments here
     const HEARDLE_GAME_COMMENTS = [
