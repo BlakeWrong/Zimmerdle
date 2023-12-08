@@ -12,7 +12,7 @@ var app = (function () {
     
     const HEARDLE_NAME = "Zimmerdle";
     
-    const HEARDLE_START_DATE = "2023-12-07";
+    const HEARDLE_START_DATE = "2023-12-08";
     
     // make sure you have 7 comments here
     const HEARDLE_GAME_COMMENTS = [
