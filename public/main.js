@@ -9513,7 +9513,6 @@ var app = (function () {
 
 		function x(e) {
 			var t = Yn(e, 'YYYY-MM-DD');
-			console.log('day?? => ', Yn().diff(t, 'days'));
 			return Yn().diff(t, 'days');
 		}
 		null == localStorage.getItem('firstTime') &&
