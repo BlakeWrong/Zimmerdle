@@ -3815,7 +3815,7 @@ var app = (function () {
 					(n.innerHTML =
 						'<p class="mb-3">A clone of <a href="https://www.heardle.app/" title="Heardle">Heardle</a> for ' +
 						HEARDLE_ARTIST +
-						' songs.</p><p class="mb-3">Each Heardle is curated daily by the app\'s maintainer, and brought to you via Soundcloud</p> \n\n<p class="mb-3">Remixed and extended by <a href="https://github.com/BTDubbzzz">@BTDubbzzz</a>. All copyright goes to the respective artists, companies, and other relevant parties.</p> <p class="mb-3"></p> \n\n\n\n <p class="mb-3"></p>  \n\n\n\n <p class="text-xs mb-3 text-custom-line">Songs from <a href="https://soundcloud.com">Soundcloud</a>\n and powered by <a href="https://www.heroku.com/">Heroku</a>. Find the source code <a href="https://github.com/BTDubbzzz/Zimmerdle">here.</a>\n Based off <a href="https://glitch.com/edit/#!/harry-styles-heardle">this app.</a>'),
+						' songs.</p><p class="mb-3">Each Heardle is curated daily by the app\'s maintainer, and brought to you via Soundcloud.</p> \n\n<p class="mb-3">Remixed and extended by <a href="https://github.com/BTDubbzzz">@BTDubbzzz</a>. All copyright goes to the respective artists, companies, and other relevant parties.</p> <p class="mb-3"></p> \n\n\n\n <p class="mb-3"></p>  \n\n\n\n <p class="text-xs mb-3 text-custom-line">Songs from <a href="https://soundcloud.com">Soundcloud</a>\n and powered by <a href="https://www.heroku.com/">Heroku</a>. Find the source code <a href="https://github.com/BTDubbzzz/Zimmerdle">here.</a>\n Based off <a href="https://glitch.com/edit/#!/harry-styles-heardle">this app.</a>'),
 					M(n, 'class', 'text');
 			},
 			m(e, t) {
