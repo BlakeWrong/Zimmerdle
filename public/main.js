@@ -1,6 +1,8 @@
 var app = (function () {
 	'use strict';
 
+	// IN SONGS.JS: TO SET THE SONG FOR A GIVEN DAY, CALCULATE HOW MANY DAYS SINCE 2023-12-05 AND PUT IT AT THAT INDEX IN THE SONGS ARRAY
+
 	// encode timestamps in songs.js like this - https://soundcloud.com/hans-zimmer-official/s-t-a-y?in=hans-zimmer-official/sets/interstellar-original-motion-3/?#t=30
 	// where t is seconds
 
@@ -9,6 +11,9 @@ var app = (function () {
 	//    todo:
 
 	//    add more movies/songs
+	//    clean up the date logic to allow for frontloading answers in advance and that the time rollover will handle it in a predictable order
+	//
+	//    why does the page reload when re-focused by windows
 	//    make it so that user can guess just the movie
 	//    archive??
 	//    switch to spotify api so you can do more timestamps?
@@ -16,18 +21,19 @@ var app = (function () {
 
 	//   EDIT THINGS HERE
 
-	const today = new Date();
-	const startDate = new Date(today);
+	// const today = new Date();
+	// const startDate = new Date(today);
+	// startDate.setDate(today.getDate() - songsArrayLength + 1);
+	// const HEARDLE_START_DATE = startDate.toISOString().split('T')[0];
 	const songsArrayLength = songs.length;
-	startDate.setDate(today.getDate() - songsArrayLength + 1);
+
+	const HEARDLE_START_DATE = '2023-12-05';
 
 	const HEARDLE_URL = 'https://www.zimmerdle.app';
 
 	const HEARDLE_ARTIST = 'Movie Score/Soundtrack';
 
 	const HEARDLE_NAME = 'Zimmerdle';
-
-	const HEARDLE_START_DATE = startDate.toISOString().split('T')[0];
 
 	// make sure you have 7 comments here
 	const HEARDLE_GAME_COMMENTS = [
@@ -9440,11 +9446,12 @@ var app = (function () {
 	function jn(e, t, n) {
 		let r, s, i, o;
 		u(e, Cn, (e) => n(26, (r = e))), u(e, On, (e) => n(27, (s = e)));
-		let a = x(Vt.startDate),
+		// a is days since start
+		let daysSinceStart = x(Vt.startDate),
 			l = {
-				url: s[a].url,
-				correctAnswer: s[a].answer,
-				id: a,
+				url: s[daysSinceStart].url,
+				correctAnswer: s[daysSinceStart].answer,
+				id: daysSinceStart,
 				guessList: [],
 				hasFinished: !1,
 				hasStarted: !1,
@@ -9461,7 +9468,7 @@ var app = (function () {
 				document.addEventListener(
 					d,
 					function () {
-						document[c] || a === x(Vt.startDate) || location.reload(!0);
+						document[c] || daysSinceStart === x(Vt.startDate);
 					},
 					!1
 				);
@@ -9488,7 +9495,7 @@ var app = (function () {
 				gameIsActive: !1,
 				musicIsPlaying: !1,
 				playerIsReady: !1,
-				isPrime: a >= 7,
+				isPrime: daysSinceStart >= 7,
 			};
 		let k = {
 			isActive: !1,
@@ -9506,6 +9513,7 @@ var app = (function () {
 
 		function x(e) {
 			var t = Yn(e, 'YYYY-MM-DD');
+			console.log('day?? => ', Yn().diff(t, 'days'));
 			return Yn().diff(t, 'days');
 		}
 		null == localStorage.getItem('firstTime') &&
@@ -9522,7 +9530,7 @@ var app = (function () {
 			w,
 			y,
 			k,
-			a,
+			daysSinceStart,
 			p,
 			function (e) {
 				let t = e.detail.currentSong;

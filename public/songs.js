@@ -1,66 +1,67 @@
 let songs = [
 	{
 		url: 'https://soundcloud.com/hans-zimmer-official/dreaming-of-the-crash?in=hans-zimmer-official/sets/interstellar-original-motion-3',
-		answer:
-			'Interstellar  [Expanded Edition] - Dreaming of the Crash - Hans Zimmer',
+		answer: 'Interstellar - Dreaming of the Crash - Hans Zimmer',
 	},
 	{
 		url: 'https://soundcloud.com/hans-zimmer-official/cornfield-chase?in=hans-zimmer-official/sets/interstellar-original-motion-3',
-		answer: 'Interstellar  [Expanded Edition] - Cornfield Chase - Hans Zimmer',
+		answer: 'Interstellar - Cornfield Chase - Hans Zimmer',
 	},
 	{
 		url: 'https://soundcloud.com/hans-zimmer-official/dust?in=hans-zimmer-official/sets/interstellar-original-motion-3',
-		answer: 'Interstellar  [Expanded Edition] - Dust - Hans Zimmer',
+		answer: 'Interstellar - Dust - Hans Zimmer',
 	},
 	{
 		url: 'https://soundcloud.com/hans-zimmer-official/day-one?in=hans-zimmer-official/sets/interstellar-original-motion-3',
-		answer:
-			'Interstellar  [Expanded Edition] - Day One (Interstellar Theme) - Hans Zimmer',
+		answer: 'Interstellar - Day One (Interstellar Theme) - Hans Zimmer',
 	},
 	{
 		url: 'https://soundcloud.com/hans-zimmer-official/stay?in=hans-zimmer-official/sets/interstellar-original-motion-3',
-		answer: 'Interstellar  [Expanded Edition] - Stay - Hans Zimmer',
+		answer: 'Interstellar - Stay - Hans Zimmer',
 	},
 	{
 		url: 'https://soundcloud.com/hans-zimmer-official/message-from-home?in=hans-zimmer-official/sets/interstellar-original-motion-3',
-		answer: 'Interstellar  [Expanded Edition] - Message from Home - Hans Zimmer',
+		answer: 'Interstellar - Message from Home - Hans Zimmer',
 	},
 	{
 		url: 'https://soundcloud.com/hans-zimmer-official/the-wormhole?in=hans-zimmer-official/sets/interstellar-original-motion-3',
-		answer: 'Interstellar  [Expanded Edition] - The Wormhole - Hans Zimmer',
+		answer: 'Interstellar - The Wormhole - Hans Zimmer',
+	},
+	{
+		url: 'https://soundcloud.com/martin-marinov/trevor-rabin-national-treasure?#t=79',
+		answer: 'National Treasure - Main Titles - Trevor Rabin',
 	},
 	{
 		url: 'https://soundcloud.com/hans-zimmer-official/mountains?in=hans-zimmer-official/sets/interstellar-original-motion-3',
-		answer: 'Interstellar  [Expanded Edition] - Mountains - Hans Zimmer',
+		answer: 'Interstellar - Mountains - Hans Zimmer',
 	},
 	{
 		url: 'https://soundcloud.com/hans-zimmer-official/afraid-of-time?in=hans-zimmer-official/sets/interstellar-original-motion-3',
-		answer: 'Interstellar  [Expanded Edition] - Afraid of Time - Hans Zimmer',
+		answer: 'Interstellar - Afraid of Time - Hans Zimmer',
 	},
 	{
 		url: 'https://soundcloud.com/hans-zimmer-official/a-place-among-the-stars?in=hans-zimmer-official/sets/interstellar-original-motion-3',
-		answer:
-			'Interstellar  [Expanded Edition] - A Place Among the Stars - Hans Zimmer',
+		answer: 'Interstellar - A Place Among the Stars - Hans Zimmer',
 	},
 	{
 		url: 'https://soundcloud.com/hans-zimmer-official/running-out?in=hans-zimmer-official/sets/interstellar-original-motion-3',
-		answer: 'Interstellar  [Expanded Edition] - Running Out - Hans Zimmer',
+		answer: 'Interstellar - Running Out - Hans Zimmer',
 	},
 	{
 		url: 'https://soundcloud.com/hans-zimmer-official/im-going-home?in=hans-zimmer-official/sets/interstellar-original-motion-3',
-		answer: "Interstellar  [Expanded Edition] - I'm Going Home - Hans Zimmer",
+		answer: "Interstellar - I'm Going Home - Hans Zimmer",
 	},
 	{
 		url: 'https://soundcloud.com/hans-zimmer-official/coward?in=hans-zimmer-official/sets/interstellar-original-motion-3',
-		answer: 'Interstellar  [Expanded Edition] - Coward - Hans Zimmer',
+		answer: 'Interstellar - Coward - Hans Zimmer',
 	},
 	{
 		url: 'https://soundcloud.com/hans-zimmer-official/detach?in=hans-zimmer-official/sets/interstellar-original-motion-3',
-		answer: 'Interstellar  [Expanded Edition] - Detach - Hans Zimmer',
+		answer: 'Interstellar - Detach - Hans Zimmer',
 	},
 	{
 		url: 'https://soundcloud.com/hans-zimmer-official/s-t-a-y?in=hans-zimmer-official/sets/interstellar-original-motion-3',
-		answer: 'Interstellar  [Expanded Edition] - S.T.A.Y. - Hans Zimmer',
+		answer: 'Interstellar - S.T.A.Y. - Hans Zimmer',
 	},
 	{
 		url: 'https://soundcloud.com/trevor-rabin/national-treasure-suite?in=trevor-rabin/sets/national-treasure-1',
@@ -4279,7 +4280,63 @@ let songs = [
 		answer: "Rocky - Rocky's Reward - Bill Conti",
 	},
 	{
-		url: 'https://soundcloud.com/martin-marinov/trevor-rabin-national-treasure?#t=79',
-		answer: 'National Treasure - Main Titles - Trevor Rabin',
+		url: 'https://soundcloud.com/alan-menken/prologue-beauty-and-the-beast?in=alan-menken/sets/beauty-and-the-beast-7815688',
+		answer: 'Beauty and the Beast - Prologue: Beauty and the Beast - Alan Menken',
+	},
+	{
+		url: 'https://soundcloud.com/chorus-beauty-and-the-beast/belle-1?in=alan-menken/sets/beauty-and-the-beast-7815688',
+		answer: 'Beauty and the Beast - Belle - Alan Menken',
+	},
+	{
+		url: 'https://soundcloud.com/paige-ohara-official/belle-reprise-soundtrack?in=alan-menken/sets/beauty-and-the-beast-7815688',
+		answer: 'Beauty and the Beast - Belle Reprise - Alan Menken',
+	},
+	{
+		url: 'https://soundcloud.com/chorus-beauty-and-the-beast/gaston-from-beauty-and-the?in=alan-menken/sets/beauty-and-the-beast-7815688',
+		answer: 'Beauty and the Beast - Gaston - Alan Menken',
+	},
+	{
+		url: 'https://soundcloud.com/jesse-corti/gaston-reprise-from-beauty-and?in=alan-menken/sets/beauty-and-the-beast-7815688',
+		answer: 'Beauty and the Beast - Gaston (Reprise) - Alan Menken',
+	},
+	{
+		url: 'https://soundcloud.com/chorus-beauty-and-the-beast/be-our-guest?in=alan-menken/sets/beauty-and-the-beast-7815688',
+		answer: 'Beauty and the Beast - Be Our Guest - Alan Menken',
+	},
+	{
+		url: 'https://soundcloud.com/angela-lansbury-official/something-there-from-beauty?in=alan-menken/sets/beauty-and-the-beast-7815688',
+		answer: 'Beauty and the Beast - Something There - Alan Menken',
+	},
+	{
+		url: 'https://soundcloud.com/chorus-beauty-and-the-beast/the-mob-song?in=alan-menken/sets/beauty-and-the-beast-7815688',
+		answer: 'Beauty and the Beast - The Mob Song - Alan Menken',
+	},
+	{
+		url: 'https://soundcloud.com/angela-lansbury-official/beauty-and-the-beast-from?in=alan-menken/sets/beauty-and-the-beast-7815688',
+		answer: 'Beauty and the Beast - Beauty and the Beast - Alan Menken',
+	},
+	{
+		url: 'https://soundcloud.com/alan-menken/to-the-fair?in=alan-menken/sets/beauty-and-the-beast-7815688',
+		answer: 'Beauty and the Beast - To The Fair - Alan Menken',
+	},
+	{
+		url: 'https://soundcloud.com/alan-menken/west-wing?in=alan-menken/sets/beauty-and-the-beast-7815688',
+		answer: 'Beauty and the Beast - West Wing - Alan Menken',
+	},
+	{
+		url: 'https://soundcloud.com/alan-menken/the-beast-lets-belle-go?in=alan-menken/sets/beauty-and-the-beast-7815688',
+		answer: 'Beauty and the Beast - The Beast Lets Belle Go - Alan Menken',
+	},
+	{
+		url: 'https://soundcloud.com/alan-menken/battle-on-the-tower?in=alan-menken/sets/beauty-and-the-beast-7815688',
+		answer: 'Beauty and the Beast - Battle On The Tower - Alan Menken',
+	},
+	{
+		url: 'https://soundcloud.com/alan-menken/transformation?in=alan-menken/sets/beauty-and-the-beast-7815688',
+		answer: 'Beauty and the Beast - Transformation - Alan Menken',
+	},
+	{
+		url: 'https://soundcloud.com/celinedionofficial/beauty-and-the-beast-celine-1?in=alan-menken/sets/beauty-and-the-beast-7815688',
+		answer: 'Beauty and the Beast - Beauty and the Beast (Duet) - Alan Menken',
 	},
 ];
