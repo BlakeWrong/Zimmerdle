@@ -659,35 +659,35 @@ var app = (function () {
 		};
 	}
 
-	function ye(e) {
-		let t, n;
-		return {
-			c() {
-				(t = k('svg')),
-					(n = k('path')),
-					M(
-						n,
-						'd',
-						'M20.84 4.61a5.5 5.5 0 0 0-7.78 0L12 5.67l-1.06-1.06a5.5 5.5 0 0 0-7.78 7.78l1.06 1.06L12 21.23l7.78-7.78 1.06-1.06a5.5 5.5 0 0 0 0-7.78z'
-					),
-					M(t, 'xmlns', 'http://www.w3.org/2000/svg'),
-					M(t, 'width', '24'),
-					M(t, 'height', '24'),
-					M(t, 'viewBox', '0 0 24 24'),
-					M(t, 'fill', 'none'),
-					M(t, 'stroke', 'currentColor'),
-					M(t, 'stroke-width', '2'),
-					M(t, 'stroke-linecap', 'round'),
-					M(t, 'stroke-linejoin', 'round');
-			},
-			m(e, r) {
-				g(e, t, r), p(t, n);
-			},
-			d(e) {
-				e && y(t);
-			},
-		};
-	}
+	// function ye(e) {
+	// 	let t, n;
+	// 	return {
+	// 		c() {
+	// 			(t = k('svg')),
+	// 				(n = k('path')),
+	// 				M(
+	// 					n,
+	// 					'd',
+	// 					'M20.84 4.61a5.5 5.5 0 0 0-7.78 0L12 5.67l-1.06-1.06a5.5 5.5 0 0 0-7.78 7.78l1.06 1.06L12 21.23l7.78-7.78 1.06-1.06a5.5 5.5 0 0 0 0-7.78z'
+	// 				),
+	// 				M(t, 'xmlns', 'http://www.w3.org/2000/svg'),
+	// 				M(t, 'width', '24'),
+	// 				M(t, 'height', '24'),
+	// 				M(t, 'viewBox', '0 0 24 24'),
+	// 				M(t, 'fill', 'none'),
+	// 				M(t, 'stroke', 'currentColor'),
+	// 				M(t, 'stroke-width', '2'),
+	// 				M(t, 'stroke-linecap', 'round'),
+	// 				M(t, 'stroke-linejoin', 'round');
+	// 		},
+	// 		m(e, r) {
+	// 			g(e, t, r), p(t, n);
+	// 		},
+	// 		d(e) {
+	// 			e && y(t);
+	// 		},
+	// 	};
+	// }
 
 	function ve(e) {
 		let t, n;
@@ -768,17 +768,6 @@ var app = (function () {
 				},
 			})),
 			i.$on('click', e[1]),
-			(a = new ae({
-				props: {
-					$$slots: {
-						default: [ye],
-					},
-					$$scope: {
-						ctx: e,
-					},
-				},
-			})),
-			a.$on('click', e[2]),
 			(h = new ae({
 				props: {
 					$$slots: {
@@ -809,7 +798,6 @@ var app = (function () {
 						(s = w('div')),
 						Q(i.$$.fragment),
 						(o = x()),
-						Q(a.$$.fragment),
 						(l = x()),
 						(u = w('h1')),
 						(u.textContent = HEARDLE_NAME),
@@ -836,7 +824,6 @@ var app = (function () {
 						p(r, s),
 						ee(i, s, null),
 						p(s, o),
-						ee(a, s, null),
 						p(r, l),
 						p(r, u),
 						p(r, c),
@@ -878,18 +865,10 @@ var app = (function () {
 				},
 				i(e) {
 					v ||
-						(Z(i.$$.fragment, e),
-						Z(a.$$.fragment, e),
-						Z(h.$$.fragment, e),
-						Z(m.$$.fragment, e),
-						(v = !0));
+						(Z(i.$$.fragment, e), Z(h.$$.fragment, e), Z(m.$$.fragment, e), (v = !0));
 				},
 				o(e) {
-					q(i.$$.fragment, e),
-						q(a.$$.fragment, e),
-						q(h.$$.fragment, e),
-						q(m.$$.fragment, e),
-						(v = !1);
+					q(i.$$.fragment, e), q(h.$$.fragment, e), q(m.$$.fragment, e), (v = !1);
 				},
 				d(e) {
 					e && y(t), te(i), te(a), te(h), te(m);
@@ -4225,10 +4204,6 @@ var app = (function () {
 						(D = x()),
 						(T = w('div')),
 						(Y = w('div')),
-						(Y.innerHTML =
-							'<span class="text-custom-negative"><svg xmlns="http://www.w3.org/2000/svg" width="18" height="18" viewBox="0 0 24 24" fill="#ff0000" stroke="" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"><path d="M20.84 4.61a5.5 5.5 0 0 0-7.78 0L12 5.67l-1.06-1.06a5.5 5.5 0 0 0-7.78 7.78l1.06 1.06L12 21.23l7.78-7.78 1.06-1.06a5.5 5.5 0 0 0 0-7.78z"></path></svg></span> \n                <span class="px-1">' +
-							HEARDLE_ARTIST +
-							' Heardle?</span>'),
 						(C = x()),
 						Q(O.$$.fragment),
 						M(n, 'class', 'text-lg text-custom-line'),
