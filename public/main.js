@@ -8,9 +8,11 @@ var app = (function () {
 
 	//    todo:
 
-	//    upload favicon
-
-	//    fix songs not loading in search without page refresh
+	//    add more movies/songs
+	//    make it so that user can guess just the movie
+	//    archive??
+	//    switch to spotify api so you can do more timestamps?
+	//
 
 	//   EDIT THINGS HERE
 
