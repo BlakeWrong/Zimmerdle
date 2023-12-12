@@ -19,9 +19,7 @@ var app = (function () {
 	const songsArrayLength = songs.length;
 	startDate.setDate(today.getDate() - songsArrayLength + 1);
 
-	const HEARDLE_GLITCH_NAME = 'Zimmerdle';
-
-	const HEARDLE_URL = 'https://' + HEARDLE_GLITCH_NAME + '.glitch.me/';
+	const HEARDLE_URL = 'https://www.zimmerdle.app';
 
 	const HEARDLE_ARTIST = 'Movie Score/Soundtrack';
 
