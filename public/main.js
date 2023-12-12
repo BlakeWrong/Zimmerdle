@@ -3553,7 +3553,7 @@ var app = (function () {
 		return (
 			(e.$$set = (e) => {
 				// s.pop();   // not sure why this was here or why this works but it might break other stuff
-				console.log('all', s);
+				// console.log('all', s);
 				'allOptions' in e && n(6, (s = e.allOptions)),
 					'currentAttempt' in e && n(0, (i = e.currentAttempt)),
 					'config' in e && n(1, (o = e.config)),
