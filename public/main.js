@@ -2289,6 +2289,18 @@ var app = (function () {
 	}
 
 	function pt(e, t, n, trackStartTime = 0) {
+		function decodeTimestampFromURL(url) {
+			const match = url.match(/[?&]#t=(\d+)/);
+			if (match) {
+				// Convert the timestamp to milliseconds
+				const milliseconds = parseInt(match[1], 10) * 1000;
+
+				return milliseconds;
+			}
+
+			// Return null if the timestamp is not found in the URL
+			return 0;
+		}
 		let r,
 			s,
 			i,
@@ -2328,22 +2340,9 @@ var app = (function () {
 		let D;
 
 		function T() {
-			function decodeTimestampFromURL(url) {
-				const match = url.match(/[?&]#t=(\d+)/);
-				if (match) {
-					// Convert the timestamp to milliseconds
-					const milliseconds = parseInt(match[1], 10) * 1000;
-
-					return milliseconds;
-				}
-
-				// Return null if the timestamp is not found in the URL
-				return 0;
-			}
 			(y = SC.Widget('soundcloud' + h.id)).bind(
 				SC.Widget.Events.READY,
 				function () {
-					trackStartTime = decodeTimestampFromURL(h.url);
 					y.getCurrentSound(function (e) {
 						'BLOCK' === e.policy && n(9, (g = !0)),
 							c('updateSong', {
@@ -2439,6 +2438,8 @@ var app = (function () {
 				p,
 				() => {
 					//play the track in game
+					trackStartTime = decodeTimestampFromURL(h.url);
+
 					y.seekTo(trackStartTime), y.play();
 				},
 				M,

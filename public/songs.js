@@ -4278,4 +4278,8 @@ let songs = [
 		url: 'https://soundcloud.com/bill-conti-official/rockys-reward-from-the-rocky?in=bill-conti-official/sets/rocky-38',
 		answer: "Rocky - Rocky's Reward - Bill Conti",
 	},
+	{
+		url: 'https://soundcloud.com/martin-marinov/trevor-rabin-national-treasure?#t=36',
+		answer: 'National Treasure - Main Titles - Trevor Rabin',
+	},
 ];
