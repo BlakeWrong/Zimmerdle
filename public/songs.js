@@ -32,7 +32,7 @@ let songs = [
 		answer: 'National Treasure - Main Titles - Trevor Rabin',
 	},
 	{
-		url: 'https://soundcloud.com/harper-demoss/red-is-blue',
+		url: 'https://soundcloud.com/harper-demoss/red-is-blue?#t=49',
 		answer: 'Hoodwinked - Red Is Blue - Ben Folds',
 	},
 	{
