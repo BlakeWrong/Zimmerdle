@@ -4929,75 +4929,76 @@ let songs = [
 	},
 	{
 		url: 'https://soundcloud.com/sanne-jonkers/01-the-hunger-games-ost-the?in=schappy/sets/the-hunger-games-soundtrack',
-		answer: 'The Hunger Games - The Hunger Games - schappy',
+		answer: 'The Hunger Games - The Hunger Games - James Newton Howard',
 	},
 	{
 		url: 'https://soundcloud.com/sanne-jonkers/02-katniss-afoot-ost-the?in=schappy/sets/the-hunger-games-soundtrack',
-		answer: 'The Hunger Games - Katniss Afoot - schappy',
+		answer: 'The Hunger Games - Katniss Afoot - James Newton Howard',
 	},
 	{
 		url: 'https://soundcloud.com/sanne-jonkers/03-reaping-day-ost-the-hunger?in=schappy/sets/the-hunger-games-soundtrack',
-		answer: 'The Hunger Games - Reaping Day - schappy',
+		answer: 'The Hunger Games - Reaping Day - James Newton Howard',
 	},
 	{
 		url: 'https://soundcloud.com/sanne-jonkers/04-the-train-ost-the-hunger?in=schappy/sets/the-hunger-games-soundtrack',
-		answer: 'The Hunger Games - The Train - schappy',
+		answer: 'The Hunger Games - The Train - James Newton Howard',
 	},
 	{
 		url: 'https://soundcloud.com/sanne-jonkers/05-entering-the-capitol-ost?in=schappy/sets/the-hunger-games-soundtrack',
-		answer: 'The Hunger Games - Entering the Capitol - schappy',
+		answer: 'The Hunger Games - Entering the Capitol - James Newton Howard',
 	},
 	{
 		url: 'https://soundcloud.com/sanne-jonkers/06-preparing-the-cariots-ost?in=schappy/sets/the-hunger-games-soundtrack',
-		answer: 'The Hunger Games - Preparing the Cariots - schappy',
+		answer: 'The Hunger Games - Preparing the Cariots - James Newton Howard',
 	},
 	{
 		url: 'https://soundcloud.com/sanne-jonkers/07-horn-of-plenty-ost-the?in=schappy/sets/the-hunger-games-soundtrack',
-		answer: 'The Hunger Games - Horn of Plenty - schappy',
+		answer: 'The Hunger Games - Horn of Plenty - James Newton Howard',
 	},
 	{
 		url: 'https://soundcloud.com/sanne-jonkers/08-penthouse-training-ost-the?in=schappy/sets/the-hunger-games-soundtrack',
-		answer: 'The Hunger Games - Penthouse Training - schappy',
+		answer: 'The Hunger Games - Penthouse Training - James Newton Howard',
 	},
 	{
 		url: 'https://soundcloud.com/sanne-jonkers/09-learning-the-skills-ost-the?in=schappy/sets/the-hunger-games-soundtrack',
-		answer: 'The Hunger Games - Learning The Skills - schappy',
+		answer: 'The Hunger Games - Learning The Skills - James Newton Howard',
 	},
 	{
 		url: 'https://soundcloud.com/sanne-jonkers/10-the-countdown-ost-the?in=schappy/sets/the-hunger-games-soundtrack',
-		answer: 'The Hunger Games - The Countdown - schappy',
+		answer: 'The Hunger Games - The Countdown - James Newton Howard',
 	},
 	{
 		url: 'https://soundcloud.com/sanne-jonkers/11-booby-trap-ost-the-hunger?in=schappy/sets/the-hunger-games-soundtrack',
-		answer: 'The Hunger Games - Booby Trap - schappy',
+		answer: 'The Hunger Games - Booby Trap - James Newton Howard',
 	},
 	{
 		url: 'https://soundcloud.com/sanne-jonkers/12-healing-katniss-ost-the?in=schappy/sets/the-hunger-games-soundtrack',
-		answer: 'The Hunger Games - Healing Katniss - schappy',
+		answer: 'The Hunger Games - Healing Katniss - James Newton Howard',
 	},
 	{
 		url: 'https://soundcloud.com/sanne-jonkers/13-rues-fairwell-ost-the?in=schappy/sets/the-hunger-games-soundtrack',
-		answer: "The Hunger Games - Rue's Fairwell - schappy",
+		answer: "The Hunger Games - Rue's Fairwell - James Newton Howard",
 	},
 	{
 		url: 'https://soundcloud.com/sanne-jonkers/14-we-could-go-home-ost-the?in=schappy/sets/the-hunger-games-soundtrack',
-		answer: 'The Hunger Games - We Could Go Home - schappy',
+		answer: 'The Hunger Games - We Could Go Home - James Newton Howard',
 	},
 	{
 		url: 'https://soundcloud.com/sanne-jonkers/15-searching-for-peeta-ost-the?in=schappy/sets/the-hunger-games-soundtrack',
-		answer: 'The Hunger Games - Searching For Peeta - schappy',
+		answer: 'The Hunger Games - Searching For Peeta - James Newton Howard',
 	},
 	{
 		url: 'https://soundcloud.com/sanne-jonkers/16-the-cave-ost-the-hunger?in=schappy/sets/the-hunger-games-soundtrack',
-		answer: 'The Hunger Games - The Cave - schappy',
+		answer: 'The Hunger Games - The Cave - James Newton Howard',
 	},
 	{
 		url: 'https://soundcloud.com/sanne-jonkers/17-muttations-ost-the-hunger?in=schappy/sets/the-hunger-games-soundtrack',
-		answer: 'The Hunger Games - Muttations - schappy',
+		answer: 'The Hunger Games - Muttations - James Newton Howard',
 	},
 	{
 		url: 'https://soundcloud.com/sanne-jonkers/18-tenuous-winners-returning?in=schappy/sets/the-hunger-games-soundtrack',
-		answer: 'The Hunger Games - Tenuous Winners Returning Home - schappy',
+		answer:
+			'The Hunger Games - Tenuous Winners Returning Home - James Newton Howard',
 	},
 	{
 		url: 'https://soundcloud.com/company-into-the-woods-motion-picture-cast/prologue-into-the-woods?in=stephen-sondheim/sets/into-the-woods-9',
@@ -7355,5 +7356,602 @@ let songs = [
 	{
 		url: 'https://soundcloud.com/alan-menken/phils-insel?in=alan-menken/sets/hercules-7',
 		answer: 'Hercules - Phils Insel - Alan Menken',
+	},
+	{
+		url: 'https://soundcloud.com/spider-manmotionpicture/main-title-album-version?in=spider-manmotionpicture/sets/spider-man-original-motion',
+		answer: 'Spider-Man - Main Title - Spider-Man (Motion Picture)',
+	},
+	{
+		url: 'https://soundcloud.com/spider-manmotionpicture/transformations-album-version?in=spider-manmotionpicture/sets/spider-man-original-motion',
+		answer: 'Spider-Man - Transformations - Spider-Man (Motion Picture)',
+	},
+	{
+		url: 'https://soundcloud.com/spider-manmotionpicture/costume-montage-album-version?in=spider-manmotionpicture/sets/spider-man-original-motion',
+		answer: 'Spider-Man - Costume Montage - Spider-Man (Motion Picture)',
+	},
+	{
+		url: 'https://soundcloud.com/spider-manmotionpicture/revenge-album-version?in=spider-manmotionpicture/sets/spider-man-original-motion',
+		answer: 'Spider-Man - Revenge - Spider-Man (Motion Picture)',
+	},
+	{
+		url: 'https://soundcloud.com/spider-manmotionpicture/first-web-album-version?in=spider-manmotionpicture/sets/spider-man-original-motion',
+		answer: 'Spider-Man - First Web - Spider-Man (Motion Picture)',
+	},
+	{
+		url: 'https://soundcloud.com/spider-manmotionpicture/somethings-different-album?in=spider-manmotionpicture/sets/spider-man-original-motion',
+		answer: "Spider-Man - Something's Different - Spider-Man (Motion Picture)",
+	},
+	{
+		url: 'https://soundcloud.com/pete-anthony-official/city-montage-album-version?in=spider-manmotionpicture/sets/spider-man-original-motion',
+		answer: 'Spider-Man - City Montage - Spider-Man (Motion Picture)',
+	},
+	{
+		url: 'https://soundcloud.com/spider-manmotionpicture/alone-album-version?in=spider-manmotionpicture/sets/spider-man-original-motion',
+		answer: 'Spider-Man - Alone - Spider-Man (Motion Picture)',
+	},
+	{
+		url: 'https://soundcloud.com/spider-manmotionpicture/parade-attack-album-version?in=spider-manmotionpicture/sets/spider-man-original-motion',
+		answer: 'Spider-Man - Parade Attack - Spider-Man (Motion Picture)',
+	},
+	{
+		url: 'https://soundcloud.com/peteranthonyofficial/specter-of-the-goblin-album?in=spider-manmotionpicture/sets/spider-man-original-motion',
+		answer: 'Spider-Man - Specter of the Goblin - Spider-Man (Motion Picture)',
+	},
+	{
+		url: 'https://soundcloud.com/spider-manmotionpicture/revelation-album-version?in=spider-manmotionpicture/sets/spider-man-original-motion',
+		answer: 'Spider-Man - Revelation - Spider-Man (Motion Picture)',
+	},
+	{
+		url: 'https://soundcloud.com/peteranthonyofficial/getting-through-album-version?in=spider-manmotionpicture/sets/spider-man-original-motion',
+		answer: 'Spider-Man - Getting Through - Spider-Man (Motion Picture)',
+	},
+	{
+		url: 'https://soundcloud.com/pete-anthony-official/final-confrontation-album?in=spider-manmotionpicture/sets/spider-man-original-motion',
+		answer: 'Spider-Man - Final Confrontation - Spider-Man (Motion Picture)',
+	},
+	{
+		url: 'https://soundcloud.com/spider-manmotionpicture/farewell-album-version-1?in=spider-manmotionpicture/sets/spider-man-original-motion',
+		answer: 'Spider-Man - Farewell - Spider-Man (Motion Picture)',
+	},
+	{
+		url: 'https://soundcloud.com/pete-anthony-official/end-credits-album-version?in=spider-manmotionpicture/sets/spider-man-original-motion',
+		answer: 'Spider-Man - End Credits - Spider-Man (Motion Picture)',
+	},
+	{
+		url: 'https://soundcloud.com/markronson/creation-of-barbie?in=markronson/sets/barbie-score-from-the-original',
+		answer: 'Barbie - Creation of Barbie - Mark Ronson',
+	},
+	{
+		url: 'https://soundcloud.com/markronson/pink-barbie-opening-theme?in=markronson/sets/barbie-score-from-the-original',
+		answer: 'Barbie - Pink ("Barbie” Opening Theme) - Mark Ronson',
+	},
+	{
+		url: 'https://soundcloud.com/markronson/beach-off?in=markronson/sets/barbie-score-from-the-original',
+		answer: 'Barbie - Beach Off - Mark Ronson',
+	},
+	{
+		url: 'https://soundcloud.com/markronson/ken-thinks?in=markronson/sets/barbie-score-from-the-original',
+		answer: 'Barbie - Ken Thinks - Mark Ronson',
+	},
+	{
+		url: 'https://soundcloud.com/markronson/stairway-to-weird-barbie?in=markronson/sets/barbie-score-from-the-original',
+		answer: 'Barbie - Stairway to Weird Barbie - Mark Ronson',
+	},
+	{
+		url: 'https://soundcloud.com/markronson/thoughts-of-death?in=markronson/sets/barbie-score-from-the-original',
+		answer: 'Barbie - Thoughts of Death - Mark Ronson',
+	},
+	{
+		url: 'https://soundcloud.com/markronson/send-me-through-the-portal?in=markronson/sets/barbie-score-from-the-original',
+		answer: 'Barbie - Send Me Through the Portal - Mark Ronson',
+	},
+	{
+		url: 'https://soundcloud.com/markronson/ken-makes-a-discovery?in=markronson/sets/barbie-score-from-the-original',
+		answer: 'Barbie - Ken Makes a Discovery - Mark Ronson',
+	},
+	{
+		url: 'https://soundcloud.com/markronson/bus-stop-billie?in=markronson/sets/barbie-score-from-the-original',
+		answer: 'Barbie - Bus Stop Billie - Mark Ronson',
+	},
+	{
+		url: 'https://soundcloud.com/markronson/mattel?in=markronson/sets/barbie-score-from-the-original',
+		answer: 'Barbie - Mattel - Mark Ronson',
+	},
+	{
+		url: 'https://soundcloud.com/markronson/meeting-ruth?in=markronson/sets/barbie-score-from-the-original',
+		answer: 'Barbie - Meeting Ruth - Mark Ronson',
+	},
+	{
+		url: 'https://soundcloud.com/markronson/lose-these-chuckleheads?in=markronson/sets/barbie-score-from-the-original',
+		answer: 'Barbie - Lose These Chuckleheads - Mark Ronson',
+	},
+	{
+		url: 'https://soundcloud.com/markronson/you-failed-me?in=markronson/sets/barbie-score-from-the-original',
+		answer: 'Barbie - You Failed Me! - Mark Ronson',
+	},
+	{
+		url: 'https://soundcloud.com/markronson/alan-vs-kens?in=markronson/sets/barbie-score-from-the-original',
+		answer: 'Barbie - Allan vs Kens - Mark Ronson',
+	},
+	{
+		url: 'https://soundcloud.com/markronson/deprogramming?in=markronson/sets/barbie-score-from-the-original',
+		answer: 'Barbie - Deprogramming - Mark Ronson',
+	},
+	{
+		url: 'https://soundcloud.com/markronson/warmth-of-your-gaze?in=markronson/sets/barbie-score-from-the-original',
+		answer: 'Barbie - Warmth of Your Gaze - Mark Ronson',
+	},
+	{
+		url: 'https://soundcloud.com/markronson/an-ending?in=markronson/sets/barbie-score-from-the-original',
+		answer: 'Barbie - An Ending - Mark Ronson',
+	},
+	{
+		url: 'https://soundcloud.com/markronson/i-dont-have-an-ending?in=markronson/sets/barbie-score-from-the-original',
+		answer: "Barbie - I Don't Have an Ending - Mark Ronson",
+	},
+	{
+		url: 'https://soundcloud.com/markronson/what-was-i-made-for-epilogue?in=markronson/sets/barbie-score-from-the-original',
+		answer:
+			'Barbie - What Was I Made For? (Epilogue) [Instrumental Version] - Mark Ronson',
+	},
+	{
+		url: 'https://soundcloud.com/camille-official/le-festine?in=michael-giacchino/sets/ratatouille-1',
+		answer: 'Ratatouille - Le Festin - Michael Giacchino',
+	},
+	{
+		url: 'https://soundcloud.com/michael-giacchino/welcome-to-gusteaus?in=michael-giacchino/sets/ratatouille-1',
+		answer: "Ratatouille - Welcome to Gusteau's - Michael Giacchino",
+	},
+	{
+		url: 'https://soundcloud.com/michael-giacchino/this-is-me?in=michael-giacchino/sets/ratatouille-1',
+		answer: 'Ratatouille - This Is Me - Michael Giacchino',
+	},
+	{
+		url: 'https://soundcloud.com/michael-giacchino/grany-get-your-gun?in=michael-giacchino/sets/ratatouille-1',
+		answer: 'Ratatouille - Granny Get Your Gun - Michael Giacchino',
+	},
+	{
+		url: 'https://soundcloud.com/michael-giacchino/100-rat-dash?in=michael-giacchino/sets/ratatouille-1',
+		answer: 'Ratatouille - 100 Rat Dash - Michael Giacchino',
+	},
+	{
+		url: 'https://soundcloud.com/michael-giacchino/wall-rat?in=michael-giacchino/sets/ratatouille-1',
+		answer: 'Ratatouille - Wall Rat - Michael Giacchino',
+	},
+	{
+		url: 'https://soundcloud.com/michael-giacchino/cast-of-cooks?in=michael-giacchino/sets/ratatouille-1',
+		answer: 'Ratatouille - Cast of Cooks - Michael Giacchino',
+	},
+	{
+		url: 'https://soundcloud.com/michael-giacchino/a-real-gourmet-kitchen?in=michael-giacchino/sets/ratatouille-1',
+		answer: 'Ratatouille - A Real Gourmet Kitchen - Michael Giacchino',
+	},
+	{
+		url: 'https://soundcloud.com/michael-giacchino/souped-up?in=michael-giacchino/sets/ratatouille-1',
+		answer: 'Ratatouille - Souped Up - Michael Giacchino',
+	},
+	{
+		url: 'https://soundcloud.com/michael-giacchino/is-it-soup-yet?in=michael-giacchino/sets/ratatouille-1',
+		answer: 'Ratatouille - Is It Soup Yet? - Michael Giacchino',
+	},
+	{
+		url: 'https://soundcloud.com/michael-giacchino/a-new-deal?in=michael-giacchino/sets/ratatouille-1',
+		answer: 'Ratatouille - A New Deal - Michael Giacchino',
+	},
+	{
+		url: 'https://soundcloud.com/michael-giacchino/remy-drives-a-linguini?in=michael-giacchino/sets/ratatouille-1',
+		answer: 'Ratatouille - Remy Drives a Linguini - Michael Giacchino',
+	},
+	{
+		url: 'https://soundcloud.com/michael-giacchino/colette-shows-him-le-ropes?in=michael-giacchino/sets/ratatouille-1',
+		answer: 'Ratatouille - Colette Shows Him Le Ropes - Michael Giacchino',
+	},
+	{
+		url: 'https://soundcloud.com/michael-giacchino/special-order?in=michael-giacchino/sets/ratatouille-1',
+		answer: 'Ratatouille - Special Order - Michael Giacchino',
+	},
+	{
+		url: 'https://soundcloud.com/michael-giacchino/kiss-vinegar?in=michael-giacchino/sets/ratatouille-1',
+		answer: 'Ratatouille - Kiss & Vinegar - Michael Giacchino',
+	},
+	{
+		url: 'https://soundcloud.com/john-debney-official/main-titles-princess-diaries?in=john-debney-official/sets/the-princess-diaries-1',
+		answer:
+			'The Princess Diaries - Main Titles - Princess Diaries Score - John Debney',
+	},
+	{
+		url: 'https://soundcloud.com/john-debney-official/queen-clarisse-score?in=john-debney-official/sets/the-princess-diaries-1',
+		answer: 'The Princess Diaries - Queen Clarisse - John Debney',
+	},
+	{
+		url: 'https://soundcloud.com/john-debney-official/mia-invites-lilly-to-the-ball?in=john-debney-official/sets/the-princess-diaries-1',
+		answer: 'The Princess Diaries - Mia Invites Lilly To The Ball - John Debney',
+	},
+	{
+		url: 'https://soundcloud.com/john-debney-official/the-princess-diaries-waltz?in=john-debney-official/sets/the-princess-diaries-1',
+		answer: 'The Princess Diaries - The Princess Diaries Waltz - John Debney',
+	},
+	{
+		url: 'https://soundcloud.com/john-debney-official/mias-makeover-score?in=john-debney-official/sets/the-princess-diaries-1',
+		answer: "The Princess Diaries - Mia's Makeover - John Debney",
+	},
+	{
+		url: 'https://soundcloud.com/john-debney-official/princess-lessons-score?in=john-debney-official/sets/the-princess-diaries-1',
+		answer: 'The Princess Diaries - Princess Lessons - John Debney',
+	},
+	{
+		url: 'https://soundcloud.com/john-debney-official/a-new-mia-score?in=john-debney-official/sets/the-princess-diaries-1',
+		answer: 'The Princess Diaries - A New Mia - John Debney',
+	},
+	{
+		url: 'https://soundcloud.com/john-debney-official/mia-flees-score?in=john-debney-official/sets/the-princess-diaries-1',
+		answer: 'The Princess Diaries - Mia Flees - John Debney',
+	},
+	{
+		url: 'https://soundcloud.com/john-debney-official/sorry-dad-score?in=john-debney-official/sets/the-princess-diaries-1',
+		answer: 'The Princess Diaries - Sorry, Dad - John Debney',
+	},
+	{
+		url: 'https://soundcloud.com/john-debney-official/lana-the-traitor-score?in=john-debney-official/sets/the-princess-diaries-1',
+		answer: 'The Princess Diaries - Lana, The Traitor - John Debney',
+	},
+	{
+		url: 'https://soundcloud.com/john-debney-official/mia-visits-the-consulate-score?in=john-debney-official/sets/the-princess-diaries-1',
+		answer: 'The Princess Diaries - Mia Visits The Consulate - John Debney',
+	},
+	{
+		url: 'https://soundcloud.com/john-debney-official/scooter-talk-score?in=john-debney-official/sets/the-princess-diaries-1',
+		answer: 'The Princess Diaries - Scooter Talk - John Debney',
+	},
+	{
+		url: 'https://soundcloud.com/john-debney-official/i-dont-want-to-be-a-princess?in=john-debney-official/sets/the-princess-diaries-1',
+		answer: "The Princess Diaries - I Don't Want To Be A Princess - John Debney",
+	},
+	{
+		url: 'https://soundcloud.com/john-debney-official/father-talk-score?in=john-debney-official/sets/the-princess-diaries-1',
+		answer: 'The Princess Diaries - Father Talk - John Debney',
+	},
+	{
+		url: 'https://soundcloud.com/john-debney-official/the-ball-score?in=john-debney-official/sets/the-princess-diaries-1',
+		answer: 'The Princess Diaries - The Ball - John Debney',
+	},
+	{
+		url: 'https://soundcloud.com/john-goodman-official/if-i-didnt-have-you?in=randynewman/sets/monsters-inc-1',
+		answer: "Monsters, Inc. - If I Didn't Have You - Randy Newman",
+	},
+	{
+		url: 'https://soundcloud.com/randynewman/monsters-inc?in=randynewman/sets/monsters-inc-1',
+		answer: 'Monsters, Inc. - Monsters, Inc. - Randy Newman',
+	},
+	{
+		url: 'https://soundcloud.com/randynewman/school?in=randynewman/sets/monsters-inc-1',
+		answer: 'Monsters, Inc. - School - Randy Newman',
+	},
+	{
+		url: 'https://soundcloud.com/randynewman/walk-to-work-from-monsters-inc?in=randynewman/sets/monsters-inc-1',
+		answer: 'Monsters, Inc. - Walk To Work - Randy Newman',
+	},
+	{
+		url: 'https://soundcloud.com/randynewman/sulley-and-mike?in=randynewman/sets/monsters-inc-1',
+		answer: 'Monsters, Inc. - Sulley And Mike - Randy Newman',
+	},
+	{
+		url: 'https://soundcloud.com/randynewman/randall-appears?in=randynewman/sets/monsters-inc-1',
+		answer: 'Monsters, Inc. - Randall Appears - Randy Newman',
+	},
+	{
+		url: 'https://soundcloud.com/randynewman/enter-the-heroes?in=randynewman/sets/monsters-inc-1',
+		answer: 'Monsters, Inc. - Enter The Heroes - Randy Newman',
+	},
+	{
+		url: 'https://soundcloud.com/randynewman/the-scare-floor?in=randynewman/sets/monsters-inc-1',
+		answer: 'Monsters, Inc. - The Scare Floor - Randy Newman',
+	},
+	{
+		url: 'https://soundcloud.com/randynewman/oh-celia?in=randynewman/sets/monsters-inc-1',
+		answer: 'Monsters, Inc. - Oh, Celia! - Randy Newman',
+	},
+	{
+		url: 'https://soundcloud.com/randynewman/boos-adventures-in?in=randynewman/sets/monsters-inc-1',
+		answer: "Monsters, Inc. - Boo's Adventures In Monstropolis - Randy Newman",
+	},
+	{
+		url: 'https://soundcloud.com/randynewman/boos-tired?in=randynewman/sets/monsters-inc-1',
+		answer: "Monsters, Inc. - Boo's Tired - Randy Newman",
+	},
+	{
+		url: 'https://soundcloud.com/randynewman/putting-boo-back?in=randynewman/sets/monsters-inc-1',
+		answer: 'Monsters, Inc. - Putting Boo Back - Randy Newman',
+	},
+	{
+		url: 'https://soundcloud.com/randynewman/boo-escapes?in=randynewman/sets/monsters-inc-1',
+		answer: 'Monsters, Inc. - Boo Escapes - Randy Newman',
+	},
+	{
+		url: 'https://soundcloud.com/randynewman/celias-mad?in=randynewman/sets/monsters-inc-1',
+		answer: "Monsters, Inc. - Celia's Mad - Randy Newman",
+	},
+	{
+		url: 'https://soundcloud.com/randynewman/boo-is-a-cube?in=randynewman/sets/monsters-inc-1',
+		answer: 'Monsters, Inc. - Boo Is A Cube - Randy Newman',
+	},
+	{
+		url: 'https://soundcloud.com/michael-giacchino/star-trek-main-theme',
+		answer: 'Star Trek - Main Theme - Michael Giacchino',
+	},
+	{
+		url: 'https://soundcloud.com/watertowermusic/youracreedclip',
+		answer: "Creed - You're A Creed - Ludwig Goransson",
+	},
+	{
+		url: 'https://soundcloud.com/unchained-soundtrack/01-winged-clean-mp3?in=jpraup/sets/django-unchained-sountrack',
+		answer: 'Django Unchained - Winged (James Russo) - jpraup',
+	},
+	{
+		url: 'https://soundcloud.com/unchained-soundtrack/02-django-28clean-29?in=jpraup/sets/django-unchained-sountrack',
+		answer: 'Django Unchained - Django (Luis Bacalov) - jpraup',
+	},
+	{
+		url: 'https://soundcloud.com/unchained-soundtrack/03-the-braying-mule-28clean-29?in=jpraup/sets/django-unchained-sountrack',
+		answer: 'Django Unchained - The Braying Mule (Ennio Morricone) - jpraup',
+	},
+	{
+		url: 'https://soundcloud.com/unchained-soundtrack/04-in-that-case-django-2c?in=jpraup/sets/django-unchained-sountrack',
+		answer:
+			'Django Unchained - "In that case Django, After You..." (Christoph Waltz) - jpraup',
+	},
+	{
+		url: 'https://soundcloud.com/unchained-soundtrack/05-lo-chiamavano-king-28clean?in=jpraup/sets/django-unchained-sountrack',
+		answer:
+			'Django Unchained - Lo Chiamavano King (His Name is King) (Luis Bacalov) - jpraup',
+	},
+	{
+		url: 'https://soundcloud.com/unchained-soundtrack/06-freedom-28clean-29?in=jpraup/sets/django-unchained-sountrack',
+		answer:
+			'Django Unchained - Freedom (Anthony Hamilton & Elayna Boynton) - jpraup',
+	},
+	{
+		url: 'https://soundcloud.com/unchained-soundtrack/07-five-thousand-dollar-niggas?in=jpraup/sets/django-unchained-sountrack',
+		answer:
+			'Django Unchained - Five-Thousand Dollar Niggas and Gummy-Mouthed Bitches - jpraup',
+	},
+	{
+		url: 'https://soundcloud.com/unchained-soundtrack/09-sneaky-schultz-and-the?in=jpraup/sets/django-unchained-sountrack',
+		answer:
+			'Django Unchained - Sneaky Schultz and the Demise of Sharp (Don Straud) - jpraup',
+	},
+	{
+		url: 'https://soundcloud.com/unchained-soundtrack/11-day-of-anger-28clean-29?in=jpraup/sets/django-unchained-sountrack',
+		answer: 'Django Unchained - Day of Anger (Riziero Ortolani) - jpraup',
+	},
+	{
+		url: 'https://soundcloud.com/unchained-soundtrack/100-black-coffins?in=jpraup/sets/django-unchained-sountrack',
+		answer: 'Django Unchained - 100 Black Coffins (Rick Ross) - jpraup',
+	},
+	{
+		url: 'https://soundcloud.com/unchained-soundtrack/13-nicaragua-28clean-29?in=jpraup/sets/django-unchained-sountrack',
+		answer: 'Django Unchained - Nicaragua (Jerry Goldsmith) - jpraup',
+	},
+	{
+		url: 'https://soundcloud.com/unchained-soundtrack/14-hildi-27s-hot-box-28clean?in=jpraup/sets/django-unchained-sountrack',
+		answer: "Django Unchained - Hildi's Hot Box (Samuel L. Jackson) - jpraup",
+	},
+	{
+		url: 'https://soundcloud.com/unchained-soundtrack/15-sister-sara-27s-theme?in=jpraup/sets/django-unchained-sountrack',
+		answer: "Django Unchained - Sister Sara's Theme (Ennio Morricone) - jpraup",
+	},
+	{
+		url: 'https://soundcloud.com/unchained-soundtrack/16-ancora-qui-28clean-29?in=jpraup/sets/django-unchained-sountrack',
+		answer: 'Django Unchained - Ancora Qui (Elisa Toffoli) - jpraup',
+	},
+	{
+		url: 'https://soundcloud.com/unchained-soundtrack/unchained-the-payback?in=jpraup/sets/django-unchained-sountrack',
+		answer:
+			'Django Unchained - Unchained (The Payback/Untouchable) (James Brown & 2Pac) - jpraup',
+	},
+	{
+		url: 'https://soundcloud.com/alan-silvestri/captain-america-main-titles?in=alan-silvestri/sets/captain-america-the-first-1',
+		answer:
+			'Captain America: The First Avenger - Captain America Main Titles - Alan Silvestri',
+	},
+	{
+		url: 'https://soundcloud.com/alan-silvestri/frozen-wasteland?in=alan-silvestri/sets/captain-america-the-first-1',
+		answer:
+			'Captain America: The First Avenger - Frozen Wasteland - Alan Silvestri',
+	},
+	{
+		url: 'https://soundcloud.com/alan-silvestri/schmidts-treasure?in=alan-silvestri/sets/captain-america-the-first-1',
+		answer:
+			'Captain America: The First Avenger - Schmidt’s Treasure - Alan Silvestri',
+	},
+	{
+		url: 'https://soundcloud.com/alan-silvestri/farewell-to-bucky?in=alan-silvestri/sets/captain-america-the-first-1',
+		answer:
+			'Captain America: The First Avenger - Farewell To Bucky - Alan Silvestri',
+	},
+	{
+		url: 'https://soundcloud.com/alan-silvestri/hydra-lab?in=alan-silvestri/sets/captain-america-the-first-1',
+		answer: 'Captain America: The First Avenger - Hydra Lab - Alan Silvestri',
+	},
+	{
+		url: 'https://soundcloud.com/alan-silvestri/training-the-supersoldier?in=alan-silvestri/sets/captain-america-the-first-1',
+		answer:
+			'Captain America: The First Avenger - Training The Supersoldier - Alan Silvestri',
+	},
+	{
+		url: 'https://soundcloud.com/alan-silvestri/schmidts-story?in=alan-silvestri/sets/captain-america-the-first-1',
+		answer:
+			'Captain America: The First Avenger - Schmidt’s Story - Alan Silvestri',
+	},
+	{
+		url: 'https://soundcloud.com/alan-silvestri/vitarays?in=alan-silvestri/sets/captain-america-the-first-1',
+		answer: 'Captain America: The First Avenger - VitaRays - Alan Silvestri',
+	},
+	{
+		url: 'https://soundcloud.com/alan-silvestri/captain-america-we-did-it?in=alan-silvestri/sets/captain-america-the-first-1',
+		answer:
+			'Captain America: The First Avenger - Captain America "We Did It" - Alan Silvestri',
+	},
+	{
+		url: 'https://soundcloud.com/alan-silvestri/kruger-chase?in=alan-silvestri/sets/captain-america-the-first-1',
+		answer: 'Captain America: The First Avenger - Kruger Chase - Alan Silvestri',
+	},
+	{
+		url: 'https://soundcloud.com/alan-silvestri/hostage-on-the-pier?in=alan-silvestri/sets/captain-america-the-first-1',
+		answer:
+			'Captain America: The First Avenger - Hostage On The Pier - Alan Silvestri',
+	},
+	{
+		url: 'https://soundcloud.com/alan-silvestri/generals-resign?in=alan-silvestri/sets/captain-america-the-first-1',
+		answer:
+			'Captain America: The First Avenger - General’s Resign - Alan Silvestri',
+	},
+	{
+		url: 'https://soundcloud.com/alan-silvestri/unauthorized-night-flight?in=alan-silvestri/sets/captain-america-the-first-1',
+		answer:
+			'Captain America: The First Avenger - Unauthorized Night Flight - Alan Silvestri',
+	},
+	{
+		url: 'https://soundcloud.com/alan-silvestri/troop-liberation?in=alan-silvestri/sets/captain-america-the-first-1',
+		answer:
+			'Captain America: The First Avenger - Troop Liberation - Alan Silvestri',
+	},
+	{
+		url: 'https://soundcloud.com/alan-silvestri/factory-inferno?in=alan-silvestri/sets/captain-america-the-first-1',
+		answer:
+			'Captain America: The First Avenger - Factory Inferno - Alan Silvestri',
+	},
+	{
+		url: 'https://soundcloud.com/joe-hisaishi-official/symphonic-suite-princess-4?in=joe-hisaishi-official/sets/symphonic-suite-princess',
+		answer:
+			'Princess Mononoke - Symphonic Suite “Princess Mononoke”2021 : I. The Legend Of Ashitaka (Live) - Joe Hisaishi',
+	},
+	{
+		url: 'https://soundcloud.com/joe-hisaishi-official/symphonic-suite-princess-2?in=joe-hisaishi-official/sets/symphonic-suite-princess',
+		answer:
+			'Princess Mononoke - Symphonic Suite “Princess Mononoke”2021 : II. TA TA RI GAMI (Live) - Joe Hisaishi',
+	},
+	{
+		url: 'https://soundcloud.com/joe-hisaishi-official/symphonic-suite-princess-5?in=joe-hisaishi-official/sets/symphonic-suite-princess',
+		answer:
+			'Princess Mononoke - Symphonic Suite “Princess Mononoke”2021 : III. The Journey Of The West - Kodamas (Live) - Joe Hisaishi',
+	},
+	{
+		url: 'https://soundcloud.com/joe-hisaishi-official/symphonic-suite-princess-1?in=joe-hisaishi-official/sets/symphonic-suite-princess',
+		answer:
+			'Princess Mononoke - Symphonic Suite “Princess Mononoke”2021 : IV. The Demon Power - The Forest Of The Dear God (Live) - Joe Hisaishi',
+	},
+	{
+		url: 'https://soundcloud.com/joe-hisaishi-official/symphonic-suite-princess?in=joe-hisaishi-official/sets/symphonic-suite-princess',
+		answer:
+			'Princess Mononoke - Symphonic Suite “Princess Mononoke”2021 : V. Mononoke Hime (Live) - Joe Hisaishi',
+	},
+	{
+		url: 'https://soundcloud.com/joe-hisaishi-official/symphonic-suite-princess-6?in=joe-hisaishi-official/sets/symphonic-suite-princess',
+		answer:
+			'Princess Mononoke - Symphonic Suite “Princess Mononoke”2021 : VI. The World Of The Dead - Adagio Of Life & Death (Live) - Joe Hisaishi',
+	},
+	{
+		url: 'https://soundcloud.com/joe-hisaishi-official/symphonic-suite-princess-3?in=joe-hisaishi-official/sets/symphonic-suite-princess',
+		answer:
+			'Princess Mononoke - Symphonic Suite “Princess Mononoke”2021 : VII. Ashitaka And San (Live) - Joe Hisaishi',
+	},
+	{
+		url: 'https://soundcloud.com/joe-hisaishi-official/merry-go-round-2019-live?in=joe-hisaishi-official/sets/symphonic-suite-princess',
+		answer: 'Princess Mononoke - Merry-Go-Round 2019 (Live) - Joe Hisaishi',
+	},
+	{
+		url: 'https://soundcloud.com/joe-hisaishi-official/asian-works-2020-i-will-be-the?in=joe-hisaishi-official/sets/symphonic-suite-princess',
+		answer:
+			'Princess Mononoke - Asian Works 2020 : I. Will be the wind (Live) - Joe Hisaishi',
+	},
+	{
+		url: 'https://soundcloud.com/joe-hisaishi-official/asian-works-2020-ii-yinglian?in=joe-hisaishi-official/sets/symphonic-suite-princess',
+		answer:
+			'Princess Mononoke - Asian Works 2020 : II. Yinglian (Live) - Joe Hisaishi',
+	},
+	{
+		url: 'https://soundcloud.com/joe-hisaishi-official/asian-works-2020-iii-xpark?in=joe-hisaishi-official/sets/symphonic-suite-princess',
+		answer:
+			'Princess Mononoke - Asian Works 2020 : III. Xpark (Live) - Joe Hisaishi',
+	},
+	{
+		url: 'https://soundcloud.com/joe-hisaishi-official/world-dreams-2021-live?in=joe-hisaishi-official/sets/symphonic-suite-princess',
+		answer: 'Princess Mononoke - World Dreams 2021 (Live) - Joe Hisaishi',
+	},
+	{
+		url: 'https://soundcloud.com/michael-giacchino/give-her-my-budapest?in=michael-giacchino/sets/mission-impossible-ghost-1',
+		answer:
+			'Mission: Impossible - Ghost Protocol - Give Her My Budapest - Michael Giacchino',
+	},
+	{
+		url: 'https://soundcloud.com/michael-giacchino/light-the-fuse?in=michael-giacchino/sets/mission-impossible-ghost-1',
+		answer:
+			'Mission: Impossible - Ghost Protocol - Light The Fuse - Michael Giacchino',
+	},
+	{
+		url: 'https://soundcloud.com/michael-giacchino/knife-to-a-gun-fight?in=michael-giacchino/sets/mission-impossible-ghost-1',
+		answer:
+			'Mission: Impossible - Ghost Protocol - Knife To A Gun Fight - Michael Giacchino',
+	},
+	{
+		url: 'https://soundcloud.com/michael-giacchino/in-russia-phone-dials-you?in=michael-giacchino/sets/mission-impossible-ghost-1',
+		answer:
+			'Mission: Impossible - Ghost Protocol - In Russia, Phone Dials You - Michael Giacchino',
+	},
+	{
+		url: 'https://soundcloud.com/michael-giacchino/kremlin-with-anticipation?in=michael-giacchino/sets/mission-impossible-ghost-1',
+		answer:
+			'Mission: Impossible - Ghost Protocol - Kremlin With Anticipation - Michael Giacchino',
+	},
+	{
+		url: 'https://soundcloud.com/michael-giacchino/from-russia-with-shove?in=michael-giacchino/sets/mission-impossible-ghost-1',
+		answer:
+			'Mission: Impossible - Ghost Protocol - From Russia With Shove - Michael Giacchino',
+	},
+	{
+		url: 'https://soundcloud.com/michael-giacchino/ghost-protocol?in=michael-giacchino/sets/mission-impossible-ghost-1',
+		answer:
+			'Mission: Impossible - Ghost Protocol - Ghost Protocol - Michael Giacchino',
+	},
+	{
+		url: 'https://soundcloud.com/michael-giacchino/railcar-rundown?in=michael-giacchino/sets/mission-impossible-ghost-1',
+		answer:
+			'Mission: Impossible - Ghost Protocol - Railcar Rundown - Michael Giacchino',
+	},
+	{
+		url: 'https://soundcloud.com/michael-giacchino/hendricks-manifesto?in=michael-giacchino/sets/mission-impossible-ghost-1',
+		answer:
+			"Mission: Impossible - Ghost Protocol - Hendricks' Manifesto - Michael Giacchino",
+	},
+	{
+		url: 'https://soundcloud.com/michael-giacchino/a-man-a-plan-a-code-dubai?in=michael-giacchino/sets/mission-impossible-ghost-1',
+		answer:
+			'Mission: Impossible - Ghost Protocol - A Man, A Plan, A Code, Dubai - Michael Giacchino',
+	},
+	{
+		url: 'https://soundcloud.com/michael-giacchino/love-the-glove?in=michael-giacchino/sets/mission-impossible-ghost-1',
+		answer:
+			'Mission: Impossible - Ghost Protocol - Love The Glove - Michael Giacchino',
+	},
+	{
+		url: 'https://soundcloud.com/michael-giacchino/the-express-elevator?in=michael-giacchino/sets/mission-impossible-ghost-1',
+		answer:
+			'Mission: Impossible - Ghost Protocol - The Express Elevator - Michael Giacchino',
+	},
+	{
+		url: 'https://soundcloud.com/michael-giacchino/mission-impersonatable?in=michael-giacchino/sets/mission-impossible-ghost-1',
+		answer:
+			'Mission: Impossible - Ghost Protocol - Mission Impersonatable - Michael Giacchino',
+	},
+	{
+		url: 'https://soundcloud.com/michael-giacchino/moreau-trouble-than-shes-worth?in=michael-giacchino/sets/mission-impossible-ghost-1',
+		answer:
+			"Mission: Impossible - Ghost Protocol - Moreau Trouble Than She's Worth - Michael Giacchino",
+	},
+	{
+		url: 'https://soundcloud.com/michael-giacchino/out-for-a-run?in=michael-giacchino/sets/mission-impossible-ghost-1',
+		answer:
+			'Mission: Impossible - Ghost Protocol - Out For A Run - Michael Giacchino',
 	},
 ];
