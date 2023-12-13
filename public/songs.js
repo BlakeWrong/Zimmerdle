@@ -36,7 +36,7 @@ let songs = [
 		answer: 'Hoodwinked - Red Is Blue - Ben Folds',
 	},
 	{
-		url: 'https://soundcloud.com/royal-philharmonic-orchestra/end-titles-from-the-shawshank',
+		url: 'https://soundcloud.com/royal-philharmonic-orchestra/end-titles-from-the-shawshank?#t=30',
 		answer: 'The Shawshank Redemption - End Titles - Thomas Newman',
 	},
 	{

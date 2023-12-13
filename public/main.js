@@ -2297,7 +2297,9 @@ var app = (function () {
 	function pt(e, t, n, trackStartTime = 0) {
 		function decodeTimestampFromURL(url) {
 			const match = url.match(/[?&]#t=(\d+)/);
-			if (match) {
+			if (m <= 30000) {
+				return 0;
+			} else if (match) {
 				// Convert the timestamp to milliseconds
 				const milliseconds = parseInt(match[1], 10) * 1000;
 
