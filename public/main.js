@@ -2332,7 +2332,8 @@ var app = (function () {
 			b = !1,
 			S = !1;
 		const M = () => {
-			currentTime = 0;
+			// reset track
+			// currentTime = 0;
 			trackStartTime = 0;
 
 			y.seekTo(0), y.pause();
@@ -2386,8 +2387,9 @@ var app = (function () {
 													(currentTime / (d * configObject.attemptInterval)) * 100)
 										  ),
 										  currentTime > d * configObject.attemptInterval && M())
-									: // progress when game is over
-									  (n(10, (percentage = (currentTime / m) * 100)),
+									: // progress & track player (manual) when game is over
+									  ((trackStartTime = 0),
+									  n(10, (percentage = (currentTime / m) * 100)),
 									  currentTime > m && M());
 						});
 				}
@@ -2444,7 +2446,9 @@ var app = (function () {
 				p,
 				() => {
 					//play the track in game
-					trackStartTime = decodeTimestampFromURL(h.url);
+					p.gameIsActive
+						? (trackStartTime = decodeTimestampFromURL(h.url))
+						: (trackStartTime = 0);
 
 					y.seekTo(trackStartTime), y.play();
 				},
@@ -2473,7 +2477,8 @@ var app = (function () {
 					y.toggle();
 				},
 				() => {
-					// play the track at the end of the game
+					// automatically play the track at the end of the game
+					trackStartTime = 0;
 					y.seekTo(0), y.play();
 				},
 				() => {
