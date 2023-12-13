@@ -40,7 +40,11 @@ let songs = [
 		answer: 'The Shawshank Redemption - End Titles - Thomas Newman',
 	},
 	{
-		url: 'https://soundcloud.com/max-richter/02-on-the-nature-of-daylight',
+		url: 'https://soundcloud.com/trentreznorandatticusross-music/epiphany?#t=90',
+		answer: 'Soul - Epiphany - Trent Reznor and Atticus Ross',
+	},
+	{
+		url: 'https://soundcloud.com/mutesong/max-richter-on-the-nature-of?#t=85',
 		answer: 'Shutter Island - On the Nature of Daylight - Max Richter',
 	},
 	{
@@ -134,53 +138,47 @@ let songs = [
 
 	{
 		url: 'https://soundcloud.com/thebellestars/iko-iko?in=hans-zimmer-official/sets/rain-man-original-motion',
-		answer:
-			'Rain Man: Original Motion Picture Soundtrack - Iko Iko - Hans Zimmer',
+		answer: 'Rain Man: Original Motion Picture - Iko Iko - Hans Zimmer',
 	},
 	{
 		url: 'https://soundcloud.com/johnny-clegg-savuka/scatterlings-of-africa?in=hans-zimmer-official/sets/rain-man-original-motion',
 		answer:
-			'Rain Man: Original Motion Picture Soundtrack - Scatterlings of Africa - Hans Zimmer',
+			'Rain Man: Original Motion Picture - Scatterlings of Africa - Hans Zimmer',
 	},
 	{
 		url: 'https://soundcloud.com/the-delta-rhythm-boys/dry-bones?in=hans-zimmer-official/sets/rain-man-original-motion',
-		answer:
-			'Rain Man: Original Motion Picture Soundtrack - Dry Bones - Hans Zimmer',
+		answer: 'Rain Man: Original Motion Picture - Dry Bones - Hans Zimmer',
 	},
 	{
 		url: 'https://soundcloud.com/ettajamesofficial/at-last-2?in=hans-zimmer-official/sets/rain-man-original-motion',
-		answer:
-			'Rain Man: Original Motion Picture Soundtrack - At Last - Hans Zimmer',
+		answer: 'Rain Man: Original Motion Picture - At Last - Hans Zimmer',
 	},
 	{
 		url: 'https://soundcloud.com/ian-gillan-official/lonely-avenue?in=hans-zimmer-official/sets/rain-man-original-motion',
-		answer:
-			'Rain Man: Original Motion Picture Soundtrack - Lonely Avenue - Hans Zimmer',
+		answer: 'Rain Man: Original Motion Picture - Lonely Avenue - Hans Zimmer',
 	},
 	{
 		url: 'https://soundcloud.com/bananarama/nathan-jones?in=hans-zimmer-official/sets/rain-man-original-motion',
-		answer:
-			'Rain Man: Original Motion Picture Soundtrack - Nathan Jones - Hans Zimmer',
+		answer: 'Rain Man: Original Motion Picture - Nathan Jones - Hans Zimmer',
 	},
 	{
 		url: 'https://soundcloud.com/hans-zimmer-official/leaving-wallbrook-on-the-road?in=hans-zimmer-official/sets/rain-man-original-motion',
 		answer:
-			'Rain Man: Original Motion Picture Soundtrack - Leaving Wallbrook/On The Road - Hans Zimmer',
+			'Rain Man: Original Motion Picture - Leaving Wallbrook/On The Road - Hans Zimmer',
 	},
 	{
 		url: 'https://soundcloud.com/hans-zimmer-official/las-vegas-end-credits?in=hans-zimmer-official/sets/rain-man-original-motion',
 		answer:
-			'Rain Man: Original Motion Picture Soundtrack - Las Vegas/End Credits - Hans Zimmer',
+			'Rain Man: Original Motion Picture - Las Vegas/End Credits - Hans Zimmer',
 	},
 	{
 		url: 'https://soundcloud.com/robwasserman/stardust?in=hans-zimmer-official/sets/rain-man-original-motion',
-		answer:
-			'Rain Man: Original Motion Picture Soundtrack - Stardust - Hans Zimmer',
+		answer: 'Rain Man: Original Motion Picture - Stardust - Hans Zimmer',
 	},
 	{
 		url: 'https://soundcloud.com/lou-christie-official/beyond-the-blue-horizon?in=hans-zimmer-official/sets/rain-man-original-motion',
 		answer:
-			'Rain Man: Original Motion Picture Soundtrack - Beyond The Blue Horizon - Hans Zimmer',
+			'Rain Man: Original Motion Picture - Beyond The Blue Horizon - Hans Zimmer',
 	},
 
 	{
@@ -3543,7 +3541,7 @@ let songs = [
 	{
 		url: 'https://soundcloud.com/ronitshapira/oyfn-pripetshok-nacht-aktion?in=itzhak-perlman/sets/schindlers-list-2',
 		answer:
-			"Schindler's List - Oyf'n Pripetshok / Nacht Aktion (From \"Schindler's List\" Soundtrack) - John Williams",
+			"Schindler's List - Oyf'n Pripetshok / Nacht Aktion (From \"Schindler's List\") - John Williams",
 	},
 	{
 		url: 'https://soundcloud.com/itzhak-perlman/i-could-have-done-more?in=itzhak-perlman/sets/schindlers-list-2',
@@ -4409,46 +4407,43 @@ let songs = [
 	},
 	{
 		url: 'https://soundcloud.com/artie-kane/code-red-semper-fidelis?in=artie-kane/sets/a-few-good-men-soundtrack',
-		answer:
-			'"A Few Good Men" Soundtrack - Code Red / Semper Fidelis - Marc Shaiman',
+		answer: '"A Few Good Men" - Code Red / Semper Fidelis - Marc Shaiman',
 	},
 	{
 		url: 'https://soundcloud.com/artie-kane/kaffe?in=artie-kane/sets/a-few-good-men-soundtrack',
-		answer: '"A Few Good Men" Soundtrack - Kaffe - Marc Shaiman',
+		answer: '"A Few Good Men" - Kaffe - Marc Shaiman',
 	},
 	{
 		url: 'https://soundcloud.com/artie-kane/facts-and-figures?in=artie-kane/sets/a-few-good-men-soundtrack',
-		answer: '"A Few Good Men" Soundtrack - Facts and Figures - Marc Shaiman',
+		answer: '"A Few Good Men" - Facts and Figures - Marc Shaiman',
 	},
 	{
 		url: 'https://soundcloud.com/artie-kane/guantanamo-bay?in=artie-kane/sets/a-few-good-men-soundtrack',
-		answer: '"A Few Good Men" Soundtrack - Guantanamo Bay - Marc Shaiman',
+		answer: '"A Few Good Men" - Guantanamo Bay - Marc Shaiman',
 	},
 	{
 		url: 'https://soundcloud.com/artie-kane/hound-dog-big-mama-thornton?in=artie-kane/sets/a-few-good-men-soundtrack',
-		answer:
-			'"A Few Good Men" Soundtrack - Hound Dog - Big Mama Thornton - Marc Shaiman',
+		answer: '"A Few Good Men" - Hound Dog - Big Mama Thornton - Marc Shaiman',
 	},
 	{
 		url: 'https://soundcloud.com/artie-kane/plea-bargain?in=artie-kane/sets/a-few-good-men-soundtrack',
-		answer: '"A Few Good Men" Soundtrack - Plea Bargain - Marc Shaiman',
+		answer: '"A Few Good Men" - Plea Bargain - Marc Shaiman',
 	},
 	{
 		url: 'https://soundcloud.com/artie-kane/trial-and-error?in=artie-kane/sets/a-few-good-men-soundtrack',
-		answer: '"A Few Good Men" Soundtrack - Trial and Error - Marc Shaiman',
+		answer: '"A Few Good Men" - Trial and Error - Marc Shaiman',
 	},
 	{
 		url: 'https://soundcloud.com/artie-kane/pep-talk?in=artie-kane/sets/a-few-good-men-soundtrack',
-		answer: '"A Few Good Men" Soundtrack - Pep Talk - Marc Shaiman',
+		answer: '"A Few Good Men" - Pep Talk - Marc Shaiman',
 	},
 	{
 		url: 'https://soundcloud.com/artie-kane/honor?in=artie-kane/sets/a-few-good-men-soundtrack',
-		answer: '"A Few Good Men" Soundtrack - Honor - Marc Shaiman',
+		answer: '"A Few Good Men" - Honor - Marc Shaiman',
 	},
 	{
 		url: 'https://soundcloud.com/artie-kane/stars-and-stripes-forever?in=artie-kane/sets/a-few-good-men-soundtrack',
-		answer:
-			'"A Few Good Men" Soundtrack - Stars and Stripes Forever - Marc Shaiman',
+		answer: '"A Few Good Men" - Stars and Stripes Forever - Marc Shaiman',
 	},
 	{
 		url: 'https://soundcloud.com/thedustbrothers/who-is-tyler-durden?in=thedustbrothers/sets/fight-club-original-motion',
@@ -4673,67 +4668,67 @@ let songs = [
 	},
 	{
 		url: 'https://soundcloud.com/steven-price-official/above-earth?in=steven-price-official/sets/gravity-original-motion',
-		answer: 'Gravity  - Above Earth - Steven Price',
+		answer: 'Gravity - Above Earth - Steven Price',
 	},
 	{
 		url: 'https://soundcloud.com/steven-price-official/debris?in=steven-price-official/sets/gravity-original-motion',
-		answer: 'Gravity  - Debris - Steven Price',
+		answer: 'Gravity - Debris - Steven Price',
 	},
 	{
 		url: 'https://soundcloud.com/steven-price-official/the-void?in=steven-price-official/sets/gravity-original-motion',
-		answer: 'Gravity  - The Void - Steven Price',
+		answer: 'Gravity - The Void - Steven Price',
 	},
 	{
 		url: 'https://soundcloud.com/steven-price-official/atlantis?in=steven-price-official/sets/gravity-original-motion',
-		answer: 'Gravity  - Atlantis - Steven Price',
+		answer: 'Gravity - Atlantis - Steven Price',
 	},
 	{
 		url: 'https://soundcloud.com/steven-price-official/dont-let-go?in=steven-price-official/sets/gravity-original-motion',
-		answer: "Gravity  - Don't Let Go - Steven Price",
+		answer: "Gravity - Don't Let Go - Steven Price",
 	},
 	{
 		url: 'https://soundcloud.com/steven-price-official/airlock?in=steven-price-official/sets/gravity-original-motion',
-		answer: 'Gravity  - Airlock - Steven Price',
+		answer: 'Gravity - Airlock - Steven Price',
 	},
 	{
 		url: 'https://soundcloud.com/steven-price-official/iss?in=steven-price-official/sets/gravity-original-motion',
-		answer: 'Gravity  - ISS - Steven Price',
+		answer: 'Gravity - ISS - Steven Price',
 	},
 	{
 		url: 'https://soundcloud.com/steven-price-official/fire?in=steven-price-official/sets/gravity-original-motion',
-		answer: 'Gravity  - Fire - Steven Price',
+		answer: 'Gravity - Fire - Steven Price',
 	},
 	{
 		url: 'https://soundcloud.com/steven-price-official/parachute?in=steven-price-official/sets/gravity-original-motion',
-		answer: 'Gravity  - Parachute - Steven Price',
+		answer: 'Gravity - Parachute - Steven Price',
 	},
 	{
 		url: 'https://soundcloud.com/steven-price-official/in-the-blind?in=steven-price-official/sets/gravity-original-motion',
-		answer: 'Gravity  - In The Blind - Steven Price',
+		answer: 'Gravity - In The Blind - Steven Price',
 	},
 	{
 		url: 'https://soundcloud.com/steven-price-official/aurora-borealis?in=steven-price-official/sets/gravity-original-motion',
-		answer: 'Gravity  - Aurora Borealis - Steven Price',
+		answer: 'Gravity - Aurora Borealis - Steven Price',
 	},
 	{
 		url: 'https://soundcloud.com/steven-price-official/aningaaq?in=steven-price-official/sets/gravity-original-motion',
-		answer: 'Gravity  - Aningaaq - Steven Price',
+		answer: 'Gravity - Aningaaq - Steven Price',
 	},
 	{
 		url: 'https://soundcloud.com/steven-price-official/soyuz?in=steven-price-official/sets/gravity-original-motion',
-		answer: 'Gravity  - Soyuz - Steven Price',
+		answer: 'Gravity - Soyuz - Steven Price',
 	},
 	{
 		url: 'https://soundcloud.com/steven-price-official/tiangong?in=steven-price-official/sets/gravity-original-motion',
-		answer: 'Gravity  - Tiangong - Steven Price',
+		answer: 'Gravity - Tiangong - Steven Price',
 	},
 	{
 		url: 'https://soundcloud.com/steven-price-official/shenzou?in=steven-price-official/sets/gravity-original-motion',
-		answer: 'Gravity  - Shenzou - Steven Price',
+		answer: 'Gravity - Shenzou - Steven Price',
 	},
 	{
 		url: 'https://soundcloud.com/steven-price-official/gravity?in=steven-price-official/sets/gravity-original-motion',
-		answer: 'Gravity  - Gravity - Steven Price',
+		answer: 'Gravity - Gravity - Steven Price',
 	},
 	{
 		url: 'https://soundcloud.com/bradleycooper-music/black-eyes?in=ladygaga/sets/a-star-is-born-soundtrack',
@@ -5918,5 +5913,1447 @@ let songs = [
 	{
 		url: 'https://soundcloud.com/judy-garland-official/if-i-only-had-a-brain-extended?in=judy-garland-official/sets/the-wizard-of-oz-original',
 		answer: 'The Wizard of Oz - If I Only Had A Brain (Extended Version)',
+	},
+	{
+		url: 'https://soundcloud.com/navythemc/300-ost-to-victory',
+		answer: '300 - To Victory - Tyler Bates',
+	},
+	{
+		url: 'https://soundcloud.com/jonbatisteofficial/born-to-play',
+		answer: 'Soul - Born to Play - Jon Batiste',
+	},
+	{
+		url: 'https://soundcloud.com/transformers-665495108/bogey-approach?in=transformers-665495108/sets/transformers-complete?#t=30',
+		answer: 'Transformers - Bogey Approach - Steve Jablonsky',
+	},
+	{
+		url: 'https://soundcloud.com/elmer-bernstein/ghostbusters-theme?in=elmer-bernstein/sets/ghostbusters-original-motion-1',
+		answer: 'Ghostbusters - Theme - Elmer Bernstein',
+	},
+	{
+		url: 'https://soundcloud.com/alexandre-desplat-official/the-shape-of-water-from-the?in=alexandre-desplat-official/sets/the-shape-of-water-1',
+		answer:
+			'The Shape Of Water - The Shape Of Water (From "The Shape Of Water") - Alexandre Desplat',
+	},
+	{
+		url: 'https://soundcloud.com/renee-fleming-official/youll-never-know-from-the?in=alexandre-desplat-official/sets/the-shape-of-water-1',
+		answer:
+			'The Shape Of Water - You\'ll Never Know (From "The Shape Of Water") - Alexandre Desplat',
+	},
+	{
+		url: 'https://soundcloud.com/alexandre-desplat-official/the-creature?in=alexandre-desplat-official/sets/the-shape-of-water-1',
+		answer: 'The Shape Of Water - The Creature - Alexandre Desplat',
+	},
+	{
+		url: 'https://soundcloud.com/alexandre-desplat-official/elisas-theme?in=alexandre-desplat-official/sets/the-shape-of-water-1',
+		answer: "The Shape Of Water - Elisa's Theme - Alexandre Desplat",
+	},
+	{
+		url: 'https://soundcloud.com/alexandre-desplat-official/fingers?in=alexandre-desplat-official/sets/the-shape-of-water-1',
+		answer: 'The Shape Of Water - Fingers - Alexandre Desplat',
+	},
+	{
+		url: 'https://soundcloud.com/alexandre-desplat-official/spy-meeting?in=alexandre-desplat-official/sets/the-shape-of-water-1',
+		answer: 'The Shape Of Water - Spy Meeting - Alexandre Desplat',
+	},
+	{
+		url: 'https://soundcloud.com/alexandre-desplat-official/elisa-and-zelda?in=alexandre-desplat-official/sets/the-shape-of-water-1',
+		answer: 'The Shape Of Water - Elisa And Zelda - Alexandre Desplat',
+	},
+	{
+		url: 'https://soundcloud.com/alexandre-desplat-official/five-stars-general?in=alexandre-desplat-official/sets/the-shape-of-water-1',
+		answer: 'The Shape Of Water - Five Stars General - Alexandre Desplat',
+	},
+	{
+		url: 'https://soundcloud.com/alexandre-desplat-official/the-silence-of-love?in=alexandre-desplat-official/sets/the-shape-of-water-1',
+		answer: 'The Shape Of Water - The Silence Of Love - Alexandre Desplat',
+	},
+	{
+		url: 'https://soundcloud.com/alexandre-desplat-official/egg?in=alexandre-desplat-official/sets/the-shape-of-water-1',
+		answer: 'The Shape Of Water - Egg - Alexandre Desplat',
+	},
+	{
+		url: 'https://soundcloud.com/alexandre-desplat-official/that-isnt-good?in=alexandre-desplat-official/sets/the-shape-of-water-1',
+		answer: "The Shape Of Water - That Isn't Good - Alexandre Desplat",
+	},
+	{
+		url: 'https://soundcloud.com/alexandre-desplat-official/underwater-kiss?in=alexandre-desplat-official/sets/the-shape-of-water-1',
+		answer: 'The Shape Of Water - Underwater Kiss - Alexandre Desplat',
+	},
+	{
+		url: 'https://soundcloud.com/alexandre-desplat-official/the-escape?in=alexandre-desplat-official/sets/the-shape-of-water-1',
+		answer: 'The Shape Of Water - The Escape - Alexandre Desplat',
+	},
+	{
+		url: 'https://soundcloud.com/alexandre-desplat-official/watching-ruth?in=alexandre-desplat-official/sets/the-shape-of-water-1',
+		answer: 'The Shape Of Water - Watching Ruth - Alexandre Desplat',
+	},
+	{
+		url: 'https://soundcloud.com/alexandre-desplat-official/decency?in=alexandre-desplat-official/sets/the-shape-of-water-1',
+		answer: 'The Shape Of Water - Decency - Alexandre Desplat',
+	},
+	{
+		url: 'https://soundcloud.com/dina-wahba/11-danny-elfman-the-piano-duet',
+		answer: 'The Corpse Bride - The Piano Duet - Danny Elfman',
+	},
+	{
+		url: 'https://soundcloud.com/thomas-newman-official/1917-1?in=thomas-newman-official/sets/1917-original-motion-picture',
+		answer: '1917 - 1917 - Thomas Newman',
+	},
+	{
+		url: 'https://soundcloud.com/thomas-newman-official/up-the-down-trench?in=thomas-newman-official/sets/1917-original-motion-picture',
+		answer: '1917 - Up the Down Trench - Thomas Newman',
+	},
+	{
+		url: 'https://soundcloud.com/thomas-newman-official/gehenna?in=thomas-newman-official/sets/1917-original-motion-picture',
+		answer: '1917 - Gehenna - Thomas Newman',
+	},
+	{
+		url: 'https://soundcloud.com/thomas-newman-official/a-scrap-of-ribbon?in=thomas-newman-official/sets/1917-original-motion-picture',
+		answer: '1917 - A Scrap of Ribbon - Thomas Newman',
+	},
+	{
+		url: 'https://soundcloud.com/thomas-newman-official/the-night-window?in=thomas-newman-official/sets/1917-original-motion-picture',
+		answer: '1917 - The Night Window - Thomas Newman',
+	},
+	{
+		url: 'https://soundcloud.com/thomas-newman-official/the-boche?in=thomas-newman-official/sets/1917-original-motion-picture',
+		answer: '1917 - The Boche - Thomas Newman',
+	},
+	{
+		url: 'https://soundcloud.com/thomas-newman-official/tripwire?in=thomas-newman-official/sets/1917-original-motion-picture',
+		answer: '1917 - Tripwire - Thomas Newman',
+	},
+	{
+		url: 'https://soundcloud.com/thomas-newman-official/a-bit-of-tin?in=thomas-newman-official/sets/1917-original-motion-picture',
+		answer: '1917 - A Bit of Tin - Thomas Newman',
+	},
+	{
+		url: 'https://soundcloud.com/thomas-newman-official/lockhouse?in=thomas-newman-official/sets/1917-original-motion-picture',
+		answer: '1917 - Lockhouse - Thomas Newman',
+	},
+	{
+		url: 'https://soundcloud.com/thomas-newman-official/blake-and-schofield?in=thomas-newman-official/sets/1917-original-motion-picture',
+		answer: '1917 - Blake and Schofield - Thomas Newman',
+	},
+	{
+		url: 'https://soundcloud.com/thomas-newman-official/milk?in=thomas-newman-official/sets/1917-original-motion-picture',
+		answer: '1917 - Milk - Thomas Newman',
+	},
+	{
+		url: 'https://soundcloud.com/thomas-newman-official/ecoust-saint-mein?in=thomas-newman-official/sets/1917-original-motion-picture',
+		answer: '1917 - Écoust-Saint-Mein - Thomas Newman',
+	},
+	{
+		url: 'https://soundcloud.com/thomas-newman-official/les-arbres?in=thomas-newman-official/sets/1917-original-motion-picture',
+		answer: '1917 - Les Arbres - Thomas Newman',
+	},
+	{
+		url: 'https://soundcloud.com/thomas-newman-official/englaender?in=thomas-newman-official/sets/1917-original-motion-picture',
+		answer: '1917 - Engländer - Thomas Newman',
+	},
+	{
+		url: 'https://soundcloud.com/thomas-newman-official/the-rapids?in=thomas-newman-official/sets/1917-original-motion-picture',
+		answer: '1917 - The Rapids - Thomas Newman',
+	},
+	{
+		url: 'https://soundcloud.com/hans-zimmer-official/youre-so-cool',
+		answer: "True Romance - You're So Cool - Hans Zimmer",
+	},
+	{
+		url: 'https://soundcloud.com/fayssal-saoudi/hand-covers-bruise',
+		answer:
+			'The Social Network - Hand Covers Bruise - Trent Reznor & Atticus Ross',
+	},
+	{
+		url: 'https://soundcloud.com/shirley-walker-official/ice-dance-edward-scissorhands',
+		answer: 'Edward Scissorhands - Ice Dance - Danny Elfman',
+	},
+	{
+		url: 'https://soundcloud.com/hildurgudnadottir-music/bathroom-dance',
+		answer: 'Joker - Bathroom Dance - Hildur Guonadottir',
+	},
+	{
+		url: 'https://soundcloud.com/alexandre-desplat-official/new-moon?in=alexandre-desplat-official/sets/the-twilight-saga-new-moon-the',
+		answer: 'The Twilight Saga: New Moon - New Moon - Alexandre Desplat',
+	},
+	{
+		url: 'https://soundcloud.com/alexandre-desplat-official/bella-dreams?in=alexandre-desplat-official/sets/the-twilight-saga-new-moon-the',
+		answer: 'The Twilight Saga: New Moon - Bella Dreams - Alexandre Desplat',
+	},
+	{
+		url: 'https://soundcloud.com/alexandre-desplat-official/romeo-juliet?in=alexandre-desplat-official/sets/the-twilight-saga-new-moon-the',
+		answer: 'The Twilight Saga: New Moon - Romeo & Juliet - Alexandre Desplat',
+	},
+	{
+		url: 'https://soundcloud.com/alexandre-desplat-official/volturi-waltz?in=alexandre-desplat-official/sets/the-twilight-saga-new-moon-the',
+		answer: 'The Twilight Saga: New Moon - Volturi Waltz - Alexandre Desplat',
+	},
+	{
+		url: 'https://soundcloud.com/alexandre-desplat-official/blood-sample?in=alexandre-desplat-official/sets/the-twilight-saga-new-moon-the',
+		answer: 'The Twilight Saga: New Moon - Blood Sample - Alexandre Desplat',
+	},
+	{
+		url: 'https://soundcloud.com/alexandre-desplat-official/edward-leaves?in=alexandre-desplat-official/sets/the-twilight-saga-new-moon-the',
+		answer: 'The Twilight Saga: New Moon - Edward Leaves - Alexandre Desplat',
+	},
+	{
+		url: 'https://soundcloud.com/alexandre-desplat-official/werewolves?in=alexandre-desplat-official/sets/the-twilight-saga-new-moon-the',
+		answer: 'The Twilight Saga: New Moon - Werewolves - Alexandre Desplat',
+	},
+	{
+		url: 'https://soundcloud.com/alexandre-desplat-official/i-need-you?in=alexandre-desplat-official/sets/the-twilight-saga-new-moon-the',
+		answer: 'The Twilight Saga: New Moon - I Need You - Alexandre Desplat',
+	},
+	{
+		url: 'https://soundcloud.com/alexandre-desplat-official/break-up?in=alexandre-desplat-official/sets/the-twilight-saga-new-moon-the',
+		answer: 'The Twilight Saga: New Moon - Break Up - Alexandre Desplat',
+	},
+	{
+		url: 'https://soundcloud.com/alexandre-desplat-official/memories-of-edward?in=alexandre-desplat-official/sets/the-twilight-saga-new-moon-the',
+		answer:
+			'The Twilight Saga: New Moon - Memories Of Edward - Alexandre Desplat',
+	},
+	{
+		url: 'https://soundcloud.com/alexandre-desplat-official/wolves-v-vampire?in=alexandre-desplat-official/sets/the-twilight-saga-new-moon-the',
+		answer: 'The Twilight Saga: New Moon - Wolves V. Vampire - Alexandre Desplat',
+	},
+	{
+		url: 'https://soundcloud.com/alexandre-desplat-official/victoria?in=alexandre-desplat-official/sets/the-twilight-saga-new-moon-the',
+		answer: 'The Twilight Saga: New Moon - Victoria - Alexandre Desplat',
+	},
+	{
+		url: 'https://soundcloud.com/alexandre-desplat-official/almost-a-kiss?in=alexandre-desplat-official/sets/the-twilight-saga-new-moon-the',
+		answer: 'The Twilight Saga: New Moon - Almost A Kiss - Alexandre Desplat',
+	},
+	{
+		url: 'https://soundcloud.com/alexandre-desplat-official/adrenaline?in=alexandre-desplat-official/sets/the-twilight-saga-new-moon-the',
+		answer: 'The Twilight Saga: New Moon - Adrenaline - Alexandre Desplat',
+	},
+	{
+		url: 'https://soundcloud.com/alexandre-desplat-official/dreamcatcher?in=alexandre-desplat-official/sets/the-twilight-saga-new-moon-the',
+		answer: 'The Twilight Saga: New Moon - Dreamcatcher - Alexandre Desplat',
+	},
+	{
+		url: 'https://soundcloud.com/hans-zimmer-official/dream-of-arrakis?in=hans-zimmer-official/sets/dune-original-motion-picture',
+		answer: 'Dune - Dream of Arrakis - Hans Zimmer',
+	},
+	{
+		url: 'https://soundcloud.com/hans-zimmer-official/herald-of-the-change?in=hans-zimmer-official/sets/dune-original-motion-picture',
+		answer: 'Dune - Herald of the Change - Hans Zimmer',
+	},
+	{
+		url: 'https://soundcloud.com/hans-zimmer-official/bene-gesserit?in=hans-zimmer-official/sets/dune-original-motion-picture',
+		answer: 'Dune - Bene Gesserit - Hans Zimmer',
+	},
+	{
+		url: 'https://soundcloud.com/hans-zimmer-official/gom-jabbar?in=hans-zimmer-official/sets/dune-original-motion-picture',
+		answer: 'Dune - Gom Jabbar - Hans Zimmer',
+	},
+	{
+		url: 'https://soundcloud.com/hans-zimmer-official/the-one?in=hans-zimmer-official/sets/dune-original-motion-picture',
+		answer: 'Dune - The One - Hans Zimmer',
+	},
+	{
+		url: 'https://soundcloud.com/hans-zimmer-official/leaving-caladan?in=hans-zimmer-official/sets/dune-original-motion-picture',
+		answer: 'Dune - Leaving Caladan - Hans Zimmer',
+	},
+	{
+		url: 'https://soundcloud.com/hans-zimmer-official/arrakeen?in=hans-zimmer-official/sets/dune-original-motion-picture',
+		answer: 'Dune - Arrakeen - Hans Zimmer',
+	},
+	{
+		url: 'https://soundcloud.com/hans-zimmer-official/ripples-in-the-sand?in=hans-zimmer-official/sets/dune-original-motion-picture',
+		answer: 'Dune - Ripples in the Sand - Hans Zimmer',
+	},
+	{
+		url: 'https://soundcloud.com/hans-zimmer-official/visions-of-chani?in=hans-zimmer-official/sets/dune-original-motion-picture',
+		answer: 'Dune - Visions of Chani - Hans Zimmer',
+	},
+	{
+		url: 'https://soundcloud.com/hans-zimmer-official/night-on-arrakis?in=hans-zimmer-official/sets/dune-original-motion-picture',
+		answer: 'Dune - Night on Arrakis - Hans Zimmer',
+	},
+	{
+		url: 'https://soundcloud.com/hans-zimmer-official/armada?in=hans-zimmer-official/sets/dune-original-motion-picture',
+		answer: 'Dune - Armada - Hans Zimmer',
+	},
+	{
+		url: 'https://soundcloud.com/hans-zimmer-official/burning-palms?in=hans-zimmer-official/sets/dune-original-motion-picture',
+		answer: 'Dune - Burning Palms - Hans Zimmer',
+	},
+	{
+		url: 'https://soundcloud.com/hans-zimmer-official/stranded?in=hans-zimmer-official/sets/dune-original-motion-picture',
+		answer: 'Dune - Stranded - Hans Zimmer',
+	},
+	{
+		url: 'https://soundcloud.com/hans-zimmer-official/blood-for-blood?in=hans-zimmer-official/sets/dune-original-motion-picture',
+		answer: 'Dune - Blood for Blood - Hans Zimmer',
+	},
+	{
+		url: 'https://soundcloud.com/hans-zimmer-official/the-fall?in=hans-zimmer-official/sets/dune-original-motion-picture',
+		answer: 'Dune - The Fall - Hans Zimmer',
+	},
+	{
+		url: 'https://soundcloud.com/toproduction/avatar-soundtrack-becoming-one',
+		answer:
+			'Avatar - Becoming One of "The People" Becoming One With Neytiri - James Horner',
+	},
+	{
+		url: 'https://soundcloud.com/jmbernard/end-credits-from-e-t-the-extra',
+		answer: 'E.T. The Extraterrestrial - End Credits - John Williams',
+	},
+	{
+		url: 'https://soundcloud.com/vangelismusic/main-titles-from-blade-runner?in=vangelismusic/sets/blade-runner-3',
+		answer: 'Blade Runner - Main Titles - Vangelis',
+	},
+	{
+		url: 'https://soundcloud.com/vangelismusic/blush-response?in=vangelismusic/sets/blade-runner-3',
+		answer: 'Blade Runner - Blush Response - Vangelis',
+	},
+	{
+		url: 'https://soundcloud.com/vangelismusic/wait-for-me?in=vangelismusic/sets/blade-runner-3',
+		answer: 'Blade Runner - Wait for Me - Vangelis',
+	},
+	{
+		url: 'https://soundcloud.com/vangelismusic/rachels-song-2?in=vangelismusic/sets/blade-runner-3',
+		answer: "Blade Runner - Rachel's Song - Vangelis",
+	},
+	{
+		url: 'https://soundcloud.com/vangelismusic/love-theme-from-blade-runner?in=vangelismusic/sets/blade-runner-3',
+		answer: 'Blade Runner - Love Theme - Vangelis',
+	},
+	{
+		url: 'https://soundcloud.com/vangelismusic/one-more-kiss-dear?in=vangelismusic/sets/blade-runner-3',
+		answer: 'Blade Runner - One More Kiss, Dear - Vangelis',
+	},
+	{
+		url: 'https://soundcloud.com/vangelismusic/blade-runner-blues?in=vangelismusic/sets/blade-runner-3',
+		answer: 'Blade Runner - Blade Runner Blues - Vangelis',
+	},
+	{
+		url: 'https://soundcloud.com/vangelismusic/memories-of-green?in=vangelismusic/sets/blade-runner-3',
+		answer: 'Blade Runner - Memories of Green - Vangelis',
+	},
+	{
+		url: 'https://soundcloud.com/vangelismusic/tales-of-the-future?in=vangelismusic/sets/blade-runner-3',
+		answer: 'Blade Runner - Tales of the Future - Vangelis',
+	},
+	{
+		url: 'https://soundcloud.com/vangelismusic/damask-rose?in=vangelismusic/sets/blade-runner-3',
+		answer: 'Blade Runner - Damask Rose - Vangelis',
+	},
+	{
+		url: 'https://soundcloud.com/vangelismusic/blade-runner-end-titles?in=vangelismusic/sets/blade-runner-3',
+		answer: 'Blade Runner - Blade Runner (End Titles) - Vangelis',
+	},
+	{
+		url: 'https://soundcloud.com/vangelismusic/tears-in-rain?in=vangelismusic/sets/blade-runner-3',
+		answer: 'Blade Runner - Tears in Rain - Vangelis',
+	},
+	{
+		url: 'https://soundcloud.com/danny-elfman-official/main-titles-from-the',
+		answer: 'Beetlejuice - Main Titles - Danny Elfman',
+	},
+	{
+		url: 'https://soundcloud.com/michaelcrawfordofficial/put-on-your-sunday-clothes?in=thomas-newman-official/sets/wall-e-2',
+		answer: 'WALL-E - Put On Your Sunday Clothes - Thomas Newman',
+	},
+	{
+		url: 'https://soundcloud.com/thomas-newman-official/2815-a-d?in=thomas-newman-official/sets/wall-e-2',
+		answer: 'WALL-E - 2815 A.D. - Thomas Newman',
+	},
+	{
+		url: 'https://soundcloud.com/thomas-newman-official/wall-e?in=thomas-newman-official/sets/wall-e-2',
+		answer: 'WALL-E - Wall-E - Thomas Newman',
+	},
+	{
+		url: 'https://soundcloud.com/thomas-newman-official/the-spaceship?in=thomas-newman-official/sets/wall-e-2',
+		answer: 'WALL-E - The Spaceship - Thomas Newman',
+	},
+	{
+		url: 'https://soundcloud.com/thomas-newman-official/eve?in=thomas-newman-official/sets/wall-e-2',
+		answer: 'WALL-E - EVE - Thomas Newman',
+	},
+	{
+		url: 'https://soundcloud.com/thomas-newman-official/thrust?in=thomas-newman-official/sets/wall-e-2',
+		answer: 'WALL-E - Thrust - Thomas Newman',
+	},
+	{
+		url: 'https://soundcloud.com/thomas-newman-official/bubble-wrap?in=thomas-newman-official/sets/wall-e-2',
+		answer: 'WALL-E - Bubble Wrap - Thomas Newman',
+	},
+	{
+		url: 'https://soundcloud.com/louisarmstrongofficial/la-vie-en-rose-single-version?in=thomas-newman-official/sets/wall-e-2',
+		answer: 'WALL-E - La vie en rose (Single Version) - Thomas Newman',
+	},
+	{
+		url: 'https://soundcloud.com/thomas-newman-official/eye-surgery?in=thomas-newman-official/sets/wall-e-2',
+		answer: 'WALL-E - Eye Surgery - Thomas Newman',
+	},
+	{
+		url: 'https://soundcloud.com/thomas-newman-official/worry-wait?in=thomas-newman-official/sets/wall-e-2',
+		answer: 'WALL-E - Worry Wait - Thomas Newman',
+	},
+	{
+		url: 'https://soundcloud.com/thomas-newman-official/first-date?in=thomas-newman-official/sets/wall-e-2',
+		answer: 'WALL-E - First Date - Thomas Newman',
+	},
+	{
+		url: 'https://soundcloud.com/thomas-newman-official/eve-retrieve?in=thomas-newman-official/sets/wall-e-2',
+		answer: 'WALL-E - Eve Retrieve - Thomas Newman',
+	},
+	{
+		url: 'https://soundcloud.com/thomas-newman-official/the-axiom?in=thomas-newman-official/sets/wall-e-2',
+		answer: 'WALL-E - The Axiom - Thomas Newman',
+	},
+	{
+		url: 'https://soundcloud.com/thomas-newman-official/bnl?in=thomas-newman-official/sets/wall-e-2',
+		answer: 'WALL-E - BNL - Thomas Newman',
+	},
+	{
+		url: 'https://soundcloud.com/thomas-newman-official/foreign-contaminant?in=thomas-newman-official/sets/wall-e-2',
+		answer: 'WALL-E - Foreign Contaminant - Thomas Newman',
+	},
+	{
+		url: 'https://soundcloud.com/thomas-newman-official/repair-ward?in=thomas-newman-official/sets/wall-e-2',
+		answer: 'WALL-E - Repair Ward - Thomas Newman',
+	},
+	{
+		url: 'https://soundcloud.com/thomas-newman-official/72-degrees-and-sunny?in=thomas-newman-official/sets/wall-e-2',
+		answer: 'WALL-E - 72 Degrees and Sunny - Thomas Newman',
+	},
+	{
+		url: 'https://soundcloud.com/thomas-newman-official/typing-bot?in=thomas-newman-official/sets/wall-e-2',
+		answer: 'WALL-E - Typing Bot - Thomas Newman',
+	},
+	{
+		url: 'https://soundcloud.com/thomas-newman-official/septuacentennial?in=thomas-newman-official/sets/wall-e-2',
+		answer: 'WALL-E - Septuacentennial - Thomas Newman',
+	},
+	{
+		url: 'https://soundcloud.com/thomas-newman-official/gopher?in=thomas-newman-official/sets/wall-e-2',
+		answer: 'WALL-E - Gopher - Thomas Newman',
+	},
+	{
+		url: 'https://soundcloud.com/thomas-newman-official/wall-es-pod-adventure?in=thomas-newman-official/sets/wall-e-2',
+		answer: "WALL-E - Wall-E's Pod Adventure - Thomas Newman",
+	},
+	{
+		url: 'https://soundcloud.com/thomas-newman-official/define-dancing?in=thomas-newman-official/sets/wall-e-2',
+		answer: 'WALL-E - Define Dancing - Thomas Newman',
+	},
+	{
+		url: 'https://soundcloud.com/thomas-newman-official/no-splashing-no-diving?in=thomas-newman-official/sets/wall-e-2',
+		answer: 'WALL-E - No Splashing No Diving - Thomas Newman',
+	},
+	{
+		url: 'https://soundcloud.com/thomas-newman-official/all-that-loves-about?in=thomas-newman-official/sets/wall-e-2',
+		answer: "WALL-E - All That Love's About - Thomas Newman",
+	},
+	{
+		url: 'https://soundcloud.com/thomas-newman-official/m-o?in=thomas-newman-official/sets/wall-e-2',
+		answer: 'WALL-E - M-O - Thomas Newman',
+	},
+	{
+		url: 'https://soundcloud.com/thomas-newman-official/directive-a-113?in=thomas-newman-official/sets/wall-e-2',
+		answer: 'WALL-E - Directive A-113 - Thomas Newman',
+	},
+	{
+		url: 'https://soundcloud.com/thomas-newman-official/mutiny?in=thomas-newman-official/sets/wall-e-2',
+		answer: 'WALL-E - Mutiny! - Thomas Newman',
+	},
+	{
+		url: 'https://soundcloud.com/thomas-newman-official/fixing-wall-e?in=thomas-newman-official/sets/wall-e-2',
+		answer: 'WALL-E - Fixing Wall-E - Thomas Newman',
+	},
+	{
+		url: 'https://soundcloud.com/thomas-newman-official/rogue-robots?in=thomas-newman-official/sets/wall-e-2',
+		answer: 'WALL-E - Rogue Robots - Thomas Newman',
+	},
+	{
+		url: 'https://soundcloud.com/thomas-newman-official/march-of-the-gels?in=thomas-newman-official/sets/wall-e-2',
+		answer: 'WALL-E - March of the Gels - Thomas Newman',
+	},
+	{
+		url: 'https://soundcloud.com/thomas-newman-official/tilt?in=thomas-newman-official/sets/wall-e-2',
+		answer: 'WALL-E - Tilt - Thomas Newman',
+	},
+	{
+		url: 'https://soundcloud.com/thomas-newman-official/the-holo-detector?in=thomas-newman-official/sets/wall-e-2',
+		answer: 'WALL-E - The Holo-Detector - Thomas Newman',
+	},
+	{
+		url: 'https://soundcloud.com/thomas-newman-official/hyperjump?in=thomas-newman-official/sets/wall-e-2',
+		answer: 'WALL-E - Hyperjump - Thomas Newman',
+	},
+	{
+		url: 'https://soundcloud.com/thomas-newman-official/desperate-eve?in=thomas-newman-official/sets/wall-e-2',
+		answer: 'WALL-E - Desperate Eve - Thomas Newman',
+	},
+	{
+		url: 'https://soundcloud.com/thomas-newman-official/static?in=thomas-newman-official/sets/wall-e-2',
+		answer: 'WALL-E - Static - Thomas Newman',
+	},
+	{
+		url: 'https://soundcloud.com/michaelcrawfordofficial/it-only-takes-a-moment?in=thomas-newman-official/sets/wall-e-2',
+		answer: 'WALL-E - It Only Takes A Moment - Thomas Newman',
+	},
+	{
+		url: 'https://soundcloud.com/peter-gabriel-official/down-to-earth?in=thomas-newman-official/sets/wall-e-2',
+		answer:
+			'WALL-E - Down To Earth (Soundtrack) [feat. Soweto Gospel Choir] - Thomas Newman',
+	},
+	{
+		url: 'https://soundcloud.com/thomas-newman-official/horizon-12-2?in=thomas-newman-official/sets/wall-e-2',
+		answer: 'WALL-E - Horizon 12.2 - Thomas Newman',
+	},
+	{
+		url: 'https://soundcloud.com/john-carpenter-official/the-thing-1',
+		answer: 'The Thing - The Thing - John Carpenter',
+	},
+	{
+		url: 'https://soundcloud.com/james-horner-official/legends-of-the-fall-album?in=james-horner-official/sets/legends-of-the-fall-original',
+		answer: 'Legends Of The Fall - Legends of the Fall - James Horner',
+	},
+	{
+		url: 'https://soundcloud.com/james-horner-official/the-ludlows?in=james-horner-official/sets/legends-of-the-fall-original',
+		answer: 'Legends Of The Fall - The Ludlows - James Horner',
+	},
+	{
+		url: 'https://soundcloud.com/james-horner-official/off-to-war-album-version?in=james-horner-official/sets/legends-of-the-fall-original',
+		answer: 'Legends Of The Fall - Off to War - James Horner',
+	},
+	{
+		url: 'https://soundcloud.com/james-horner-official/to-the-boys-album-version?in=james-horner-official/sets/legends-of-the-fall-original',
+		answer: 'Legends Of The Fall - To the Boys - James Horner',
+	},
+	{
+		url: 'https://soundcloud.com/james-horner-official/samuels-death-album-version?in=james-horner-official/sets/legends-of-the-fall-original',
+		answer: "Legends Of The Fall - Samuel's Death - James Horner",
+	},
+	{
+		url: 'https://soundcloud.com/james-horner-official/alfred-moves-to-helena-album?in=james-horner-official/sets/legends-of-the-fall-original',
+		answer: 'Legends Of The Fall - Alfred Moves to Helena - James Horner',
+	},
+	{
+		url: 'https://soundcloud.com/james-horner-official/farewell-descent-into-madness?in=james-horner-official/sets/legends-of-the-fall-original',
+		answer: 'Legends Of The Fall - Farewell/Descent Into Madness - James Horner',
+	},
+	{
+		url: 'https://soundcloud.com/james-horner-official/the-changing-seasons-wild?in=james-horner-official/sets/legends-of-the-fall-original',
+		answer:
+			"Legends Of The Fall - The Changing Seasons, Wild Horses, Tristan's Return - James Horner",
+	},
+	{
+		url: 'https://soundcloud.com/james-horner-official/the-wedding-album-version?in=james-horner-official/sets/legends-of-the-fall-original',
+		answer: 'Legends Of The Fall - The Wedding - James Horner',
+	},
+	{
+		url: 'https://soundcloud.com/james-horner-official/isabels-murder-recollections?in=james-horner-official/sets/legends-of-the-fall-original',
+		answer:
+			"Legends Of The Fall - Isabel's Murder, Recollections of Samuel - James Horner",
+	},
+	{
+		url: 'https://soundcloud.com/james-horner-official/revenge-album-version?in=james-horner-official/sets/legends-of-the-fall-original',
+		answer: 'Legends Of The Fall - Revenge - James Horner',
+	},
+	{
+		url: 'https://soundcloud.com/james-horner-official/goodbyes-album-version?in=james-horner-official/sets/legends-of-the-fall-original',
+		answer: 'Legends Of The Fall - Goodbyes - James Horner',
+	},
+	{
+		url: 'https://soundcloud.com/james-horner-official/alfred-tristan-the-colonel-the?in=james-horner-official/sets/legends-of-the-fall-original',
+		answer:
+			'Legends Of The Fall - Alfred, Tristan, The Colonel, The Legend.. - James Horner',
+	},
+	{
+		url: 'https://soundcloud.com/mandy-moore-official/when-will-my-life-begin-from?in=alan-menken/sets/tangled-12',
+		answer: 'Tangled - When Will My Life Begin? - Alan Menken',
+	},
+	{
+		url: 'https://soundcloud.com/mandy-moore-official/when-will-my-life-begin?in=alan-menken/sets/tangled-12',
+		answer: 'Tangled - When Will My Life Begin (Reprise 1) - Alan Menken',
+	},
+	{
+		url: 'https://soundcloud.com/donna-murphy-official/mother-knows-best?in=alan-menken/sets/tangled-12',
+		answer: 'Tangled - Mother Knows Best - Alan Menken',
+	},
+	{
+		url: 'https://soundcloud.com/mandy-moore-official/when-will-my-life-begin-1?in=alan-menken/sets/tangled-12',
+		answer: 'Tangled - When Will My Life Begin (Reprise 2) - Alan Menken',
+	},
+	{
+		url: 'https://soundcloud.com/mandy-moore-official/ive-got-a-dream?in=alan-menken/sets/tangled-12',
+		answer: "Tangled - I've Got a Dream - Alan Menken",
+	},
+	{
+		url: 'https://soundcloud.com/donna-murphy-official/mother-knows-best-reprise?in=alan-menken/sets/tangled-12',
+		answer: 'Tangled - Mother Knows Best (Reprise) - Alan Menken',
+	},
+	{
+		url: 'https://soundcloud.com/mandy-moore-official/i-see-the-light-from-tangled?in=alan-menken/sets/tangled-12',
+		answer: 'Tangled - I See the Light - Alan Menken',
+	},
+	{
+		url: 'https://soundcloud.com/mandy-moore-official/healing-incantation?in=alan-menken/sets/tangled-12',
+		answer: 'Tangled - Healing Incantation - Alan Menken',
+	},
+	{
+		url: 'https://soundcloud.com/alan-menken/flynn-wanted?in=alan-menken/sets/tangled-12',
+		answer: 'Tangled - Flynn Wanted (From "Tangled"/Score) - Alan Menken',
+	},
+	{
+		url: 'https://soundcloud.com/donna-murphy-official/prologue?in=alan-menken/sets/tangled-12',
+		answer: 'Tangled - Prologue - Alan Menken',
+	},
+	{
+		url: 'https://soundcloud.com/alan-menken/horse-with-no-rider?in=alan-menken/sets/tangled-12',
+		answer: 'Tangled - Horse with No Rider - Alan Menken',
+	},
+	{
+		url: 'https://soundcloud.com/alan-menken/escape-route?in=alan-menken/sets/tangled-12',
+		answer: 'Tangled - Escape Route - Alan Menken',
+	},
+	{
+		url: 'https://soundcloud.com/alan-menken/campfire?in=alan-menken/sets/tangled-12',
+		answer: 'Tangled - Campfire - Alan Menken',
+	},
+	{
+		url: 'https://soundcloud.com/alan-menken/kingdom-dance?in=alan-menken/sets/tangled-12',
+		answer: 'Tangled - Kingdom Dance - Alan Menken',
+	},
+	{
+		url: 'https://soundcloud.com/alan-menken/waiting-for-the-lights?in=alan-menken/sets/tangled-12',
+		answer: 'Tangled - Waiting for the Lights - Alan Menken',
+	},
+	{
+		url: 'https://soundcloud.com/elmer-bernstein/the-end',
+		answer: 'Cape Fear - The End - Elmer Bernstein',
+	},
+	{
+		url: 'https://soundcloud.com/ryuichi-sakamoto-official/the-revenant-main-theme?in=ryuichi-sakamoto-official/sets/the-revenant-original-motion-1',
+		answer: 'The Revenant - The Revenant Main Theme - Ryuichi Sakamoto',
+	},
+	{
+		url: 'https://soundcloud.com/ryuichi-sakamoto-official/hawk-punished-1?in=ryuichi-sakamoto-official/sets/the-revenant-original-motion-1',
+		answer: 'The Revenant - Hawk Punished - Ryuichi Sakamoto',
+	},
+	{
+		url: 'https://soundcloud.com/ryuichi-sakamoto-official/carrying-glass?in=ryuichi-sakamoto-official/sets/the-revenant-original-motion-1',
+		answer: 'The Revenant - Carrying Glass - Ryuichi Sakamoto',
+	},
+	{
+		url: 'https://soundcloud.com/ryuichi-sakamoto-official/first-dream-1?in=ryuichi-sakamoto-official/sets/the-revenant-original-motion-1',
+		answer: 'The Revenant - First Dream - Ryuichi Sakamoto',
+	},
+	{
+		url: 'https://soundcloud.com/ryuichi-sakamoto-official/killing-hawk-1?in=ryuichi-sakamoto-official/sets/the-revenant-original-motion-1',
+		answer: 'The Revenant - Killing Hawk - Ryuichi Sakamoto',
+	},
+	{
+		url: 'https://soundcloud.com/ryuichi-sakamoto-official/discovering-river?in=ryuichi-sakamoto-official/sets/the-revenant-original-motion-1',
+		answer: 'The Revenant - Discovering River - Ryuichi Sakamoto',
+	},
+	{
+		url: 'https://soundcloud.com/ryuichi-sakamoto-official/goodbye-to-hawk?in=ryuichi-sakamoto-official/sets/the-revenant-original-motion-1',
+		answer: 'The Revenant - Goodbye to Hawk - Ryuichi Sakamoto',
+	},
+	{
+		url: 'https://soundcloud.com/ryuichi-sakamoto-official/discovering-buffalo?in=ryuichi-sakamoto-official/sets/the-revenant-original-motion-1',
+		answer: 'The Revenant - Discovering Buffalo - Ryuichi Sakamoto',
+	},
+	{
+		url: 'https://soundcloud.com/ryuichi-sakamoto-official/hell-ensemble?in=ryuichi-sakamoto-official/sets/the-revenant-original-motion-1',
+		answer: 'The Revenant - Hell Ensemble - Ryuichi Sakamoto',
+	},
+	{
+		url: 'https://soundcloud.com/ryuichi-sakamoto-official/glass-and-buffalo-warrior?in=ryuichi-sakamoto-official/sets/the-revenant-original-motion-1',
+		answer: 'The Revenant - Glass and Buffalo Warrior Travel - Ryuichi Sakamoto',
+	},
+	{
+		url: 'https://soundcloud.com/ryuichi-sakamoto-official/arriving-at-fort-kiowa?in=ryuichi-sakamoto-official/sets/the-revenant-original-motion-1',
+		answer: 'The Revenant - Arriving at Fort Kiowa - Ryuichi Sakamoto',
+	},
+	{
+		url: 'https://soundcloud.com/ryuichi-sakamoto-official/church-dream-1?in=ryuichi-sakamoto-official/sets/the-revenant-original-motion-1',
+		answer: 'The Revenant - Church Dream - Ryuichi Sakamoto',
+	},
+	{
+		url: 'https://soundcloud.com/ryuichi-sakamoto-official/powaqa-rescue?in=ryuichi-sakamoto-official/sets/the-revenant-original-motion-1',
+		answer: 'The Revenant - Powaqa Rescue - Ryuichi Sakamoto',
+	},
+	{
+		url: 'https://soundcloud.com/ryuichi-sakamoto-official/imagining-buffalo?in=ryuichi-sakamoto-official/sets/the-revenant-original-motion-1',
+		answer: 'The Revenant - Imagining Buffalo - Ryuichi Sakamoto',
+	},
+	{
+		url: 'https://soundcloud.com/ryuichi-sakamoto-official/the-revenant-theme-2-1?in=ryuichi-sakamoto-official/sets/the-revenant-original-motion-1',
+		answer: 'The Revenant - The Revenant Theme 2 - Ryuichi Sakamoto',
+	},
+	{
+		url: 'https://soundcloud.com/munichsymphony/main-title?in=howard-shore-official/sets/the-silence-of-the-lambs-1',
+		answer: 'The Silence Of The Lambs - Main Title - Howard Shore',
+	},
+	{
+		url: 'https://soundcloud.com/howard-shore-official/the-asylum?in=howard-shore-official/sets/the-silence-of-the-lambs-1',
+		answer: 'The Silence Of The Lambs - The Asylum - Howard Shore',
+	},
+	{
+		url: 'https://soundcloud.com/howard-shore-official/clarice?in=howard-shore-official/sets/the-silence-of-the-lambs-1',
+		answer: 'The Silence Of The Lambs - Clarice - Howard Shore',
+	},
+	{
+		url: 'https://soundcloud.com/howard-shore-official/return-to-the-asylum?in=howard-shore-official/sets/the-silence-of-the-lambs-1',
+		answer: 'The Silence Of The Lambs - Return To The Asylum - Howard Shore',
+	},
+	{
+		url: 'https://soundcloud.com/howard-shore-official/the-abduction?in=howard-shore-official/sets/the-silence-of-the-lambs-1',
+		answer: 'The Silence Of The Lambs - The Abduction - Howard Shore',
+	},
+	{
+		url: 'https://soundcloud.com/howard-shore-official/quid-pro-quo?in=howard-shore-official/sets/the-silence-of-the-lambs-1',
+		answer: 'The Silence Of The Lambs - Quid Pro Quo - Howard Shore',
+	},
+	{
+		url: 'https://soundcloud.com/howard-shore-official/lecter-in-memphis?in=howard-shore-official/sets/the-silence-of-the-lambs-1',
+		answer: 'The Silence Of The Lambs - Lecter In Memphis - Howard Shore',
+	},
+	{
+		url: 'https://soundcloud.com/howard-shore-official/lambs-screaming-1?in=howard-shore-official/sets/the-silence-of-the-lambs-1',
+		answer: 'The Silence Of The Lambs - Lambs Screaming - Howard Shore',
+	},
+	{
+		url: 'https://soundcloud.com/howard-shore-official/lecter-escapes?in=howard-shore-official/sets/the-silence-of-the-lambs-1',
+		answer: 'The Silence Of The Lambs - Lecter Escapes - Howard Shore',
+	},
+	{
+		url: 'https://soundcloud.com/howard-shore-official/belvedere-ohio?in=howard-shore-official/sets/the-silence-of-the-lambs-1',
+		answer: 'The Silence Of The Lambs - Belvedere, Ohio - Howard Shore',
+	},
+	{
+		url: 'https://soundcloud.com/howard-shore-official/the-moth?in=howard-shore-official/sets/the-silence-of-the-lambs-1',
+		answer: 'The Silence Of The Lambs - The Moth - Howard Shore',
+	},
+	{
+		url: 'https://soundcloud.com/howard-shore-official/the-cellar?in=howard-shore-official/sets/the-silence-of-the-lambs-1',
+		answer: 'The Silence Of The Lambs - The Cellar - Howard Shore',
+	},
+	{
+		url: 'https://soundcloud.com/howard-shore-official/finale?in=howard-shore-official/sets/the-silence-of-the-lambs-1',
+		answer: 'The Silence Of The Lambs - Finale - Howard Shore',
+	},
+	{
+		url: 'https://soundcloud.com/mychael-danna/pis-lullaby?in=mychael-danna/sets/life-of-pi-22',
+		answer: "Life of Pi - Pi's Lullaby - Mychael Danna",
+	},
+	{
+		url: 'https://soundcloud.com/mychael-danna/piscine-molitor-patel-sous-le?in=mychael-danna/sets/life-of-pi-22',
+		answer:
+			'Life of Pi - Piscine Molitor Patel / Sous le Ciel de Paris - Mychael Danna',
+	},
+	{
+		url: 'https://soundcloud.com/mychael-danna/pondicherry?in=mychael-danna/sets/life-of-pi-22',
+		answer: 'Life of Pi - Pondicherry - Mychael Danna',
+	},
+	{
+		url: 'https://soundcloud.com/mychael-danna/meeting-krishna?in=mychael-danna/sets/life-of-pi-22',
+		answer: 'Life of Pi - Meeting Krishna - Mychael Danna',
+	},
+	{
+		url: 'https://soundcloud.com/mychael-danna/christ-in-the-mountains?in=mychael-danna/sets/life-of-pi-22',
+		answer: 'Life of Pi - Christ in the Mountains - Mychael Danna',
+	},
+	{
+		url: 'https://soundcloud.com/mychael-danna/thank-you-vishnu-for?in=mychael-danna/sets/life-of-pi-22',
+		answer:
+			'Life of Pi - Thank you Vishnu for Introducing me to Christ / Raga Ahir Bhairav - Mychael Danna',
+	},
+	{
+		url: 'https://soundcloud.com/mychael-danna/richard-parker?in=mychael-danna/sets/life-of-pi-22',
+		answer: 'Life of Pi - Richard Parker - Mychael Danna',
+	},
+	{
+		url: 'https://soundcloud.com/mychael-danna/appas-lesson?in=mychael-danna/sets/life-of-pi-22',
+		answer: "Life of Pi - Appa's Lesson - Mychael Danna",
+	},
+	{
+		url: 'https://soundcloud.com/mychael-danna/anandi?in=mychael-danna/sets/life-of-pi-22',
+		answer: 'Life of Pi - Anandi - Mychael Danna',
+	},
+	{
+		url: 'https://soundcloud.com/mychael-danna/leaving-india?in=mychael-danna/sets/life-of-pi-22',
+		answer: 'Life of Pi - Leaving India - Mychael Danna',
+	},
+	{
+		url: 'https://soundcloud.com/mychael-danna/the-deepest-spot-on-earth?in=mychael-danna/sets/life-of-pi-22',
+		answer: 'Life of Pi - The Deepest Spot on Earth - Mychael Danna',
+	},
+	{
+		url: 'https://soundcloud.com/mychael-danna/tsimtsum?in=mychael-danna/sets/life-of-pi-22',
+		answer: 'Life of Pi - Tsimtsum - Mychael Danna',
+	},
+	{
+		url: 'https://soundcloud.com/mychael-danna/death-of-the-zebra?in=mychael-danna/sets/life-of-pi-22',
+		answer: 'Life of Pi - Death of the Zebra - Mychael Danna',
+	},
+	{
+		url: 'https://soundcloud.com/mychael-danna/first-night-first-day?in=mychael-danna/sets/life-of-pi-22',
+		answer: 'Life of Pi - First Night, First Day - Mychael Danna',
+	},
+	{
+		url: 'https://soundcloud.com/mychael-danna/set-your-house-in-order?in=mychael-danna/sets/life-of-pi-22',
+		answer: 'Life of Pi - Set Your House in Order - Mychael Danna',
+	},
+	{
+		url: 'https://soundcloud.com/tyler-bates-official/morag?in=tyler-bates-official/sets/strazhi-galaktiki',
+		answer: 'Guardians of the Galaxy - Morag - Tyler Bates',
+	},
+	{
+		url: 'https://soundcloud.com/tyler-bates-official/the-final-battle-begins?in=tyler-bates-official/sets/strazhi-galaktiki',
+		answer: 'Guardians of the Galaxy - The Final Battle Begins - Tyler Bates',
+	},
+	{
+		url: 'https://soundcloud.com/tyler-bates-official/plasma-ball?in=tyler-bates-official/sets/strazhi-galaktiki',
+		answer: 'Guardians of the Galaxy - Plasma Ball - Tyler Bates',
+	},
+	{
+		url: 'https://soundcloud.com/tyler-bates-official/quills-big-retreat?in=tyler-bates-official/sets/strazhi-galaktiki',
+		answer: "Guardians of the Galaxy - Quill's Big Retreat - Tyler Bates",
+	},
+	{
+		url: 'https://soundcloud.com/tyler-bates-official/to-the-stars?in=tyler-bates-official/sets/strazhi-galaktiki',
+		answer: 'Guardians of the Galaxy - To the Stars - Tyler Bates',
+	},
+	{
+		url: 'https://soundcloud.com/tyler-bates-official/ronans-theme?in=tyler-bates-official/sets/strazhi-galaktiki',
+		answer: "Guardians of the Galaxy - Ronan's Theme - Tyler Bates",
+	},
+	{
+		url: 'https://soundcloud.com/tyler-bates-official/everyones-an-idiot?in=tyler-bates-official/sets/strazhi-galaktiki',
+		answer: "Guardians of the Galaxy - Everyone's an Idiot - Tyler Bates",
+	},
+	{
+		url: 'https://soundcloud.com/tyler-bates-official/what-a-bunch-of-a-holes?in=tyler-bates-official/sets/strazhi-galaktiki',
+		answer: 'Guardians of the Galaxy - What a Bunch of A-Holes - Tyler Bates',
+	},
+	{
+		url: 'https://soundcloud.com/tyler-bates-official/busted?in=tyler-bates-official/sets/strazhi-galaktiki',
+		answer: 'Guardians of the Galaxy - Busted - Tyler Bates',
+	},
+	{
+		url: 'https://soundcloud.com/tyler-bates-official/the-new-meat?in=tyler-bates-official/sets/strazhi-galaktiki',
+		answer: 'Guardians of the Galaxy - The New Meat - Tyler Bates',
+	},
+	{
+		url: 'https://soundcloud.com/tyler-bates-official/the-destroyer?in=tyler-bates-official/sets/strazhi-galaktiki',
+		answer: 'Guardians of the Galaxy - The Destroyer - Tyler Bates',
+	},
+	{
+		url: 'https://soundcloud.com/tyler-bates-official/sanctuary?in=tyler-bates-official/sets/strazhi-galaktiki',
+		answer: 'Guardians of the Galaxy - Sanctuary - Tyler Bates',
+	},
+	{
+		url: 'https://soundcloud.com/tyler-bates-official/the-kyln-escape?in=tyler-bates-official/sets/strazhi-galaktiki',
+		answer: 'Guardians of the Galaxy - The Kyln Escape - Tyler Bates',
+	},
+	{
+		url: 'https://soundcloud.com/tyler-bates-official/dont-mess-with-my-walkman?in=tyler-bates-official/sets/strazhi-galaktiki',
+		answer: "Guardians of the Galaxy - Don't Mess With My Walkman - Tyler Bates",
+	},
+	{
+		url: 'https://soundcloud.com/tyler-bates-official/the-great-companion?in=tyler-bates-official/sets/strazhi-galaktiki',
+		answer: 'Guardians of the Galaxy - The Great Companion - Tyler Bates',
+	},
+	{
+		url: 'https://soundcloud.com/tyler-bates-official/the-road-to-knowhere?in=tyler-bates-official/sets/strazhi-galaktiki',
+		answer: 'Guardians of the Galaxy - The Road to Knowhere - Tyler Bates',
+	},
+	{
+		url: 'https://soundcloud.com/tyler-bates-official/the-collector?in=tyler-bates-official/sets/strazhi-galaktiki',
+		answer: 'Guardians of the Galaxy - The Collector - Tyler Bates',
+	},
+	{
+		url: 'https://soundcloud.com/tyler-bates-official/ronans-arrival?in=tyler-bates-official/sets/strazhi-galaktiki',
+		answer: "Guardians of the Galaxy - Ronan's Arrival - Tyler Bates",
+	},
+	{
+		url: 'https://soundcloud.com/tyler-bates-official/the-pod-chase?in=tyler-bates-official/sets/strazhi-galaktiki',
+		answer: 'Guardians of the Galaxy - The Pod Chase - Tyler Bates',
+	},
+	{
+		url: 'https://soundcloud.com/tyler-bates-official/sacrifice?in=tyler-bates-official/sets/strazhi-galaktiki',
+		answer: 'Guardians of the Galaxy - Sacrifice - Tyler Bates',
+	},
+	{
+		url: 'https://soundcloud.com/tyler-bates-official/we-all-got-dead-people?in=tyler-bates-official/sets/strazhi-galaktiki',
+		answer: 'Guardians of the Galaxy - We All Got Dead People - Tyler Bates',
+	},
+	{
+		url: 'https://soundcloud.com/tyler-bates-official/the-ballad-of-the-nova-corps?in=tyler-bates-official/sets/strazhi-galaktiki',
+		answer:
+			'Guardians of the Galaxy - The Ballad of the Nova Corps. (Instrumental) - Tyler Bates',
+	},
+	{
+		url: 'https://soundcloud.com/tyler-bates-official/groot-spores?in=tyler-bates-official/sets/strazhi-galaktiki',
+		answer: 'Guardians of the Galaxy - Groot Spores - Tyler Bates',
+	},
+	{
+		url: 'https://soundcloud.com/tyler-bates-official/guardians-united?in=tyler-bates-official/sets/strazhi-galaktiki',
+		answer: 'Guardians of the Galaxy - Guardians United - Tyler Bates',
+	},
+	{
+		url: 'https://soundcloud.com/tyler-bates-official/the-big-blast?in=tyler-bates-official/sets/strazhi-galaktiki',
+		answer: 'Guardians of the Galaxy - The Big Blast - Tyler Bates',
+	},
+	{
+		url: 'https://soundcloud.com/tyler-bates-official/groot-cocoon?in=tyler-bates-official/sets/strazhi-galaktiki',
+		answer: 'Guardians of the Galaxy - Groot Cocoon - Tyler Bates',
+	},
+	{
+		url: 'https://soundcloud.com/tyler-bates-official/black-tears?in=tyler-bates-official/sets/strazhi-galaktiki',
+		answer: 'Guardians of the Galaxy - Black Tears - Tyler Bates',
+	},
+	{
+		url: 'https://soundcloud.com/tyler-bates-official/citizens-unite?in=tyler-bates-official/sets/strazhi-galaktiki',
+		answer: 'Guardians of the Galaxy - Citizens Unite - Tyler Bates',
+	},
+	{
+		url: 'https://soundcloud.com/tyler-bates-official/a-nova-upgrade?in=tyler-bates-official/sets/strazhi-galaktiki',
+		answer: 'Guardians of the Galaxy - A Nova Upgrade - Tyler Bates',
+	},
+	{
+		url: 'https://soundcloud.com/chorus-official/virginia-company-1?in=alan-menken/sets/pocahontas-original-2',
+		answer: 'Pocahontas Original - Virginia Company (1) - Alan Menken',
+	},
+	{
+		url: 'https://soundcloud.com/alan-menken/el-barco-en-el-mar?in=alan-menken/sets/pocahontas-original-2',
+		answer: 'Pocahontas Original - Ship At Sea - Alan Menken',
+	},
+	{
+		url: 'https://soundcloud.com/chorus-official/virginia-company-2?in=alan-menken/sets/pocahontas-original-2',
+		answer: 'Pocahontas Original - Virginia Company (2) - Alan Menken',
+	},
+	{
+		url: 'https://soundcloud.com/chorus-official/jak-uparty-bebna-dzwiek-i?in=alan-menken/sets/pocahontas-original-2',
+		answer: 'Pocahontas Original - Jak Uparty Bebna Dzwiek (I) - Alan Menken',
+	},
+	{
+		url: 'https://soundcloud.com/janusz-zakrzenski/jak-uparty-bebna-dzwiek-ii?in=alan-menken/sets/pocahontas-original-2',
+		answer: 'Pocahontas Original - Jak Uparty Bebna Dzwiek (II) - Alan Menken',
+	},
+	{
+		url: 'https://soundcloud.com/edyta-gorniak/ten-za-lukiem-rzeki-swiat?in=alan-menken/sets/pocahontas-original-2',
+		answer:
+			'Pocahontas Original - Ten za łukiem rzeki świat (z filmu „Pocahontas”/Ścieżka dźwiękowa polskiej wersji) - Alan Menken',
+	},
+	{
+		url: 'https://soundcloud.com/alan-menken/abuela-sauce?in=alan-menken/sets/pocahontas-original-2',
+		answer: 'Pocahontas Original - Grandmother Willow - Alan Menken',
+	},
+	{
+		url: 'https://soundcloud.com/barbara-drapinska/wszystko-pojmiesz-wnet-i?in=alan-menken/sets/pocahontas-original-2',
+		answer: 'Pocahontas Original - Wszystko Pojmiesz Wnet (I) - Alan Menken',
+	},
+	{
+		url: 'https://soundcloud.com/grzegorzwons/moj-moj-moj?in=alan-menken/sets/pocahontas-original-2',
+		answer: 'Pocahontas Original - Mój, Mój, Mój - Alan Menken',
+	},
+	{
+		url: 'https://soundcloud.com/barbara-drapinska/wszyztko-pojmiesz-wnet-ii?in=alan-menken/sets/pocahontas-original-2',
+		answer: 'Pocahontas Original - Wszyztko Pojmiesz Wnet (II) - Alan Menken',
+	},
+	{
+		url: 'https://soundcloud.com/edyta-gorniak/kolorowy-wiatr?in=alan-menken/sets/pocahontas-original-2',
+		answer: 'Pocahontas Original - Kolorowy Wiatr - Alan Menken',
+	},
+	{
+		url: 'https://soundcloud.com/janusz-zakrzenski/dzicy-sa-cz-1?in=alan-menken/sets/pocahontas-original-2',
+		answer: 'Pocahontas Original - Dzicy Sa (Cz 1) - Alan Menken',
+	},
+	{
+		url: 'https://soundcloud.com/janusz-zakrzenski/dzicy-sa-cz-2?in=alan-menken/sets/pocahontas-original-2',
+		answer: 'Pocahontas Original - Dzicy Sa (Cz 2) - Alan Menken',
+	},
+	{
+		url: 'https://soundcloud.com/alan-menken/no-le-volvere-a-ver?in=alan-menken/sets/pocahontas-original-2',
+		answer: "Pocahontas Original - I'll Never See Him Again - Alan Menken",
+	},
+	{
+		url: 'https://soundcloud.com/alan-menken/pocahontas?in=alan-menken/sets/pocahontas-original-2',
+		answer: 'Pocahontas Original - Pocahontas - Alan Menken',
+	},
+	{
+		url: 'https://soundcloud.com/danny-elfman-official/overture-the-nightmare-before?in=user-552765053/sets/nightmare-before-christmas',
+		answer:
+			'Nightmare Before Christmas - Overture - (The Nightmare Before Christmas)',
+	},
+	{
+		url: 'https://soundcloud.com/patrick-stewart-official/opening-the-nightmare-before?in=user-552765053/sets/nightmare-before-christmas',
+		answer:
+			'Nightmare Before Christmas - Opening - (The Nightmare Before Christmas)',
+	},
+	{
+		url: 'https://soundcloud.com/hammerstudentassociation/this-is-halloween-the?in=user-552765053/sets/nightmare-before-christmas',
+		answer:
+			'Nightmare Before Christmas - This Is Halloween - The Nightmare Before Christmas',
+	},
+	{
+		url: 'https://soundcloud.com/changeoftrack/jacks-lament-lyrics-nightmare?in=user-552765053/sets/nightmare-before-christmas',
+		answer:
+			"Nightmare Before Christmas - Jack's Lament - Lyrics - Nightmare Before Christmas",
+	},
+	{
+		url: 'https://soundcloud.com/user-811313743/nightmare-before-christmas-whats-this?in=user-552765053/sets/nightmare-before-christmas',
+		answer:
+			"Nightmare Before Christmas - Nightmare Before Christmas - What's This?",
+	},
+	{
+		url: 'https://soundcloud.com/user-460515374/town-meeting-song-the?in=user-552765053/sets/nightmare-before-christmas',
+		answer:
+			'Nightmare Before Christmas - Town Meeting Song - The Nightmare Before Christmas',
+	},
+	{
+		url: 'https://soundcloud.com/user-460515374/jacks-obsession-the-nightmare?in=user-552765053/sets/nightmare-before-christmas',
+		answer:
+			"Nightmare Before Christmas - Jack's Obsession - The Nightmare Before Christmas",
+	},
+	{
+		url: 'https://soundcloud.com/danny-elfman-official/kidnap-the-sandy-claws?in=user-552765053/sets/nightmare-before-christmas',
+		answer: 'Nightmare Before Christmas - Kidnap The Sandy Claws',
+	},
+	{
+		url: 'https://soundcloud.com/danny-elfman-official/making-christmas-1?in=user-552765053/sets/nightmare-before-christmas',
+		answer: 'Nightmare Before Christmas - Making Christmas',
+	},
+	{
+		url: 'https://soundcloud.com/marvinag/the-nightmare-before-christmas-sallys-song?in=user-552765053/sets/nightmare-before-christmas',
+		answer:
+			"Nightmare Before Christmas - The Nightmare Before Christmas - Sally's Song",
+	},
+	{
+		url: 'https://soundcloud.com/danny-elfman-official/poor-jack?in=user-552765053/sets/nightmare-before-christmas',
+		answer: 'Nightmare Before Christmas - Poor Jack',
+	},
+	{
+		url: 'https://soundcloud.com/sing-broadway-now/the-nightmare-before-73116881?in=user-552765053/sets/nightmare-before-christmas',
+		answer: 'Nightmare Before Christmas - Finale / Reprise',
+	},
+	{
+		url: 'https://soundcloud.com/jonnygreenwoodofficial/open-spaces?in=jonnygreenwoodofficial/sets/there-will-be-blood-music-from',
+		answer: 'There Will Be Blood - Open Spaces - Jonny Greenwood',
+	},
+	{
+		url: 'https://soundcloud.com/jonnygreenwoodofficial/future-markets?in=jonnygreenwoodofficial/sets/there-will-be-blood-music-from',
+		answer: 'There Will Be Blood - Future Markets - Jonny Greenwood',
+	},
+	{
+		url: 'https://soundcloud.com/jonnygreenwoodofficial/prospectors-arrive?in=jonnygreenwoodofficial/sets/there-will-be-blood-music-from',
+		answer: 'There Will Be Blood - Prospectors Arrive - Jonny Greenwood',
+	},
+	{
+		url: 'https://soundcloud.com/jonnygreenwoodofficial/eat-him-by-his-own-light?in=jonnygreenwoodofficial/sets/there-will-be-blood-music-from',
+		answer: 'There Will Be Blood - Eat Him By His Own Light - Jonny Greenwood',
+	},
+	{
+		url: 'https://soundcloud.com/jonnygreenwoodofficial/henry-plainview?in=jonnygreenwoodofficial/sets/there-will-be-blood-music-from',
+		answer: 'There Will Be Blood - Henry Plainview - Jonny Greenwood',
+	},
+	{
+		url: 'https://soundcloud.com/jonnygreenwoodofficial/there-will-be-blood?in=jonnygreenwoodofficial/sets/there-will-be-blood-music-from',
+		answer: 'There Will Be Blood - There Will Be Blood - Jonny Greenwood',
+	},
+	{
+		url: 'https://soundcloud.com/jonnygreenwoodofficial/oil?in=jonnygreenwoodofficial/sets/there-will-be-blood-music-from',
+		answer: 'There Will Be Blood - Oil - Jonny Greenwood',
+	},
+	{
+		url: 'https://soundcloud.com/jonnygreenwoodofficial/proven-lands-intro?in=jonnygreenwoodofficial/sets/there-will-be-blood-music-from',
+		answer: 'There Will Be Blood - Proven Lands (Intro) - Jonny Greenwood',
+	},
+	{
+		url: 'https://soundcloud.com/jonnygreenwoodofficial/proven-lands?in=jonnygreenwoodofficial/sets/there-will-be-blood-music-from',
+		answer: 'There Will Be Blood - Proven Lands - Jonny Greenwood',
+	},
+	{
+		url: 'https://soundcloud.com/jonnygreenwoodofficial/hw-hope-of-new-fields?in=jonnygreenwoodofficial/sets/there-will-be-blood-music-from',
+		answer: 'There Will Be Blood - HW / Hope of New Fields - Jonny Greenwood',
+	},
+	{
+		url: 'https://soundcloud.com/jonnygreenwoodofficial/stranded-the-line?in=jonnygreenwoodofficial/sets/there-will-be-blood-music-from',
+		answer: 'There Will Be Blood - Stranded the Line - Jonny Greenwood',
+	},
+	{
+		url: 'https://soundcloud.com/jonnygreenwoodofficial/prospectors-quartet?in=jonnygreenwoodofficial/sets/there-will-be-blood-music-from',
+		answer: "There Will Be Blood - Prospector's Quartet - Jonny Greenwood",
+	},
+	{
+		url: 'https://soundcloud.com/jonnygreenwoodofficial/de-tuned-quartet?in=jonnygreenwoodofficial/sets/there-will-be-blood-music-from',
+		answer: 'There Will Be Blood - De-Tuned Quartet - Jonny Greenwood',
+	},
+	{
+		url: 'https://soundcloud.com/hildurgudnadottir-music/call-me-joker',
+		answer: 'Joker - Call Me Joker - Hildur Guonadottir',
+	},
+	{
+		url: 'https://soundcloud.com/gustavo-santaolalla/opening?in=gustavo-santaolalla/sets/brokeback-mountain-soundtrack',
+		answer: 'Brokeback Mountain - Opening - Gustavo Santaolalla',
+	},
+	{
+		url: 'https://soundcloud.com/willienelsonofficial/he-was-a-friend-of-mine?in=gustavo-santaolalla/sets/brokeback-mountain-soundtrack',
+		answer: 'Brokeback Mountain - He Was A Friend Of Mine - Gustavo Santaolalla',
+	},
+	{
+		url: 'https://soundcloud.com/gustavo-santaolalla/brokeback-mountain-1?in=gustavo-santaolalla/sets/brokeback-mountain-soundtrack',
+		answer: 'Brokeback Mountain - Brokeback Mountain 1 - Gustavo Santaolalla',
+	},
+	{
+		url: 'https://soundcloud.com/emmylouharrisofficial/a-love-that-will-never-grow?in=gustavo-santaolalla/sets/brokeback-mountain-soundtrack',
+		answer:
+			'Brokeback Mountain - A Love That Will Never Grow Old - Gustavo Santaolalla',
+	},
+	{
+		url: 'https://soundcloud.com/teddy-thompson-official/king-of-the-road?in=gustavo-santaolalla/sets/brokeback-mountain-soundtrack',
+		answer: 'Brokeback Mountain - King Of The Road - Gustavo Santaolalla',
+	},
+	{
+		url: 'https://soundcloud.com/gustavo-santaolalla/snow?in=gustavo-santaolalla/sets/brokeback-mountain-soundtrack',
+		answer: 'Brokeback Mountain - Snow - Gustavo Santaolalla',
+	},
+	{
+		url: 'https://soundcloud.com/steveearle/the-devils-right-hand-3?in=gustavo-santaolalla/sets/brokeback-mountain-soundtrack',
+		answer: "Brokeback Mountain - The Devil's Right Hand - Gustavo Santaolalla",
+	},
+	{
+		url: 'https://soundcloud.com/marymcbrideofficial/no-ones-gonna-love-you-like-me?in=gustavo-santaolalla/sets/brokeback-mountain-soundtrack',
+		answer:
+			"Brokeback Mountain - No One's Gonna Love You Like Me - Gustavo Santaolalla",
+	},
+	{
+		url: 'https://soundcloud.com/gustavo-santaolalla/brokeback-mountain-2?in=gustavo-santaolalla/sets/brokeback-mountain-soundtrack',
+		answer: 'Brokeback Mountain - Brokeback Mountain 2 - Gustavo Santaolalla',
+	},
+	{
+		url: 'https://soundcloud.com/teddy-thompson-official/i-dont-want-to-say-goodbye?in=gustavo-santaolalla/sets/brokeback-mountain-soundtrack',
+		answer:
+			"Brokeback Mountain - I Don't Want To Say Goodbye - Gustavo Santaolalla",
+	},
+	{
+		url: 'https://soundcloud.com/jackiegreene/i-will-never-let-you-go?in=gustavo-santaolalla/sets/brokeback-mountain-soundtrack',
+		answer: 'Brokeback Mountain - I Will Never Let You Go - Gustavo Santaolalla',
+	},
+	{
+		url: 'https://soundcloud.com/gustavo-santaolalla/riding-horses?in=gustavo-santaolalla/sets/brokeback-mountain-soundtrack',
+		answer: 'Brokeback Mountain - Riding Horses - Gustavo Santaolalla',
+	},
+	{
+		url: 'https://soundcloud.com/thegasband/an-angel-went-up-in-flames?in=gustavo-santaolalla/sets/brokeback-mountain-soundtrack',
+		answer:
+			'Brokeback Mountain - An Angel Went Up In Flames - Gustavo Santaolalla',
+	},
+	{
+		url: 'https://soundcloud.com/lindaronstadt/its-so-easy?in=gustavo-santaolalla/sets/brokeback-mountain-soundtrack',
+		answer: "Brokeback Mountain - It's So Easy - Gustavo Santaolalla",
+	},
+	{
+		url: 'https://soundcloud.com/gustavo-santaolalla/brokeback-mountain-3?in=gustavo-santaolalla/sets/brokeback-mountain-soundtrack',
+		answer: 'Brokeback Mountain - Brokeback Mountain 3 - Gustavo Santaolalla',
+	},
+	{
+		url: 'https://soundcloud.com/rachel-portman-official/minor-swing?in=rachel-portman-official/sets/chocolat-original-motion',
+		answer: 'Chocolat - Minor Swing - Rachel Portman',
+	},
+	{
+		url: 'https://soundcloud.com/rachel-portman-official/chocolat-main-titles?in=rachel-portman-official/sets/chocolat-original-motion',
+		answer: 'Chocolat - Main Title - Rachel Portman',
+	},
+	{
+		url: 'https://soundcloud.com/rachel-portman-official/the-story-of-grandmere?in=rachel-portman-official/sets/chocolat-original-motion',
+		answer: 'Chocolat - The Story of Grandmere (Instrumental) - Rachel Portman',
+	},
+	{
+		url: 'https://soundcloud.com/rachel-portman-official/vianne-sets-up-shop?in=rachel-portman-official/sets/chocolat-original-motion',
+		answer: 'Chocolat - Vianne Sets Up Shop - Rachel Portman',
+	},
+	{
+		url: 'https://soundcloud.com/rachel-portman-official/three-women-instrumental?in=rachel-portman-official/sets/chocolat-original-motion',
+		answer: 'Chocolat - Three Women (Instrumental) - Rachel Portman',
+	},
+	{
+		url: 'https://soundcloud.com/rachel-portman-official/vianne-confronts-the-comte?in=rachel-portman-official/sets/chocolat-original-motion',
+		answer:
+			'Chocolat - Vianne Confronts the Comte (Instrumental) - Rachel Portman',
+	},
+	{
+		url: 'https://soundcloud.com/rachel-portman-official/other-possibilities?in=rachel-portman-official/sets/chocolat-original-motion',
+		answer: 'Chocolat - Other Possibilities (Instrumental) - Rachel Portman',
+	},
+	{
+		url: 'https://soundcloud.com/rachel-portman-official/guillaumes-confession?in=rachel-portman-official/sets/chocolat-original-motion',
+		answer: "Chocolat - Guillaume's Confession (Instrumental) - Rachel Portman",
+	},
+	{
+		url: 'https://soundcloud.com/rachel-portman-official/passage-of-time?in=rachel-portman-official/sets/chocolat-original-motion',
+		answer: 'Chocolat - Passage of Time - Rachel Portman',
+	},
+	{
+		url: 'https://soundcloud.com/rachel-portman-official/boycott-immorality?in=rachel-portman-official/sets/chocolat-original-motion',
+		answer: 'Chocolat - Boycott Immorality - Rachel Portman',
+	},
+	{
+		url: 'https://soundcloud.com/rachel-portman-official/party-preparations?in=rachel-portman-official/sets/chocolat-original-motion',
+		answer: 'Chocolat - Party Preparations (Instrumental) - Rachel Portman',
+	},
+	{
+		url: 'https://soundcloud.com/rachel-portman-official/chocolate-sauce-instrumental?in=rachel-portman-official/sets/chocolat-original-motion',
+		answer: 'Chocolat - Chocolate Sauce (Instrumental) - Rachel Portman',
+	},
+	{
+		url: 'https://soundcloud.com/rachel-portman-official/fire-instrumental?in=rachel-portman-official/sets/chocolat-original-motion',
+		answer: 'Chocolat - Fire (Instrumental) - Rachel Portman',
+	},
+	{
+		url: 'https://soundcloud.com/rachel-portman-official/vianne-gazes-at-the-river?in=rachel-portman-official/sets/chocolat-original-motion',
+		answer:
+			'Chocolat - Vianne Gazes at the River (Instrumental) - Rachel Portman',
+	},
+	{
+		url: 'https://soundcloud.com/rachel-portman-official/mayan-bowl-breaks-instrumental?in=rachel-portman-official/sets/chocolat-original-motion',
+		answer: 'Chocolat - Mayan Bowl Breaks (Instrumental) - Rachel Portman',
+	},
+	{
+		url: 'https://soundcloud.com/ludwiggoransson/rainy-night-in-tallinn?in=ludwiggoransson/sets/tenet-original-motion-1',
+		answer: 'TENET - RAINY NIGHT IN TALLINN - Ludwig Goransson',
+	},
+	{
+		url: 'https://soundcloud.com/ludwiggoransson/windmills?in=ludwiggoransson/sets/tenet-original-motion-1',
+		answer: 'TENET - WINDMILLS - Ludwig Goransson',
+	},
+	{
+		url: 'https://soundcloud.com/ludwiggoransson/meeting-neil?in=ludwiggoransson/sets/tenet-original-motion-1',
+		answer: 'TENET - MEETING NEIL - Ludwig Goransson',
+	},
+	{
+		url: 'https://soundcloud.com/ludwiggoransson/priya?in=ludwiggoransson/sets/tenet-original-motion-1',
+		answer: 'TENET - PRIYA - Ludwig Goransson',
+	},
+	{
+		url: 'https://soundcloud.com/ludwiggoransson/betrayal?in=ludwiggoransson/sets/tenet-original-motion-1',
+		answer: 'TENET - BETRAYAL - Ludwig Goransson',
+	},
+	{
+		url: 'https://soundcloud.com/ludwiggoransson/freeport?in=ludwiggoransson/sets/tenet-original-motion-1',
+		answer: 'TENET - FREEPORT - Ludwig Goransson',
+	},
+	{
+		url: 'https://soundcloud.com/ludwiggoransson/747-1?in=ludwiggoransson/sets/tenet-original-motion-1',
+		answer: 'TENET - 747 - Ludwig Goransson',
+	},
+	{
+		url: 'https://soundcloud.com/ludwiggoransson/from-mumbai-to-amalfi?in=ludwiggoransson/sets/tenet-original-motion-1',
+		answer: 'TENET - FROM MUMBAI TO AMALFI - Ludwig Goransson',
+	},
+	{
+		url: 'https://soundcloud.com/ludwiggoransson/foils?in=ludwiggoransson/sets/tenet-original-motion-1',
+		answer: 'TENET - FOILS - Ludwig Goransson',
+	},
+	{
+		url: 'https://soundcloud.com/ludwiggoransson/sator?in=ludwiggoransson/sets/tenet-original-motion-1',
+		answer: 'TENET - SATOR - Ludwig Goransson',
+	},
+	{
+		url: 'https://soundcloud.com/ludwiggoransson/trucks-in-place?in=ludwiggoransson/sets/tenet-original-motion-1',
+		answer: 'TENET - TRUCKS IN PLACE - Ludwig Goransson',
+	},
+	{
+		url: 'https://soundcloud.com/ludwiggoransson/red-room-blue-room?in=ludwiggoransson/sets/tenet-original-motion-1',
+		answer: 'TENET - RED ROOM BLUE ROOM - Ludwig Goransson',
+	},
+	{
+		url: 'https://soundcloud.com/ludwiggoransson/inversion?in=ludwiggoransson/sets/tenet-original-motion-1',
+		answer: 'TENET - INVERSION - Ludwig Goransson',
+	},
+	{
+		url: 'https://soundcloud.com/ludwiggoransson/retrieving-the-case?in=ludwiggoransson/sets/tenet-original-motion-1',
+		answer: 'TENET - RETRIEVING THE CASE - Ludwig Goransson',
+	},
+	{
+		url: 'https://soundcloud.com/ludwiggoransson/the-algorithm?in=ludwiggoransson/sets/tenet-original-motion-1',
+		answer: 'TENET - THE ALGORITHM - Ludwig Goransson',
+	},
+	{
+		url: 'https://soundcloud.com/harold-faltermeyer/main-titles-youve-been-called?in=harold-faltermeyer/sets/top-gun-maverick-music-from',
+		answer:
+			'Top Gun: Maverick - Main Titles (You’ve Been Called Back to Top Gun) - Harold Faltermeyer',
+	},
+	{
+		url: 'https://soundcloud.com/kennyloggins/playing-with-the-boys?in=harold-faltermeyer/sets/top-gun-maverick-music-from',
+		answer:
+			'Top Gun: Maverick - Playing with the Boys (From "Top Gun" Original Soundtrack) - Harold Faltermeyer',
+	},
+	{
+		url: 'https://soundcloud.com/harold-faltermeyer/darkstar?in=harold-faltermeyer/sets/top-gun-maverick-music-from',
+		answer: 'Top Gun: Maverick - Darkstar - Harold Faltermeyer',
+	},
+	{
+		url: 'https://soundcloud.com/milesteller-sc/great-balls-of-fire-live?in=harold-faltermeyer/sets/top-gun-maverick-music-from',
+		answer: 'Top Gun: Maverick - Great Balls Of Fire (Live) - Harold Faltermeyer',
+	},
+	{
+		url: 'https://soundcloud.com/harold-faltermeyer/youre-where-you-belong-give-em?in=harold-faltermeyer/sets/top-gun-maverick-music-from',
+		answer:
+			'Top Gun: Maverick - You’re Where You Belong / Give ‘Em Hell - Harold Faltermeyer',
+	},
+	{
+		url: 'https://soundcloud.com/onerepublic/i-aint-worried?in=harold-faltermeyer/sets/top-gun-maverick-music-from',
+		answer: "Top Gun: Maverick - I Ain't Worried - Harold Faltermeyer",
+	},
+	{
+		url: 'https://soundcloud.com/harold-faltermeyer/dagger-one-is-hit-time-to-let?in=harold-faltermeyer/sets/top-gun-maverick-music-from',
+		answer:
+			'Top Gun: Maverick - Dagger One Is Hit / Time To Let Go - Harold Faltermeyer',
+	},
+	{
+		url: 'https://soundcloud.com/harold-faltermeyer/tally-two-whats-the-plan-f-14?in=harold-faltermeyer/sets/top-gun-maverick-music-from',
+		answer:
+			'Top Gun: Maverick - Tally Two / What’s The Plan / F-14 - Harold Faltermeyer',
+	},
+	{
+		url: 'https://soundcloud.com/harold-faltermeyer/the-man-the-legend-touchdown?in=harold-faltermeyer/sets/top-gun-maverick-music-from',
+		answer:
+			'Top Gun: Maverick - The Man, The Legend / Touchdown - Harold Faltermeyer',
+	},
+	{
+		url: 'https://soundcloud.com/harold-faltermeyer/penny-returns-interlude?in=harold-faltermeyer/sets/top-gun-maverick-music-from',
+		answer: 'Top Gun: Maverick - Penny Returns (Interlude) - Harold Faltermeyer',
+	},
+	{
+		url: 'https://soundcloud.com/ladygaga/hold-my-hand?in=harold-faltermeyer/sets/top-gun-maverick-music-from',
+		answer: 'Top Gun: Maverick - Hold My Hand - Harold Faltermeyer',
+	},
+	{
+		url: 'https://soundcloud.com/harold-faltermeyer/top-gun-anthem-1?in=harold-faltermeyer/sets/top-gun-maverick-music-from',
+		answer: 'Top Gun: Maverick - Top Gun Anthem - Harold Faltermeyer',
+	},
+	{
+		url: 'https://soundcloud.com/ludwiggoransson-sc/fission?in=ludwiggoransson-sc/sets/oppenheimer-original-motion',
+		answer: 'Oppenheimer - Fission - Ludwig Göransson',
+	},
+	{
+		url: 'https://soundcloud.com/ludwiggoransson-sc/can-you-hear-the-music?in=ludwiggoransson-sc/sets/oppenheimer-original-motion',
+		answer: 'Oppenheimer - Can You Hear The Music - Ludwig Göransson',
+	},
+	{
+		url: 'https://soundcloud.com/ludwiggoransson-sc/a-lowly-shoe-salesman?in=ludwiggoransson-sc/sets/oppenheimer-original-motion',
+		answer: 'Oppenheimer - A Lowly Shoe Salesman - Ludwig Göransson',
+	},
+	{
+		url: 'https://soundcloud.com/ludwiggoransson-sc/quantum-mechanics?in=ludwiggoransson-sc/sets/oppenheimer-original-motion',
+		answer: 'Oppenheimer - Quantum Mechanics - Ludwig Göransson',
+	},
+	{
+		url: 'https://soundcloud.com/ludwiggoransson-sc/gravity-swallows-light?in=ludwiggoransson-sc/sets/oppenheimer-original-motion',
+		answer: 'Oppenheimer - Gravity Swallows Light - Ludwig Göransson',
+	},
+	{
+		url: 'https://soundcloud.com/ludwiggoransson-sc/meeting-kitty?in=ludwiggoransson-sc/sets/oppenheimer-original-motion',
+		answer: 'Oppenheimer - Meeting Kitty - Ludwig Göransson',
+	},
+	{
+		url: 'https://soundcloud.com/ludwiggoransson-sc/groves?in=ludwiggoransson-sc/sets/oppenheimer-original-motion',
+		answer: 'Oppenheimer - Groves - Ludwig Göransson',
+	},
+	{
+		url: 'https://soundcloud.com/ludwiggoransson-sc/manhattan-project?in=ludwiggoransson-sc/sets/oppenheimer-original-motion',
+		answer: 'Oppenheimer - Manhattan Project - Ludwig Göransson',
+	},
+	{
+		url: 'https://soundcloud.com/ludwiggoransson-sc/american-prometheus?in=ludwiggoransson-sc/sets/oppenheimer-original-motion',
+		answer: 'Oppenheimer - American Prometheus - Ludwig Göransson',
+	},
+	{
+		url: 'https://soundcloud.com/ludwiggoransson-sc/atmospheric-ignition?in=ludwiggoransson-sc/sets/oppenheimer-original-motion',
+		answer: 'Oppenheimer - Atmospheric Ignition - Ludwig Göransson',
+	},
+	{
+		url: 'https://soundcloud.com/ludwiggoransson-sc/los-alamos?in=ludwiggoransson-sc/sets/oppenheimer-original-motion',
+		answer: 'Oppenheimer - Los Alamos - Ludwig Göransson',
+	},
+	{
+		url: 'https://soundcloud.com/ludwiggoransson-sc/fusion?in=ludwiggoransson-sc/sets/oppenheimer-original-motion',
+		answer: 'Oppenheimer - Fusion - Ludwig Göransson',
+	},
+	{
+		url: 'https://soundcloud.com/ludwiggoransson-sc/colonel-pash?in=ludwiggoransson-sc/sets/oppenheimer-original-motion',
+		answer: 'Oppenheimer - Colonel Pash - Ludwig Göransson',
+	},
+	{
+		url: 'https://soundcloud.com/ludwiggoransson-sc/theorists?in=ludwiggoransson-sc/sets/oppenheimer-original-motion',
+		answer: 'Oppenheimer - Theorists - Ludwig Göransson',
+	},
+	{
+		url: 'https://soundcloud.com/ludwiggoransson-sc/ground-zero?in=ludwiggoransson-sc/sets/oppenheimer-original-motion',
+		answer: 'Oppenheimer - Ground Zero - Ludwig Göransson',
+	},
+	{
+		url: 'https://soundcloud.com/charltonheston/long-ago?in=alan-menken/sets/hercules-7',
+		answer: 'Hercules - Long Ago... - Alan Menken',
+	},
+	{
+		url: 'https://soundcloud.com/cheryl-freeman-official/the-gospel-truth-i-main-titles?in=alan-menken/sets/hercules-7',
+		answer:
+			'Hercules - The Gospel Truth I / Main Titles - Hercules - Alan Menken',
+	},
+	{
+		url: 'https://soundcloud.com/roz-ryan/the-gospel-truth-ii-soundtrack?in=alan-menken/sets/hercules-7',
+		answer: 'Hercules - The Gospel Truth II - Alan Menken',
+	},
+	{
+		url: 'https://soundcloud.com/lillias-white/the-gospel-truth-iii?in=alan-menken/sets/hercules-7',
+		answer: 'Hercules - The Gospel Truth III - Alan Menken',
+	},
+	{
+		url: 'https://soundcloud.com/roger-bart/go-the-distance?in=alan-menken/sets/hercules-7',
+		answer: 'Hercules - Go the Distance - Alan Menken',
+	},
+	{
+		url: 'https://soundcloud.com/alan-menken/o-m-chtiger-zeus?in=alan-menken/sets/hercules-7',
+		answer: 'Hercules - O Mächtiger Zeus - Alan Menken',
+	},
+	{
+		url: 'https://soundcloud.com/roger-bart/go-the-distance-reprise?in=alan-menken/sets/hercules-7',
+		answer: 'Hercules - Go The Distance (Reprise) - Alan Menken',
+	},
+	{
+		url: 'https://soundcloud.com/dannydevitoofficial/one-last-hope?in=alan-menken/sets/hercules-7',
+		answer: 'Hercules - One Last Hope - Alan Menken',
+	},
+	{
+		url: 'https://soundcloud.com/lillias-white/zero-to-hero?in=alan-menken/sets/hercules-7',
+		answer: 'Hercules - Zero To Hero - Alan Menken',
+	},
+	{
+		url: 'https://soundcloud.com/susan-egan-official/i-wont-say-im-in-love-from?in=alan-menken/sets/hercules-7',
+		answer: "Hercules - I Won't Say (I'm In Love) - Alan Menken",
+	},
+	{
+		url: 'https://soundcloud.com/cheryl-freeman-official/a-star-is-born?in=alan-menken/sets/hercules-7',
+		answer: 'Hercules - A Star Is Born - Alan Menken',
+	},
+	{
+		url: 'https://soundcloud.com/alan-menken/theben-erleben?in=alan-menken/sets/hercules-7',
+		answer: 'Hercules - Theben Erleben - Alan Menken',
+	},
+	{
+		url: 'https://soundcloud.com/alan-menken/die-prophezeiung?in=alan-menken/sets/hercules-7',
+		answer: 'Hercules - Die Prophezeiung - Alan Menken',
+	},
+	{
+		url: 'https://soundcloud.com/alan-menken/la-distruzione-di-agora?in=alan-menken/sets/hercules-7',
+		answer: 'Hercules - Die Zerstörung Des Marktplatzes - Alan Menken',
+	},
+	{
+		url: 'https://soundcloud.com/alan-menken/phils-insel?in=alan-menken/sets/hercules-7',
+		answer: 'Hercules - Phils Insel - Alan Menken',
 	},
 ];
