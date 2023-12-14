@@ -36,6 +36,11 @@ let songs = [
 		answer: 'Hoodwinked - Red Is Blue - Ben Folds',
 	},
 	{
+		url: 'https://soundcloud.com/klausbadelt/the-medallion-calls?in=klausbadelt/sets/pirates-of-the-caribbean-the-3',
+		answer:
+			'Pirates of the Caribbean: The Curse of the Black Pearl - The Medallion Calls - Hans Zimmer',
+	},
+	{
 		url: 'https://soundcloud.com/royal-philharmonic-orchestra/end-titles-from-the-shawshank?#t=30',
 		answer: 'The Shawshank Redemption - End Titles - Thomas Newman',
 	},
@@ -242,67 +247,54 @@ let songs = [
 		answer: 'Frozen - Coronation Day - Christophe Beck',
 	},
 	{
-		url: 'https://soundcloud.com/lebo-m-official/circle-of-life-nants-ingonyama?in=hans-zimmer-official/sets/the-lion-king-original-motion',
-		answer: "The Lion King - Circle of Life/Nants' Ingonyama - Hans Zimmer",
+		url: 'https://soundcloud.com/carmen-twillie/circle-of-life?in=hans-zimmer-official/sets/the-lion-king-4',
+		answer: 'The Lion King - Circle of Life - Hans Zimmer',
 	},
 	{
-		url: 'https://soundcloud.com/hans-zimmer-official/lifes-not-fair?in=hans-zimmer-official/sets/the-lion-king-original-motion',
-		answer: 'The Lion King - A Vida Não é Justa - Hans Zimmer',
-	},
-	{
-		url: 'https://soundcloud.com/hans-zimmer-official/rafikis-fireflies?in=hans-zimmer-official/sets/the-lion-king-original-motion',
-		answer: 'The Lion King - Le lucciole di Rafiki - Hans Zimmer',
-	},
-	{
-		url: 'https://soundcloud.com/jdmccrary/i-just-cant-wait-to-be-king?in=hans-zimmer-official/sets/the-lion-king-original-motion',
+		url: 'https://soundcloud.com/jason-weaver-official/i-just-cant-wait-to-be-king?in=hans-zimmer-official/sets/the-lion-king-4',
 		answer: "The Lion King - I Just Can't Wait to Be King - Hans Zimmer",
 	},
 	{
-		url: 'https://soundcloud.com/hans-zimmer-official/elephant-graveyard-1?in=hans-zimmer-official/sets/the-lion-king-original-motion',
-		answer: 'The Lion King - Il cimitero degli elefanti - Hans Zimmer',
+		url: 'https://soundcloud.com/jeremy-irons-official/be-prepared-from-the-lion-king?in=hans-zimmer-official/sets/the-lion-king-4',
+		answer: 'The Lion King - Be Prepared - Hans Zimmer',
 	},
 	{
-		url: 'https://soundcloud.com/chiwetelejiofor/be-prepared-2019?in=hans-zimmer-official/sets/the-lion-king-original-motion',
-		answer: 'The Lion King - Be Prepared (2019) - Hans Zimmer',
-	},
-	{
-		url: 'https://soundcloud.com/hans-zimmer-official/stampede-1?in=hans-zimmer-official/sets/the-lion-king-original-motion',
-		answer: 'The Lion King - La débandade - Hans Zimmer',
-	},
-	{
-		url: 'https://soundcloud.com/hans-zimmer-official/scar-takes-the-throne?in=hans-zimmer-official/sets/the-lion-king-original-motion',
-		answer: 'The Lion King - Scar monte sur le trône - Hans Zimmer',
-	},
-	{
-		url: 'https://soundcloud.com/sethrogen-music/hakuna-matata?in=hans-zimmer-official/sets/the-lion-king-original-motion',
+		url: 'https://soundcloud.com/ernie-sabella/hakuna-matata?in=hans-zimmer-official/sets/the-lion-king-4',
 		answer: 'The Lion King - Hakuna Matata - Hans Zimmer',
 	},
 	{
-		url: 'https://soundcloud.com/hans-zimmer-official/simba-is-alive?in=hans-zimmer-official/sets/the-lion-king-original-motion',
-		answer: 'The Lion King - Simba lebt! - Hans Zimmer',
+		url: 'https://soundcloud.com/joseph-williams-official/can-you-feel-the-love-tonight?in=hans-zimmer-official/sets/the-lion-king-4',
+		answer: 'The Lion King - Can You Feel the Love Tonight - Hans Zimmer',
 	},
 	{
-		url: 'https://soundcloud.com/sethrogen-music/the-lion-sleeps-tonight-full?in=hans-zimmer-official/sets/the-lion-king-original-motion',
-		answer: 'The Lion King - The Lion Sleeps Tonight - Hans Zimmer',
+		url: 'https://soundcloud.com/hans-zimmer-official/zab-jcza-niespodzianka?in=hans-zimmer-official/sets/the-lion-king-4',
+		answer: 'The Lion King - This Land - Hans Zimmer',
 	},
 	{
-		url: 'https://soundcloud.com/beyonce/can-you-feel-the-love-tonight?in=hans-zimmer-official/sets/the-lion-king-original-motion',
+		url: 'https://soundcloud.com/hans-zimmer-official/to-die-for-from-the-lion-king?in=hans-zimmer-official/sets/the-lion-king-4',
+		answer: 'The Lion King - ...To Die For - Hans Zimmer',
+	},
+	{
+		url: 'https://soundcloud.com/hans-zimmer-official/pod-gwiazdami?in=hans-zimmer-official/sets/the-lion-king-4',
+		answer: 'The Lion King - Under the Stars - Hans Zimmer',
+	},
+	{
+		url: 'https://soundcloud.com/hans-zimmer-official/kr-l-lwiej-skaly?in=hans-zimmer-official/sets/the-lion-king-4',
+		answer: 'The Lion King - King of Pride Rock - Hans Zimmer',
+	},
+	{
+		url: 'https://soundcloud.com/elton-john/circle-of-life-from-the-lion?in=hans-zimmer-official/sets/the-lion-king-4',
+		answer: 'The Lion King - Circle of Life - Hans Zimmer',
+	},
+	{
+		url: 'https://soundcloud.com/elton-john/i-just-cant-wait-to-be-king?in=hans-zimmer-official/sets/the-lion-king-4',
+		answer: "The Lion King - I Just Can't Wait to Be King - Hans Zimmer",
+	},
+	{
+		url: 'https://soundcloud.com/elton-john/can-you-feel-the-love-1?in=hans-zimmer-official/sets/the-lion-king-4',
 		answer:
-			'The Lion King - Beyoncé, Donald Glover, Billy Eichner, Seth Rogen - Can You Feel the Love Tonight - Hans Zimmer',
+			'The Lion King - Can You Feel the Love Tonight (End Title) - Hans Zimmer',
 	},
-	{
-		url: 'https://soundcloud.com/hans-zimmer-official/reflections-of-mufasa?in=hans-zimmer-official/sets/the-lion-king-original-motion',
-		answer: 'The Lion King - Riflessioni di Mufasa - Hans Zimmer',
-	},
-	{
-		url: 'https://soundcloud.com/beyonce/spirit-from-disneys-the-lion-1?in=hans-zimmer-official/sets/the-lion-king-original-motion',
-		answer: 'The Lion King - Beyoncé - SPIRIT - Hans Zimmer',
-	},
-	{
-		url: 'https://soundcloud.com/hans-zimmer-official/battle-for-pride-rock?in=hans-zimmer-official/sets/the-lion-king-original-motion',
-		answer: 'The Lion King - Die Schlacht um den Königsfelsen - Hans Zimmer',
-	},
-
 	{
 		url: 'https://soundcloud.com/spider-manmotionpicture/main-title-album-version?in=spider-manmotionpicture/sets/spider-man-original-motion',
 		answer: 'Spider-Man - Main Title - Spider-Man',
@@ -363,7 +355,6 @@ let songs = [
 		url: 'https://soundcloud.com/pete-anthony-official/end-credits-album-version?in=spider-manmotionpicture/sets/spider-man-original-motion',
 		answer: 'Spider-Man - End Credits - Spider-Man',
 	},
-
 	{
 		url: 'https://soundcloud.com/harry-gregson-williams-official/the-blitz-1940-instrumental?in=harry-gregson-williams-official/sets/the-chronicles-of-narnia-the-1',
 		answer:
@@ -529,7 +520,6 @@ let songs = [
 		answer:
 			'How To Train Your Dragon: The Hidden World - The Hidden World Suite [Bonus Track] - John Powell',
 	},
-
 	{
 		url: 'https://soundcloud.com/john-powell-official/hero?in=john-powell-official/sets/kung-fu-panda-4',
 		answer: 'Kung Fu Panda - Hero - John Powell',
@@ -590,81 +580,75 @@ let songs = [
 		url: 'https://soundcloud.com/john-powell-official/panda-po?in=john-powell-official/sets/kung-fu-panda-4',
 		answer: 'Kung Fu Panda - Panda Po - John Powell',
 	},
-
 	{
 		url: 'https://soundcloud.com/klausbadelt/fog-bound?in=klausbadelt/sets/pirates-of-the-caribbean-the-3',
 		answer:
-			'Pirates of the Caribbean: The Curse of the Black Pearl - Fog Bound - Klaus Badelt',
-	},
-	{
-		url: 'https://soundcloud.com/klausbadelt/the-medallion-calls?in=klausbadelt/sets/pirates-of-the-caribbean-the-3',
-		answer:
-			'Pirates of the Caribbean: The Curse of the Black Pearl - The Medallion Calls - Klaus Badelt',
+			'Pirates of the Caribbean: The Curse of the Black Pearl - Fog Bound - Hans Zimmer',
 	},
 	{
 		url: 'https://soundcloud.com/klausbadelt/the-black-pearl?in=klausbadelt/sets/pirates-of-the-caribbean-the-3',
 		answer:
-			'Pirates of the Caribbean: The Curse of the Black Pearl - The Black Pearl - Klaus Badelt',
+			'Pirates of the Caribbean: The Curse of the Black Pearl - The Black Pearl - Hans Zimmer',
 	},
-	{
-		url: 'https://soundcloud.com/klausbadelt/will-and-elizabeth?in=klausbadelt/sets/pirates-of-the-caribbean-the-3',
-		answer:
-			'Pirates of the Caribbean: The Curse of the Black Pearl - Will And Elizabeth - Klaus Badelt',
-	},
-	{
-		url: 'https://soundcloud.com/klausbadelt/swords-crossed?in=klausbadelt/sets/pirates-of-the-caribbean-the-3',
-		answer:
-			'Pirates of the Caribbean: The Curse of the Black Pearl - Swords Crossed - Klaus Badelt',
-	},
-	{
-		url: 'https://soundcloud.com/klausbadelt/walk-the-plank?in=klausbadelt/sets/pirates-of-the-caribbean-the-3',
-		answer:
-			'Pirates of the Caribbean: The Curse of the Black Pearl - Walk The Plank - Klaus Badelt',
-	},
-	{
-		url: 'https://soundcloud.com/klausbadelt/barbossa-is-hungry?in=klausbadelt/sets/pirates-of-the-caribbean-the-3',
-		answer:
-			'Pirates of the Caribbean: The Curse of the Black Pearl - Barbossa Is Hungry - Klaus Badelt',
-	},
-	{
-		url: 'https://soundcloud.com/klausbadelt/blood-ritual?in=klausbadelt/sets/pirates-of-the-caribbean-the-3',
-		answer:
-			'Pirates of the Caribbean: The Curse of the Black Pearl - Blood Ritual - Klaus Badelt',
-	},
-	{
-		url: 'https://soundcloud.com/klausbadelt/moonlight-serenade?in=klausbadelt/sets/pirates-of-the-caribbean-the-3',
-		answer:
-			'Pirates of the Caribbean: The Curse of the Black Pearl - Moonlight Serenade - Klaus Badelt',
-	},
-	{
-		url: 'https://soundcloud.com/klausbadelt/to-the-pirates-cave?in=klausbadelt/sets/pirates-of-the-caribbean-the-3',
-		answer:
-			"Pirates of the Caribbean: The Curse of the Black Pearl - To The Pirates' Cave! - Klaus Badelt",
-	},
-	{
-		url: 'https://soundcloud.com/klausbadelt/skull-and-crossbones?in=klausbadelt/sets/pirates-of-the-caribbean-the-3',
-		answer:
-			'Pirates of the Caribbean: The Curse of the Black Pearl - Skull And Crossbones - Klaus Badelt',
-	},
+	// {
+	// 	url: 'https://soundcloud.com/klausbadelt/will-and-elizabeth?in=klausbadelt/sets/pirates-of-the-caribbean-the-3',
+	// 	answer:
+	// 		'Pirates of the Caribbean: The Curse of the Black Pearl - Will And Elizabeth - Hans Zimmer',
+	// },
+	// {
+	// 	url: 'https://soundcloud.com/klausbadelt/swords-crossed?in=klausbadelt/sets/pirates-of-the-caribbean-the-3',
+	// 	answer:
+	// 		'Pirates of the Caribbean: The Curse of the Black Pearl - Swords Crossed - Hans Zimmer',
+	// },
+	// {
+	// 	url: 'https://soundcloud.com/klausbadelt/walk-the-plank?in=klausbadelt/sets/pirates-of-the-caribbean-the-3',
+	// 	answer:
+	// 		'Pirates of the Caribbean: The Curse of the Black Pearl - Walk The Plank - Hans Zimmer',
+	// },
+	// {
+	// 	url: 'https://soundcloud.com/klausbadelt/barbossa-is-hungry?in=klausbadelt/sets/pirates-of-the-caribbean-the-3',
+	// 	answer:
+	// 		'Pirates of the Caribbean: The Curse of the Black Pearl - Barbossa Is Hungry - Hans Zimmer',
+	// },
+	// {
+	// 	url: 'https://soundcloud.com/klausbadelt/blood-ritual?in=klausbadelt/sets/pirates-of-the-caribbean-the-3',
+	// 	answer:
+	// 		'Pirates of the Caribbean: The Curse of the Black Pearl - Blood Ritual - Hans Zimmer',
+	// },
+	// {
+	// 	url: 'https://soundcloud.com/klausbadelt/moonlight-serenade?in=klausbadelt/sets/pirates-of-the-caribbean-the-3',
+	// 	answer:
+	// 		'Pirates of the Caribbean: The Curse of the Black Pearl - Moonlight Serenade - Hans Zimmer',
+	// },
+	// {
+	// 	url: 'https://soundcloud.com/klausbadelt/to-the-pirates-cave?in=klausbadelt/sets/pirates-of-the-caribbean-the-3',
+	// 	answer:
+	// 		"Pirates of the Caribbean: The Curse of the Black Pearl - To The Pirates' Cave! - Hans Zimmer",
+	// },
+	// {
+	// 	url: 'https://soundcloud.com/klausbadelt/skull-and-crossbones?in=klausbadelt/sets/pirates-of-the-caribbean-the-3',
+	// 	answer:
+	// 		'Pirates of the Caribbean: The Curse of the Black Pearl - Skull And Crossbones - Hans Zimmer',
+	// },
 	{
 		url: 'https://soundcloud.com/klausbadelt/bootstraps-bootstraps?in=klausbadelt/sets/pirates-of-the-caribbean-the-3',
 		answer:
-			"Pirates of the Caribbean: The Curse of the Black Pearl - Bootstrap's Bootstraps - Klaus Badelt",
+			"Pirates of the Caribbean: The Curse of the Black Pearl - Bootstrap's Bootstraps - Hans Zimmer",
 	},
 	{
 		url: 'https://soundcloud.com/klausbadelt/underwater-march?in=klausbadelt/sets/pirates-of-the-caribbean-the-3',
 		answer:
-			'Pirates of the Caribbean: The Curse of the Black Pearl - Underwater March - Klaus Badelt',
+			'Pirates of the Caribbean: The Curse of the Black Pearl - Underwater March - Hans Zimmer',
 	},
 	{
 		url: 'https://soundcloud.com/klausbadelt/one-last-shot?in=klausbadelt/sets/pirates-of-the-caribbean-the-3',
 		answer:
-			'Pirates of the Caribbean: The Curse of the Black Pearl - One Last Shot - Klaus Badelt',
+			'Pirates of the Caribbean: The Curse of the Black Pearl - One Last Shot - Hans Zimmer',
 	},
 	{
 		url: 'https://soundcloud.com/klausbadelt/hes-a-pirate?in=klausbadelt/sets/pirates-of-the-caribbean-the-3',
 		answer:
-			"Pirates of the Caribbean: The Curse of the Black Pearl - He's a Pirate - Klaus Badelt",
+			"Pirates of the Caribbean: The Curse of the Black Pearl - He's a Pirate - Hans Zimmer",
 	},
 	{
 		url: 'https://soundcloud.com/johnwilliams-official/star-wars-and-the-revenge-of?in=johnwilliams-official/sets/star-wars-revenge-of-the-1',
