@@ -45,6 +45,11 @@ let songs = [
 		answer: 'Star Trek - Main Theme - Michael Giacchino',
 	},
 	{
+		url: 'https://soundcloud.com/john-powell-official/once-there-were-dragons?in=john-powell-official/sets/how-to-train-your-dragon-the-1?#t=250',
+		answer:
+			'How To Train Your Dragon: The Hidden World - Once There Were Dragons - John Powell',
+	},
+	{
 		url: 'https://soundcloud.com/royal-philharmonic-orchestra/end-titles-from-the-shawshank?#t=30',
 		answer: 'The Shawshank Redemption - End Titles - Thomas Newman',
 	},
@@ -434,96 +439,90 @@ let songs = [
 		answer:
 			'The Chronicles Of Narnia: The Lion, The Witch And Wardrobe - Where - Harry Gregson-Williams',
 	},
-
-	{
-		url: 'https://soundcloud.com/john-powell-official/raiders-return-to-busy-busy?in=john-powell-official/sets/how-to-train-your-dragon-the-1',
-		answer:
-			'How To Train Your Dragon: The Hidden World - Raiders Return to Busy, Busy Berk - John Powell',
-	},
-	{
-		url: 'https://soundcloud.com/john-powell-official/dinner-talk-grimmels?in=john-powell-official/sets/how-to-train-your-dragon-the-1',
-		answer:
-			"How To Train Your Dragon: The Hidden World - Dinner Talk / Grimmel's Introduction - John Powell",
-	},
-	{
-		url: 'https://soundcloud.com/john-powell-official/legend-has-it-cliffside?in=john-powell-official/sets/how-to-train-your-dragon-the-1',
-		answer:
-			'How To Train Your Dragon: The Hidden World - Legend Has It / Cliffside Playtime - John Powell',
-	},
-	{
-		url: 'https://soundcloud.com/john-powell-official/toothless-smitten?in=john-powell-official/sets/how-to-train-your-dragon-the-1',
-		answer:
-			'How To Train Your Dragon: The Hidden World - Toothless: Smitten. - John Powell',
-	},
-	{
-		url: 'https://soundcloud.com/john-powell-official/worst-pep-talk-ever?in=john-powell-official/sets/how-to-train-your-dragon-the-1',
-		answer:
-			'How To Train Your Dragon: The Hidden World - Worst Pep Talk Ever - John Powell',
-	},
-	{
-		url: 'https://soundcloud.com/john-powell-official/night-fury-killer?in=john-powell-official/sets/how-to-train-your-dragon-the-1',
-		answer:
-			'How To Train Your Dragon: The Hidden World - Night Fury Killer - John Powell',
-	},
-	{
-		url: 'https://soundcloud.com/john-powell-official/exodus?in=john-powell-official/sets/how-to-train-your-dragon-the-1',
-		answer: 'How To Train Your Dragon: The Hidden World - Exodus! - John Powell',
-	},
-	{
-		url: 'https://soundcloud.com/john-powell-official/third-date?in=john-powell-official/sets/how-to-train-your-dragon-the-1',
-		answer:
-			'How To Train Your Dragon: The Hidden World - Third Date - John Powell',
-	},
-	{
-		url: 'https://soundcloud.com/john-powell-official/new-new-tail?in=john-powell-official/sets/how-to-train-your-dragon-the-1',
-		answer:
-			"How To Train Your Dragon: The Hidden World - New 'New Tail' - John Powell",
-	},
-	{
-		url: 'https://soundcloud.com/john-powell-official/furies-in-love?in=john-powell-official/sets/how-to-train-your-dragon-the-1',
-		answer:
-			'How To Train Your Dragon: The Hidden World - Furies in Love - John Powell',
-	},
-	{
-		url: 'https://soundcloud.com/john-powell-official/killer-dragons?in=john-powell-official/sets/how-to-train-your-dragon-the-1',
-		answer:
-			'How To Train Your Dragon: The Hidden World - Killer Dragons - John Powell',
-	},
-	{
-		url: 'https://soundcloud.com/john-powell-official/with-love-comes-a-great?in=john-powell-official/sets/how-to-train-your-dragon-the-1',
-		answer:
-			'How To Train Your Dragon: The Hidden World - With Love Comes a Great Waterfall - John Powell',
-	},
-	{
-		url: 'https://soundcloud.com/john-powell-official/the-hidden-world?in=john-powell-official/sets/how-to-train-your-dragon-the-1',
-		answer:
-			'How To Train Your Dragon: The Hidden World - The Hidden World - John Powell',
-	},
-	{
-		url: 'https://soundcloud.com/john-powell-official/armada-battle?in=john-powell-official/sets/how-to-train-your-dragon-the-1',
-		answer:
-			'How To Train Your Dragon: The Hidden World - Armada Battle - John Powell',
-	},
-	{
-		url: 'https://soundcloud.com/john-powell-official/as-long-as-hes-safe?in=john-powell-official/sets/how-to-train-your-dragon-the-1',
-		answer:
-			"How To Train Your Dragon: The Hidden World - As Long As He's Safe - John Powell",
-	},
-	{
-		url: 'https://soundcloud.com/john-powell-official/once-there-were-dragons?in=john-powell-official/sets/how-to-train-your-dragon-the-1',
-		answer:
-			'How To Train Your Dragon: The Hidden World - Once There Were Dragons - John Powell',
-	},
-	{
-		url: 'https://soundcloud.com/jonsi/together-from-afar-how-to?in=john-powell-official/sets/how-to-train-your-dragon-the-1',
-		answer:
-			'How To Train Your Dragon: The Hidden World - Together from Afar - John Powell',
-	},
-	{
-		url: 'https://soundcloud.com/john-powell-official/the-hidden-world-suite-bonus?in=john-powell-official/sets/how-to-train-your-dragon-the-1',
-		answer:
-			'How To Train Your Dragon: The Hidden World - The Hidden World Suite [Bonus Track] - John Powell',
-	},
+	// {
+	// 	url: 'https://soundcloud.com/john-powell-official/raiders-return-to-busy-busy?in=john-powell-official/sets/how-to-train-your-dragon-the-1',
+	// 	answer:
+	// 		'How To Train Your Dragon: The Hidden World - Raiders Return to Busy, Busy Berk - John Powell',
+	// },
+	// {
+	// 	url: 'https://soundcloud.com/john-powell-official/dinner-talk-grimmels?in=john-powell-official/sets/how-to-train-your-dragon-the-1',
+	// 	answer:
+	// 		"How To Train Your Dragon: The Hidden World - Dinner Talk / Grimmel's Introduction - John Powell",
+	// },
+	// {
+	// 	url: 'https://soundcloud.com/john-powell-official/legend-has-it-cliffside?in=john-powell-official/sets/how-to-train-your-dragon-the-1',
+	// 	answer:
+	// 		'How To Train Your Dragon: The Hidden World - Legend Has It / Cliffside Playtime - John Powell',
+	// },
+	// {
+	// 	url: 'https://soundcloud.com/john-powell-official/toothless-smitten?in=john-powell-official/sets/how-to-train-your-dragon-the-1',
+	// 	answer:
+	// 		'How To Train Your Dragon: The Hidden World - Toothless: Smitten. - John Powell',
+	// },
+	// {
+	// 	url: 'https://soundcloud.com/john-powell-official/worst-pep-talk-ever?in=john-powell-official/sets/how-to-train-your-dragon-the-1',
+	// 	answer:
+	// 		'How To Train Your Dragon: The Hidden World - Worst Pep Talk Ever - John Powell',
+	// },
+	// {
+	// 	url: 'https://soundcloud.com/john-powell-official/night-fury-killer?in=john-powell-official/sets/how-to-train-your-dragon-the-1',
+	// 	answer:
+	// 		'How To Train Your Dragon: The Hidden World - Night Fury Killer - John Powell',
+	// },
+	// {
+	// 	url: 'https://soundcloud.com/john-powell-official/exodus?in=john-powell-official/sets/how-to-train-your-dragon-the-1',
+	// 	answer: 'How To Train Your Dragon: The Hidden World - Exodus! - John Powell',
+	// },
+	// {
+	// 	url: 'https://soundcloud.com/john-powell-official/third-date?in=john-powell-official/sets/how-to-train-your-dragon-the-1',
+	// 	answer:
+	// 		'How To Train Your Dragon: The Hidden World - Third Date - John Powell',
+	// },
+	// {
+	// 	url: 'https://soundcloud.com/john-powell-official/new-new-tail?in=john-powell-official/sets/how-to-train-your-dragon-the-1',
+	// 	answer:
+	// 		"How To Train Your Dragon: The Hidden World - New 'New Tail' - John Powell",
+	// },
+	// {
+	// 	url: 'https://soundcloud.com/john-powell-official/furies-in-love?in=john-powell-official/sets/how-to-train-your-dragon-the-1',
+	// 	answer:
+	// 		'How To Train Your Dragon: The Hidden World - Furies in Love - John Powell',
+	// },
+	// {
+	// 	url: 'https://soundcloud.com/john-powell-official/killer-dragons?in=john-powell-official/sets/how-to-train-your-dragon-the-1',
+	// 	answer:
+	// 		'How To Train Your Dragon: The Hidden World - Killer Dragons - John Powell',
+	// },
+	// {
+	// 	url: 'https://soundcloud.com/john-powell-official/with-love-comes-a-great?in=john-powell-official/sets/how-to-train-your-dragon-the-1',
+	// 	answer:
+	// 		'How To Train Your Dragon: The Hidden World - With Love Comes a Great Waterfall - John Powell',
+	// },
+	// {
+	// 	url: 'https://soundcloud.com/john-powell-official/the-hidden-world?in=john-powell-official/sets/how-to-train-your-dragon-the-1',
+	// 	answer:
+	// 		'How To Train Your Dragon: The Hidden World - The Hidden World - John Powell',
+	// },
+	// {
+	// 	url: 'https://soundcloud.com/john-powell-official/armada-battle?in=john-powell-official/sets/how-to-train-your-dragon-the-1',
+	// 	answer:
+	// 		'How To Train Your Dragon: The Hidden World - Armada Battle - John Powell',
+	// },
+	// {
+	// 	url: 'https://soundcloud.com/john-powell-official/as-long-as-hes-safe?in=john-powell-official/sets/how-to-train-your-dragon-the-1',
+	// 	answer:
+	// 		"How To Train Your Dragon: The Hidden World - As Long As He's Safe - John Powell",
+	// },
+	// {
+	// 	url: 'https://soundcloud.com/jonsi/together-from-afar-how-to?in=john-powell-official/sets/how-to-train-your-dragon-the-1',
+	// 	answer:
+	// 		'How To Train Your Dragon: The Hidden World - Together from Afar - John Powell',
+	// },
+	// {
+	// 	url: 'https://soundcloud.com/john-powell-official/the-hidden-world-suite-bonus?in=john-powell-official/sets/how-to-train-your-dragon-the-1',
+	// 	answer:
+	// 		'How To Train Your Dragon: The Hidden World - The Hidden World Suite [Bonus Track] - John Powell',
+	// },
 	{
 		url: 'https://soundcloud.com/john-powell-official/hero?in=john-powell-official/sets/kung-fu-panda-4',
 		answer: 'Kung Fu Panda - Hero - John Powell',
