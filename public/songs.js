@@ -41,6 +41,10 @@ let songs = [
 			'Pirates of the Caribbean: The Curse of the Black Pearl - The Medallion Calls - Hans Zimmer',
 	},
 	{
+		url: 'https://soundcloud.com/michael-giacchino/star-trek-main-theme-1?#t=95',
+		answer: 'Star Trek - Main Theme - Michael Giacchino',
+	},
+	{
 		url: 'https://soundcloud.com/royal-philharmonic-orchestra/end-titles-from-the-shawshank?#t=30',
 		answer: 'The Shawshank Redemption - End Titles - Thomas Newman',
 	},
