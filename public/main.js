@@ -3512,7 +3512,7 @@ var app = (function () {
 					},
 					diacritics: !0,
 					noresults: !0,
-					searchEngine: 'loose',
+					searchEngine: 'strict',
 					data: {
 						src: s,
 						cache: !1,
