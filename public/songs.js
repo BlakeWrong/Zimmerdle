@@ -50,6 +50,11 @@ let songs = [
 			'How To Train Your Dragon: The Hidden World - Once There Were Dragons - John Powell',
 	},
 	{
+		url: 'https://soundcloud.com/toproduction/avatar-soundtrack-becoming-one?#t=40',
+		answer:
+			'Avatar - Becoming One of "The People" Becoming One With Neytiri - James Horner',
+	},
+	{
 		url: 'https://soundcloud.com/royal-philharmonic-orchestra/end-titles-from-the-shawshank?#t=30',
 		answer: 'The Shawshank Redemption - End Titles - Thomas Newman',
 	},
@@ -1541,67 +1546,67 @@ let songs = [
 		url: 'https://soundcloud.com/son-lux/deirdre-fight?in=son-lux/sets/everything-everywhere-all-at',
 		answer: 'Everything Everywhere All at Once - Deirdre Fight - Son Lux',
 	},
-	{
-		url: 'https://soundcloud.com/theweeknd/the-weeknd-nothing-is-lost-you?in=simon-franglen/sets/avatar-the-way-of-water-1',
-		answer:
-			'Avatar: The Way of Water - The Weeknd - Nothing Is Lost (You Give Me Strength) - Simon Franglen',
-	},
-	{
-		url: 'https://soundcloud.com/simon-franglen/into-the-water?in=simon-franglen/sets/avatar-the-way-of-water-1',
-		answer: 'Avatar: The Way of Water - Into the Water - Simon Franglen',
-	},
-	{
-		url: 'https://soundcloud.com/simon-franglen/happiness-is-simple?in=simon-franglen/sets/avatar-the-way-of-water-1',
-		answer: 'Avatar: The Way of Water - Happiness Is Simple - Simon Franglen',
-	},
-	{
-		url: 'https://soundcloud.com/simon-franglen/a-new-star?in=simon-franglen/sets/avatar-the-way-of-water-1',
-		answer: 'Avatar: The Way of Water - A New Star - Simon Franglen',
-	},
-	{
-		url: 'https://soundcloud.com/simon-franglen/converging-paths?in=simon-franglen/sets/avatar-the-way-of-water-1',
-		answer: 'Avatar: The Way of Water - Converging Paths - Simon Franglen',
-	},
-	{
-		url: 'https://soundcloud.com/simon-franglen/rescue-and-loss?in=simon-franglen/sets/avatar-the-way-of-water-1',
-		answer: 'Avatar: The Way of Water - Rescue and Loss - Simon Franglen',
-	},
-	{
-		url: 'https://soundcloud.com/simon-franglen/family-is-our-fortress?in=simon-franglen/sets/avatar-the-way-of-water-1',
-		answer: 'Avatar: The Way of Water - Family Is Our Fortress - Simon Franglen',
-	},
-	{
-		url: 'https://soundcloud.com/simon-franglen/hometree?in=simon-franglen/sets/avatar-the-way-of-water-1',
-		answer: 'Avatar: The Way of Water - Leaving Home - Simon Franglen',
-	},
-	{
-		url: 'https://soundcloud.com/simon-franglen/the-way-of-water?in=simon-franglen/sets/avatar-the-way-of-water-1',
-		answer: 'Avatar: The Way of Water - The Way of Water - Simon Franglen',
-	},
-	{
-		url: 'https://soundcloud.com/simon-franglen/payakan?in=simon-franglen/sets/avatar-the-way-of-water-1',
-		answer: 'Avatar: The Way of Water - Payakan - Simon Franglen',
-	},
-	{
-		url: 'https://soundcloud.com/simon-franglen/mighty-eywa?in=simon-franglen/sets/avatar-the-way-of-water-1',
-		answer: 'Avatar: The Way of Water - Mighty Eywa - Simon Franglen',
-	},
-	{
-		url: 'https://soundcloud.com/simon-franglen/friends?in=simon-franglen/sets/avatar-the-way-of-water-1',
-		answer: 'Avatar: The Way of Water - Friends - Simon Franglen',
-	},
-	{
-		url: 'https://soundcloud.com/simon-franglen/cove-of-the-ancestors?in=simon-franglen/sets/avatar-the-way-of-water-1',
-		answer: 'Avatar: The Way of Water - Cove of the Ancestors - Simon Franglen',
-	},
-	{
-		url: 'https://soundcloud.com/simon-franglen/the-tulkun-return?in=simon-franglen/sets/avatar-the-way-of-water-1',
-		answer: 'Avatar: The Way of Water - The Tulkun Return - Simon Franglen',
-	},
-	{
-		url: 'https://soundcloud.com/simon-franglen/the-hunt?in=simon-franglen/sets/avatar-the-way-of-water-1',
-		answer: 'Avatar: The Way of Water - The Hunt - Simon Franglen',
-	},
+	// {
+	// 	url: 'https://soundcloud.com/theweeknd/the-weeknd-nothing-is-lost-you?in=simon-franglen/sets/avatar-the-way-of-water-1',
+	// 	answer:
+	// 		'Avatar: The Way of Water - The Weeknd - Nothing Is Lost (You Give Me Strength) - Simon Franglen',
+	// },
+	// {
+	// 	url: 'https://soundcloud.com/simon-franglen/into-the-water?in=simon-franglen/sets/avatar-the-way-of-water-1',
+	// 	answer: 'Avatar: The Way of Water - Into the Water - Simon Franglen',
+	// },
+	// {
+	// 	url: 'https://soundcloud.com/simon-franglen/happiness-is-simple?in=simon-franglen/sets/avatar-the-way-of-water-1',
+	// 	answer: 'Avatar: The Way of Water - Happiness Is Simple - Simon Franglen',
+	// },
+	// {
+	// 	url: 'https://soundcloud.com/simon-franglen/a-new-star?in=simon-franglen/sets/avatar-the-way-of-water-1',
+	// 	answer: 'Avatar: The Way of Water - A New Star - Simon Franglen',
+	// },
+	// {
+	// 	url: 'https://soundcloud.com/simon-franglen/converging-paths?in=simon-franglen/sets/avatar-the-way-of-water-1',
+	// 	answer: 'Avatar: The Way of Water - Converging Paths - Simon Franglen',
+	// },
+	// {
+	// 	url: 'https://soundcloud.com/simon-franglen/rescue-and-loss?in=simon-franglen/sets/avatar-the-way-of-water-1',
+	// 	answer: 'Avatar: The Way of Water - Rescue and Loss - Simon Franglen',
+	// },
+	// {
+	// 	url: 'https://soundcloud.com/simon-franglen/family-is-our-fortress?in=simon-franglen/sets/avatar-the-way-of-water-1',
+	// 	answer: 'Avatar: The Way of Water - Family Is Our Fortress - Simon Franglen',
+	// },
+	// {
+	// 	url: 'https://soundcloud.com/simon-franglen/hometree?in=simon-franglen/sets/avatar-the-way-of-water-1',
+	// 	answer: 'Avatar: The Way of Water - Leaving Home - Simon Franglen',
+	// },
+	// {
+	// 	url: 'https://soundcloud.com/simon-franglen/the-way-of-water?in=simon-franglen/sets/avatar-the-way-of-water-1',
+	// 	answer: 'Avatar: The Way of Water - The Way of Water - Simon Franglen',
+	// },
+	// {
+	// 	url: 'https://soundcloud.com/simon-franglen/payakan?in=simon-franglen/sets/avatar-the-way-of-water-1',
+	// 	answer: 'Avatar: The Way of Water - Payakan - Simon Franglen',
+	// },
+	// {
+	// 	url: 'https://soundcloud.com/simon-franglen/mighty-eywa?in=simon-franglen/sets/avatar-the-way-of-water-1',
+	// 	answer: 'Avatar: The Way of Water - Mighty Eywa - Simon Franglen',
+	// },
+	// {
+	// 	url: 'https://soundcloud.com/simon-franglen/friends?in=simon-franglen/sets/avatar-the-way-of-water-1',
+	// 	answer: 'Avatar: The Way of Water - Friends - Simon Franglen',
+	// },
+	// {
+	// 	url: 'https://soundcloud.com/simon-franglen/cove-of-the-ancestors?in=simon-franglen/sets/avatar-the-way-of-water-1',
+	// 	answer: 'Avatar: The Way of Water - Cove of the Ancestors - Simon Franglen',
+	// },
+	// {
+	// 	url: 'https://soundcloud.com/simon-franglen/the-tulkun-return?in=simon-franglen/sets/avatar-the-way-of-water-1',
+	// 	answer: 'Avatar: The Way of Water - The Tulkun Return - Simon Franglen',
+	// },
+	// {
+	// 	url: 'https://soundcloud.com/simon-franglen/the-hunt?in=simon-franglen/sets/avatar-the-way-of-water-1',
+	// 	answer: 'Avatar: The Way of Water - The Hunt - Simon Franglen',
+	// },
 	{
 		url: 'https://soundcloud.com/nikki-blonsky/good-morning-baltimore?in=juliasuttonofficial/sets/hairspray-soundtrack-to-the',
 		answer: 'Hairspray - Good Morning Baltimore - Marc Shaiman',
@@ -6176,11 +6181,6 @@ let songs = [
 	{
 		url: 'https://soundcloud.com/hans-zimmer-official/the-fall?in=hans-zimmer-official/sets/dune-original-motion-picture',
 		answer: 'Dune - The Fall - Hans Zimmer',
-	},
-	{
-		url: 'https://soundcloud.com/toproduction/avatar-soundtrack-becoming-one',
-		answer:
-			'Avatar - Becoming One of "The People" Becoming One With Neytiri - James Horner',
 	},
 	{
 		url: 'https://soundcloud.com/jmbernard/end-credits-from-e-t-the-extra',
