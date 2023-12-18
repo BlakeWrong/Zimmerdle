@@ -55,6 +55,15 @@ let songs = [
 			'Avatar - Becoming One of "The People" Becoming One With Neytiri - James Horner',
 	},
 	{
+		url: 'https://soundcloud.com/harold-faltermeyer/top-gun-anthem?in=kennyloggins/sets/top-gun-soundtrack-1',
+		answer: 'Top Gun - Top Gun Anthem - Harold Faltermeyer',
+	},
+	// {
+	// 	url: 'https://soundcloud.com/harold-faltermeyer/main-titles-youve-been-called?in=harold-faltermeyer/sets/top-gun-maverick-music-from?#t=50',
+	// 	answer:
+	// 		'Top Gun: Maverick - Main Titles (You’ve Been Called Back to Top Gun) - Harold Faltermeyer',
+	// },
+	{
 		url: 'https://soundcloud.com/royal-philharmonic-orchestra/end-titles-from-the-shawshank?#t=30',
 		answer: 'The Shawshank Redemption - End Titles - Thomas Newman',
 	},
@@ -7164,60 +7173,56 @@ let songs = [
 		url: 'https://soundcloud.com/ludwiggoransson/the-algorithm?in=ludwiggoransson/sets/tenet-original-motion-1',
 		answer: 'TENET - THE ALGORITHM - Ludwig Goransson',
 	},
-	{
-		url: 'https://soundcloud.com/harold-faltermeyer/main-titles-youve-been-called?in=harold-faltermeyer/sets/top-gun-maverick-music-from',
-		answer:
-			'Top Gun: Maverick - Main Titles (You’ve Been Called Back to Top Gun) - Harold Faltermeyer',
-	},
-	{
-		url: 'https://soundcloud.com/kennyloggins/playing-with-the-boys?in=harold-faltermeyer/sets/top-gun-maverick-music-from',
-		answer:
-			'Top Gun: Maverick - Playing with the Boys (From "Top Gun" Original Soundtrack) - Harold Faltermeyer',
-	},
-	{
-		url: 'https://soundcloud.com/harold-faltermeyer/darkstar?in=harold-faltermeyer/sets/top-gun-maverick-music-from',
-		answer: 'Top Gun: Maverick - Darkstar - Harold Faltermeyer',
-	},
-	{
-		url: 'https://soundcloud.com/milesteller-sc/great-balls-of-fire-live?in=harold-faltermeyer/sets/top-gun-maverick-music-from',
-		answer: 'Top Gun: Maverick - Great Balls Of Fire (Live) - Harold Faltermeyer',
-	},
-	{
-		url: 'https://soundcloud.com/harold-faltermeyer/youre-where-you-belong-give-em?in=harold-faltermeyer/sets/top-gun-maverick-music-from',
-		answer:
-			'Top Gun: Maverick - You’re Where You Belong / Give ‘Em Hell - Harold Faltermeyer',
-	},
-	{
-		url: 'https://soundcloud.com/onerepublic/i-aint-worried?in=harold-faltermeyer/sets/top-gun-maverick-music-from',
-		answer: "Top Gun: Maverick - I Ain't Worried - Harold Faltermeyer",
-	},
-	{
-		url: 'https://soundcloud.com/harold-faltermeyer/dagger-one-is-hit-time-to-let?in=harold-faltermeyer/sets/top-gun-maverick-music-from',
-		answer:
-			'Top Gun: Maverick - Dagger One Is Hit / Time To Let Go - Harold Faltermeyer',
-	},
-	{
-		url: 'https://soundcloud.com/harold-faltermeyer/tally-two-whats-the-plan-f-14?in=harold-faltermeyer/sets/top-gun-maverick-music-from',
-		answer:
-			'Top Gun: Maverick - Tally Two / What’s The Plan / F-14 - Harold Faltermeyer',
-	},
-	{
-		url: 'https://soundcloud.com/harold-faltermeyer/the-man-the-legend-touchdown?in=harold-faltermeyer/sets/top-gun-maverick-music-from',
-		answer:
-			'Top Gun: Maverick - The Man, The Legend / Touchdown - Harold Faltermeyer',
-	},
-	{
-		url: 'https://soundcloud.com/harold-faltermeyer/penny-returns-interlude?in=harold-faltermeyer/sets/top-gun-maverick-music-from',
-		answer: 'Top Gun: Maverick - Penny Returns (Interlude) - Harold Faltermeyer',
-	},
-	{
-		url: 'https://soundcloud.com/ladygaga/hold-my-hand?in=harold-faltermeyer/sets/top-gun-maverick-music-from',
-		answer: 'Top Gun: Maverick - Hold My Hand - Harold Faltermeyer',
-	},
-	{
-		url: 'https://soundcloud.com/harold-faltermeyer/top-gun-anthem-1?in=harold-faltermeyer/sets/top-gun-maverick-music-from',
-		answer: 'Top Gun: Maverick - Top Gun Anthem - Harold Faltermeyer',
-	},
+
+	// {
+	// 	url: 'https://soundcloud.com/kennyloggins/playing-with-the-boys?in=harold-faltermeyer/sets/top-gun-maverick-music-from',
+	// 	answer:
+	// 		'Top Gun: Maverick - Playing with the Boys (From "Top Gun" Original Soundtrack) - Harold Faltermeyer',
+	// },
+	// {
+	// 	url: 'https://soundcloud.com/harold-faltermeyer/darkstar?in=harold-faltermeyer/sets/top-gun-maverick-music-from',
+	// 	answer: 'Top Gun: Maverick - Darkstar - Harold Faltermeyer',
+	// },
+	// {
+	// 	url: 'https://soundcloud.com/milesteller-sc/great-balls-of-fire-live?in=harold-faltermeyer/sets/top-gun-maverick-music-from',
+	// 	answer: 'Top Gun: Maverick - Great Balls Of Fire (Live) - Harold Faltermeyer',
+	// },
+	// {
+	// 	url: 'https://soundcloud.com/harold-faltermeyer/youre-where-you-belong-give-em?in=harold-faltermeyer/sets/top-gun-maverick-music-from',
+	// 	answer:
+	// 		'Top Gun: Maverick - You’re Where You Belong / Give ‘Em Hell - Harold Faltermeyer',
+	// },
+	// {
+	// 	url: 'https://soundcloud.com/onerepublic/i-aint-worried?in=harold-faltermeyer/sets/top-gun-maverick-music-from',
+	// 	answer: "Top Gun: Maverick - I Ain't Worried - Harold Faltermeyer",
+	// },
+	// {
+	// 	url: 'https://soundcloud.com/harold-faltermeyer/dagger-one-is-hit-time-to-let?in=harold-faltermeyer/sets/top-gun-maverick-music-from',
+	// 	answer:
+	// 		'Top Gun: Maverick - Dagger One Is Hit / Time To Let Go - Harold Faltermeyer',
+	// },
+	// {
+	// 	url: 'https://soundcloud.com/harold-faltermeyer/tally-two-whats-the-plan-f-14?in=harold-faltermeyer/sets/top-gun-maverick-music-from',
+	// 	answer:
+	// 		'Top Gun: Maverick - Tally Two / What’s The Plan / F-14 - Harold Faltermeyer',
+	// },
+	// {
+	// 	url: 'https://soundcloud.com/harold-faltermeyer/the-man-the-legend-touchdown?in=harold-faltermeyer/sets/top-gun-maverick-music-from',
+	// 	answer:
+	// 		'Top Gun: Maverick - The Man, The Legend / Touchdown - Harold Faltermeyer',
+	// },
+	// {
+	// 	url: 'https://soundcloud.com/harold-faltermeyer/penny-returns-interlude?in=harold-faltermeyer/sets/top-gun-maverick-music-from',
+	// 	answer: 'Top Gun: Maverick - Penny Returns (Interlude) - Harold Faltermeyer',
+	// },
+	// {
+	// 	url: 'https://soundcloud.com/ladygaga/hold-my-hand?in=harold-faltermeyer/sets/top-gun-maverick-music-from',
+	// 	answer: 'Top Gun: Maverick - Hold My Hand - Harold Faltermeyer',
+	// },
+	// {
+	// 	url: 'https://soundcloud.com/harold-faltermeyer/top-gun-anthem-1?in=harold-faltermeyer/sets/top-gun-maverick-music-from',
+	// 	answer: 'Top Gun: Maverick - Top Gun Anthem - Harold Faltermeyer',
+	// },
 	{
 		url: 'https://soundcloud.com/ludwiggoransson-sc/fission?in=ludwiggoransson-sc/sets/oppenheimer-original-motion',
 		answer: 'Oppenheimer - Fission - Ludwig Göransson',
