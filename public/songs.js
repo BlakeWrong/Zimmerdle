@@ -72,6 +72,10 @@ let songs = [
 		answer: 'Soul - Epiphany - Trent Reznor and Atticus Ross',
 	},
 	{
+		url: 'https://soundcloud.com/markronson/pink-barbie-opening-theme?in=markronson/sets/barbie-score-from-the-original',
+		answer: 'Barbie - Pink ("Barbie” Opening Theme) - Mark Ronson',
+	},
+	{
 		url: 'https://soundcloud.com/mutesong/max-richter-on-the-nature-of?#t=85',
 		answer: 'Shutter Island - On the Nature of Daylight - Max Richter',
 	},
@@ -7404,78 +7408,74 @@ let songs = [
 		url: 'https://soundcloud.com/pete-anthony-official/end-credits-album-version?in=spider-manmotionpicture/sets/spider-man-original-motion',
 		answer: 'Spider-Man - End Credits - Spider-Man (Motion Picture)',
 	},
-	{
-		url: 'https://soundcloud.com/markronson/creation-of-barbie?in=markronson/sets/barbie-score-from-the-original',
-		answer: 'Barbie - Creation of Barbie - Mark Ronson',
-	},
-	{
-		url: 'https://soundcloud.com/markronson/pink-barbie-opening-theme?in=markronson/sets/barbie-score-from-the-original',
-		answer: 'Barbie - Pink ("Barbie” Opening Theme) - Mark Ronson',
-	},
-	{
-		url: 'https://soundcloud.com/markronson/beach-off?in=markronson/sets/barbie-score-from-the-original',
-		answer: 'Barbie - Beach Off - Mark Ronson',
-	},
-	{
-		url: 'https://soundcloud.com/markronson/ken-thinks?in=markronson/sets/barbie-score-from-the-original',
-		answer: 'Barbie - Ken Thinks - Mark Ronson',
-	},
-	{
-		url: 'https://soundcloud.com/markronson/stairway-to-weird-barbie?in=markronson/sets/barbie-score-from-the-original',
-		answer: 'Barbie - Stairway to Weird Barbie - Mark Ronson',
-	},
-	{
-		url: 'https://soundcloud.com/markronson/thoughts-of-death?in=markronson/sets/barbie-score-from-the-original',
-		answer: 'Barbie - Thoughts of Death - Mark Ronson',
-	},
-	{
-		url: 'https://soundcloud.com/markronson/send-me-through-the-portal?in=markronson/sets/barbie-score-from-the-original',
-		answer: 'Barbie - Send Me Through the Portal - Mark Ronson',
-	},
-	{
-		url: 'https://soundcloud.com/markronson/ken-makes-a-discovery?in=markronson/sets/barbie-score-from-the-original',
-		answer: 'Barbie - Ken Makes a Discovery - Mark Ronson',
-	},
-	{
-		url: 'https://soundcloud.com/markronson/bus-stop-billie?in=markronson/sets/barbie-score-from-the-original',
-		answer: 'Barbie - Bus Stop Billie - Mark Ronson',
-	},
-	{
-		url: 'https://soundcloud.com/markronson/mattel?in=markronson/sets/barbie-score-from-the-original',
-		answer: 'Barbie - Mattel - Mark Ronson',
-	},
-	{
-		url: 'https://soundcloud.com/markronson/meeting-ruth?in=markronson/sets/barbie-score-from-the-original',
-		answer: 'Barbie - Meeting Ruth - Mark Ronson',
-	},
-	{
-		url: 'https://soundcloud.com/markronson/lose-these-chuckleheads?in=markronson/sets/barbie-score-from-the-original',
-		answer: 'Barbie - Lose These Chuckleheads - Mark Ronson',
-	},
-	{
-		url: 'https://soundcloud.com/markronson/you-failed-me?in=markronson/sets/barbie-score-from-the-original',
-		answer: 'Barbie - You Failed Me! - Mark Ronson',
-	},
-	{
-		url: 'https://soundcloud.com/markronson/alan-vs-kens?in=markronson/sets/barbie-score-from-the-original',
-		answer: 'Barbie - Allan vs Kens - Mark Ronson',
-	},
-	{
-		url: 'https://soundcloud.com/markronson/deprogramming?in=markronson/sets/barbie-score-from-the-original',
-		answer: 'Barbie - Deprogramming - Mark Ronson',
-	},
-	{
-		url: 'https://soundcloud.com/markronson/warmth-of-your-gaze?in=markronson/sets/barbie-score-from-the-original',
-		answer: 'Barbie - Warmth of Your Gaze - Mark Ronson',
-	},
-	{
-		url: 'https://soundcloud.com/markronson/an-ending?in=markronson/sets/barbie-score-from-the-original',
-		answer: 'Barbie - An Ending - Mark Ronson',
-	},
-	{
-		url: 'https://soundcloud.com/markronson/i-dont-have-an-ending?in=markronson/sets/barbie-score-from-the-original',
-		answer: "Barbie - I Don't Have an Ending - Mark Ronson",
-	},
+	// {
+	// 	url: 'https://soundcloud.com/markronson/creation-of-barbie?in=markronson/sets/barbie-score-from-the-original',
+	// 	answer: 'Barbie - Creation of Barbie - Mark Ronson',
+	// },
+	// {
+	// 	url: 'https://soundcloud.com/markronson/beach-off?in=markronson/sets/barbie-score-from-the-original',
+	// 	answer: 'Barbie - Beach Off - Mark Ronson',
+	// },
+	// {
+	// 	url: 'https://soundcloud.com/markronson/ken-thinks?in=markronson/sets/barbie-score-from-the-original',
+	// 	answer: 'Barbie - Ken Thinks - Mark Ronson',
+	// },
+	// {
+	// 	url: 'https://soundcloud.com/markronson/stairway-to-weird-barbie?in=markronson/sets/barbie-score-from-the-original',
+	// 	answer: 'Barbie - Stairway to Weird Barbie - Mark Ronson',
+	// },
+	// {
+	// 	url: 'https://soundcloud.com/markronson/thoughts-of-death?in=markronson/sets/barbie-score-from-the-original',
+	// 	answer: 'Barbie - Thoughts of Death - Mark Ronson',
+	// },
+	// {
+	// 	url: 'https://soundcloud.com/markronson/send-me-through-the-portal?in=markronson/sets/barbie-score-from-the-original',
+	// 	answer: 'Barbie - Send Me Through the Portal - Mark Ronson',
+	// },
+	// {
+	// 	url: 'https://soundcloud.com/markronson/ken-makes-a-discovery?in=markronson/sets/barbie-score-from-the-original',
+	// 	answer: 'Barbie - Ken Makes a Discovery - Mark Ronson',
+	// },
+	// {
+	// 	url: 'https://soundcloud.com/markronson/bus-stop-billie?in=markronson/sets/barbie-score-from-the-original',
+	// 	answer: 'Barbie - Bus Stop Billie - Mark Ronson',
+	// },
+	// {
+	// 	url: 'https://soundcloud.com/markronson/mattel?in=markronson/sets/barbie-score-from-the-original',
+	// 	answer: 'Barbie - Mattel - Mark Ronson',
+	// },
+	// {
+	// 	url: 'https://soundcloud.com/markronson/meeting-ruth?in=markronson/sets/barbie-score-from-the-original',
+	// 	answer: 'Barbie - Meeting Ruth - Mark Ronson',
+	// },
+	// {
+	// 	url: 'https://soundcloud.com/markronson/lose-these-chuckleheads?in=markronson/sets/barbie-score-from-the-original',
+	// 	answer: 'Barbie - Lose These Chuckleheads - Mark Ronson',
+	// },
+	// {
+	// 	url: 'https://soundcloud.com/markronson/you-failed-me?in=markronson/sets/barbie-score-from-the-original',
+	// 	answer: 'Barbie - You Failed Me! - Mark Ronson',
+	// },
+	// {
+	// 	url: 'https://soundcloud.com/markronson/alan-vs-kens?in=markronson/sets/barbie-score-from-the-original',
+	// 	answer: 'Barbie - Allan vs Kens - Mark Ronson',
+	// },
+	// {
+	// 	url: 'https://soundcloud.com/markronson/deprogramming?in=markronson/sets/barbie-score-from-the-original',
+	// 	answer: 'Barbie - Deprogramming - Mark Ronson',
+	// },
+	// {
+	// 	url: 'https://soundcloud.com/markronson/warmth-of-your-gaze?in=markronson/sets/barbie-score-from-the-original',
+	// 	answer: 'Barbie - Warmth of Your Gaze - Mark Ronson',
+	// },
+	// {
+	// 	url: 'https://soundcloud.com/markronson/an-ending?in=markronson/sets/barbie-score-from-the-original',
+	// 	answer: 'Barbie - An Ending - Mark Ronson',
+	// },
+	// {
+	// 	url: 'https://soundcloud.com/markronson/i-dont-have-an-ending?in=markronson/sets/barbie-score-from-the-original',
+	// 	answer: "Barbie - I Don't Have an Ending - Mark Ronson",
+	// },
 	{
 		url: 'https://soundcloud.com/markronson/what-was-i-made-for-epilogue?in=markronson/sets/barbie-score-from-the-original',
 		answer:
