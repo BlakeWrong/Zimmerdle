@@ -112,6 +112,10 @@ let songs = [
 		answer: 'Interstellar - Coward - Hans Zimmer',
 	},
 	{
+		url: 'https://soundcloud.com/thomas-newman-official/nemo-egg-main-title-score?in=3312w617/sets/finding-nemo-original-motion',
+		answer: 'Finding Nemo - Nemo Egg (Main Title) -  Thomas Newman',
+	},
+	{
 		url: 'https://soundcloud.com/hans-zimmer-official/detach?in=hans-zimmer-official/sets/interstellar-original-motion-3',
 		answer: 'Interstellar - Detach - Hans Zimmer',
 	},
@@ -4512,10 +4516,6 @@ let songs = [
 	{
 		url: 'https://soundcloud.com/thomas-newman-official/barracuda-score?in=3312w617/sets/finding-nemo-original-motion',
 		answer: 'Finding Nemo - Barracuda -  Thomas Newman',
-	},
-	{
-		url: 'https://soundcloud.com/thomas-newman-official/nemo-egg-main-title-score?in=3312w617/sets/finding-nemo-original-motion',
-		answer: 'Finding Nemo - Nemo Egg (Main Title) -  Thomas Newman',
 	},
 	{
 		url: 'https://soundcloud.com/thomas-newman-official/first-day-score?in=3312w617/sets/finding-nemo-original-motion',
