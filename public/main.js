@@ -25,6 +25,13 @@ var app = (function () {
 	// const startDate = new Date(today);
 	// startDate.setDate(today.getDate() - songsArrayLength + 1);
 	// const HEARDLE_START_DATE = startDate.toISOString().split('T')[0];
+	// change mockedDate in the browser console to test new dates
+	// 						localStorage.setItem('mockDate', '2024-01-10'); // Replace with desired test date
+	//                      location.reload(); // Reload to apply the mocked date
+	//						localStorage.removeItem('mockDate');
+	//        				location.reload(); // Reload to revert to the real date
+
+	const mockedDate = localStorage.getItem('mockedDate');
 	const songsArrayLength = songs.length;
 
 	const HEARDLE_START_DATE = '2023-12-05';
@@ -9450,19 +9457,44 @@ var app = (function () {
 		};
 	}
 
+	function getRandomSongIndex(songs) {
+		// Get today's date as YYYY-MM-DD string
+		function getTodayDate() {
+			return mockedDate || new Date().toISOString().split('T')[0];
+		}
+		const today = getTodayDate();
+
+		// Simple hash function to generate a deterministic value from today's date
+		function hashCode(str) {
+			return str.split('').reduce((acc, char) => {
+				return ((acc << 5) - acc + char.charCodeAt(0)) | 0;
+			}, 0);
+		}
+
+		// Generate a hash from today's date
+		const hash = hashCode(today);
+
+		// Use the hash to determine the song index
+		const randomIndex = Math.abs(hash) % songs.length;
+
+		return randomIndex;
+	}
+
 	function jn(e, t, n) {
 		let r, s, i, o;
 		u(e, Cn, (e) => n(26, (r = e))), u(e, On, (e) => n(27, (s = e)));
 		// a is days since start
-		let daysSinceStart = x(Vt.startDate),
-			l = {
-				url: s[daysSinceStart].url,
-				correctAnswer: s[daysSinceStart].answer,
-				id: daysSinceStart,
-				guessList: [],
-				hasFinished: !1,
-				hasStarted: !1,
-			};
+		let randomSongIndex = getRandomSongIndex(s);
+		let selectedSong = s[randomSongIndex];
+		let currentDay = new Date().toISOString().split('T')[0];
+		let l = {
+			url: selectedSong.url,
+			correctAnswer: selectedSong.answer,
+			id: randomSongIndex,
+			guessList: [],
+			hasFinished: !1,
+			hasStarted: !1,
+		};
 		var c, d;
 		void 0 !== document.hidden
 			? ((c = 'hidden'), (d = 'visibilitychange'))
@@ -9475,9 +9507,22 @@ var app = (function () {
 				document.addEventListener(
 					d,
 					function () {
-						document[c] || daysSinceStart === x(Vt.startDate);
+						if (!document[c]) {
+							const newDay = new Date().toISOString().split('T')[0];
+
+							if (newDay !== currentDay) {
+								currentDay = newDay;
+
+								// Recalculate the random song index for the new day
+								const randomSongIndex = getRandomSongIndex(s);
+								const selectedSong = s[randomSongIndex];
+
+								// Update the game state (e.g., reload or dynamically update)
+								location.reload(true); // Optional: reload the page for simplicity
+							}
+						}
 					},
-					!1
+					false
 				);
 		let h,
 			f,
@@ -9502,7 +9547,7 @@ var app = (function () {
 				gameIsActive: !1,
 				musicIsPlaying: !1,
 				playerIsReady: !1,
-				isPrime: daysSinceStart >= 7,
+				isPrime: randomSongIndex >= 7,
 			};
 		let k = {
 			isActive: !1,
@@ -9537,7 +9582,7 @@ var app = (function () {
 			w,
 			y,
 			k,
-			daysSinceStart,
+			randomSongIndex,
 			p,
 			function (e) {
 				let t = e.detail.currentSong;
